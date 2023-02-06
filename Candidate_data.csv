@@ -1,0 +1,1043 @@
+index,student,state,district_num,formatted_dist_num,abbrev,district,candidate,party,website,twitter_handle,incumbent,age,gender,marital_status,white_non_hispanic,hispanic,black,partisian_lean_pvi,opposed,pct_urban,income,region
+0,alex,Alabama,5,5,AL,AL05,Mo Brooks,Republican,https://brooks.house.gov/,RepMoBrooks,T,64.0,M,Married,T,F,F,R+18,T,65.53,51960.0,S
+1,alex,Alabama,5,5,AL,AL05,Peter Joffrion,Democratic,https://www.peterjoffrion.com/,peter_joffrion,F,60.0,M,Single,T,F,F,R+18,T,65.53,51960.0,S
+2,alex,California,10,10,CA,CA10,Jeff Denham,Republican,https://denham.house.gov/,RepJeffDenham,T,51.0,M,Married,T,F,F,EVEN,T,,80817.0,W
+3,alex,California,10,10,CA,CA10,Josh Harder,Democratic,https://www.harderforcongress.com/,joshua_harder,F,30.0,M,Married,T,F,F,EVEN,T,,80817.0,W
+4,alex,California,27,27,CA,CA27,Judy Chu,Democratic,https://chu.house.gov/,RepJudyChu,T,65.0,F,Married,F,F,F,D+16,T,,63561.0,W
+5,alex,California,27,27,CA,CA27,Bryan Witt,Democratic,http://wittforprogress.com/,wittforprogress,F,,M,Married,T,F,F,D+16,T,,63562.0,W
+6,alex,California,38,38,CA,CA38,Ryan Downing,Republican,https://sites.google.com/site/electryandowning/,RyanDowning2018,F,,M,,F,F,T,D+17,T,,59781.0,W
+7,alex,California,38,38,CA,CA38,Linda Sánchez,Democratic,https://lindasanchez.house.gov/,RepLindaSanchez,T,49.0,F,Married,F,T,F,D+17,T,,59781.0,W
+8,alex,California,42,42,CA,CA42,Ken Calvert,Republican,https://calvert.house.gov/,KenCalvert,T,65.0,M,,T,F,F,R+9,T,,71073.0,W
+9,alex,California,42,42,CA,CA42,Julia Peacock,Democratic,http://peacockforcongress.com/,peacock4ca42,F,,F,Married,T,F,F,R+9,T,,71073.0,W
+10,alex,Florida,20,20,FL,FL20,Alcee Hastings,Democratic,https://alceehastings.house.gov/,RepHastingsFL,T,82.0,M,Single,F,F,T,D+11,F,99.09,35941.0,S
+11,alex,Florida,23,23,FL,FL23,Tim Canova,No Party Affiliation,https://timcanova.com/,Tim_Canova,F,58.0,M,,T,F,F,D+11,T,99.96,50581.0,S
+12,alex,Florida,23,23,FL,FL23,Don Endriss,No Party Afiliation,http://www.donendriss.com/,SoFlaDon,F,,M,,T,F,F,D+11,T,99.96,50581.0,S
+13,alex,Florida,23,23,FL,FL23,Joseph Kaufman,Republican,https://www.kaufmanforcongress.com/,JoeKaufmanUSA,F,48.0,M,Married,T,F,F,D+11,T,99.96,50581.0,S
+14,alex,Florida,23,23,FL,FL23,Debbie Wasserman Schultz,Democratic,https://wassermanschultz.house.gov/,DWStweets,T,52.0,F,Married,T,F,F,D+11,T,99.96,50581.0,S
+15,alex,Florida,27,27,FL,FL27,Mayra Joli,No Party Afiliation,https://mayrajoliforcongress.com/,JoliMayra,F,,F,,F,F,T,D+5,T,99.98,38679.0,S
+16,alex,Florida,27,27,FL,FL27,Maria Elvira Salazar,Republican,https://mariaelvira.com/,MaElviraSalazar,F,56.0,F,Single,F,T,F,D+5,T,99.98,38679.0,S
+17,alex,Florida,27,27,FL,FL27,Donna Shalala,Democratic,https://donnashalala.com/,DonnaShalala,T,77.0,F,,F,T,F,D+5,T,99.98,38679.0,S
+18,alex,Georgia,8,8,GA,GA08,Austin Scott,Republican,https://austinscott.house.gov/,AustinScottGA08,T,48.0,M,Married,T,F,F,R+15,F,56.7,,S
+19,alex,Georgia,9,9,GA,GA09,Doug Collins,Republican,https://dougcollins.house.gov/,RepDougCollins,T,52.0,M,Married,T,F,F,R+31,T,42.68,41786.0,S
+20,alex,Georgia,9,9,GA,GA09,Robin Gilmer,Libertarian,https://www.robingilmer.com/,,F,,F,,T,F,F,R+31,T,42.68,41786.0,S
+21,alex,Georgia,9,9,GA,GA09,Josh McCall,Democratic,https://mccallforall.com/,Mccallforall,F,,M,,T,F,F,R+31,T,42.68,41786.0,S
+22,alex,Hawaii,1,1,HI,HI01,Zachary Burd,Green,https://www.zachburdlaw.com/,burd_zach,F,,M,Single,T,F,F,D+17,T,99.27,65602.0,W
+23,alex,Hawaii,1,1,HI,HI01,Ed Case,Democratic,https://www.edcase.com/,EdCaseHawaii,F,,M,Married,T,F,F,D+17,T,99.27,65602.0,W
+24,alex,Hawaii,1,1,HI,HI01,Campbell Cavasso,Republican,https://www.cam4congress.com/,camcavasso,F,,M,Married,T,F,F,D+17,T,99.27,65602.0,W
+25,alex,Hawaii,1,1,HI,HI01,Calvin Griffin,Nonpartisan,,,F,,M,,,,,D+17,T,99.27,65602.0,W
+26,alex,Hawaii,1,1,HI,HI01,Michelle Tippens,Libertarian,https://www.michelleindahouse.com/,michelletippens,F,,F,Married,T,F,F,D+17,T,99.27,65602.0,W
+27,alex,Illinois,12,12,IL,IL12,Randall Auxier,Green,https://randyforcongress.org/,Randy4SoIL,F,,M,Married,T,F,F,R+5,T,75.4,42181.0,MW
+28,alex,Illinois,12,12,IL,IL12,Mike Bost,Republican,https://bost.house.gov/,RepBost,T,57.0,M,Married,T,F,F,R+5,T,75.4,42181.0,MW
+29,alex,Illinois,12,12,IL,IL12,Brendan Kelly,Democratic,https://brendan4southernil.com/,Kelly4SouthrnIL,F,41.0,M,Married,T,F,F,R+5,T,75.4,42181.0,MW
+30,alex,Illinois,16,16,IL,IL16,Sara Dady,Democratic,https://www.saradadyforcongress.com/,Sara4Congress,F,,F,Married,T,F,F,R+8,T,71,52101.0,MW
+31,alex,Illinois,16,16,IL,IL16,Adam Kinzinger,Republican,https://kinzinger.house.gov/,RepKinzinger,T,40.0,M,Married,T,F,F,R+8,T,71,52101.0,MW
+32,alex,Iowa,3,3,IA,IA03,Cindy Axne,Democratic,https://cindyaxneforcongress.com/,Axne4Congress,F,,F,Married,T,F,F,R+18,T,73.07,43176.0,MW
+33,alex,Iowa,3,3,IA,IA03,"Mark G Elworth, Jr",Legal Medical Now,markjr4gov.com,markjr4gov,F,,M,Married,T,F,F,R+18,T,73.07,43176.0,MW
+34,alex,Iowa,3,3,IA,IA03,Bryan Jack Holder,Libertarian,http://www.holderforiowa.com/,,F,,M,Single,T,F,F,R+18,T,73.07,43176.0,MW
+35,alex,Iowa,3,3,IA,IA03,Paul Knupp,Green,https://knuppforcongress.org/,dr_paul_knupp,F,,M,Single,T,F,F,R+18,T,73.07,43176.0,MW
+36,alex,Iowa,3,3,IA,IA03,David Young,Republican,https://davidyoung.house.gov/,RepDavidYoung,T,50.0,M,Single,T,F,F,R+18,T,73.07,43176.0,MW
+37,alex,Kentucky,1,1,KY,KY01,James Comer,Republican,https://comer.house.gov/,KYComer,T,46.0,M,Single,T,F,F,R+23,T,36.88,40253.0,S
+38,alex,Kentucky,1,1,KY,KY01,Paul Walker,Democratic,https://www.votepaulwalker.com/,votepaulwalker,F,,M,,T,F,F,R+23,T,36.88,40253.0,S
+39,alex,Michigan,4,4,MI,MI04,Jerry Hilliard,Democratic,http://www.hilliardforcongress.com/,HilliardForCong,F,,M,,T,F,F,R+10,T,36.67,42586.0,MW
+40,alex,Michigan,4,4,MI,MI04,John Moolenaar,Republican,https://moolenaar.house.gov/,RepMoolenaar,T,57.0,M,Married,T,F,F,R+10,T,36.67,42586.0,MW
+41,alex,Michigan,5,5,MI,MI05,Dan Kildee,Democratic,https://dankildee.house.gov/,RepDanKildee,T,60.0,M,Married,T,F,F,D+5,T,77.49,42800.0,MW
+42,alex,Michigan,5,5,MI,MI05,Travis Wines,Republican,https://www.facebook.com/winesforcongress/,TWines4congress,F,,M,,T,F,F,D+5,T,77.49,42800.0,MW
+43,alex,Michigan,12,12,MI,MI12,Debbie Dingell,Democratic,https://debbiedingell.house.gov/,RepDebDingell,T,64.0,F,Married,T,F,F,D+14,T,,48575.0,MW
+44,alex,Michigan,12,12,MI,MI12,Jeff Jones,Republican,https://www.jeffjones4congress.com/,,F,56.0,M,,T,F,F,D+14,T,,48575.0,MW
+45,alex,Michigan,12,12,MI,MI12,Steve Young,Green,https://ballotpedia.org/Steve_Young_(Michigan),SYoung4House,F,,M,,T,F,F,D+14,T,,48575.0,MW
+46,alex,Minnesota,5,5,MN,MN05,Ilhan Omar,Democratic,https://www.ilhanomar.com/,IlhanMN,T,36.0,F,Married,F,F,F,D+26,T,100,59115.0,MW
+47,alex,Minnesota,5,5,MN,MN05,Jennifer Zielinski,Republican,http://jen4us.com/,,F,,F,,T,F,F,D+26,T,100,59115.0,MW
+48,alex,Missouri,5,5,MO,MO05,Emanuel Cleaver,Democratic,https://cleaver.house.gov/,repcleaver,T,73.0,M,Married,F,F,T,D+7,T,,42572.0,MW
+49,alex,Missouri,5,5,MO,MO05,Maurice Copeland,Green,https://www.missourigreenparty.org/copeland_for_congress,MauriceCopeland,F,,M,,T,F,F,D+7,T,,42572.0,MW
+50,alex,Missouri,5,5,MO,MO05,E. C. Fredland,Constitution,https://www.ourcampaigns.com/CandidateDetail.html?CandidateID=410475,,,,,,,,,D+7,T,,42572.0,MW
+51,alex,Missouri,5,5,MO,MO05,Fredland,Constitution,,,,,,,,,,D+7,T,,42572.0,MW
+52,alex,Missouri,5,5,MO,MO05,Alexander Howell,Libertarian,https://www.alexanderhowell.com/,AlexanderFromKC,F,,M,,T,F,F,D+7,T,,42572.0,MW
+53,alex,Missouri,5,5,MO,MO05,Jacob Turk,Republican,http://www.turkforcongress.com/,Jacobturk,F,,M,Married,T,F,F,D+7,T,,42572.0,MW
+54,alex,Nebraska,3,3,NE,NE03,Adrian Smith,Republican,https://adriansmith.house.gov/,RepAdrianSmith,T,47.0,M,Married,T,F,F,R+27,T,46.21,33866.0,MW
+55,alex,Nebraska,3,3,NE,NE03,Paul Theobald,Democratic,https://www.theobaldforcongress.com/,Paul_Theobald_,F,,M,Married,T,F,F,R+27,T,46.21,33866.0,MW
+56,alex,New Jersey,5,5,NJ,NJ05,Josh Gottheimer,Democratic,https://josh4congress.com/,JoshGottheimer,T,43.0,M,Married,T,F,F,R+8,T,82.83,72781.0,NE
+57,alex,New Jersey,5,5,NJ,NJ05,John McCann,Republican,https://www.mccannforcongress.com/,realJohnMccan,F,,M,Married,T,F,F,R+8,T,82.83,72781.0,NE
+58,alex,New York,6,6,NY,NY06,Tom Hillgardner,Green,http://www.tomhillgardnerforcongress.org/,Tom4CongressNY6,F,60.0,M,Single,T,F,F,D+16,T,,55043.0,NE
+59,alex,New York,6,6,NY,NY06,Grace Meng,Democratic,https://meng.house.gov/,RepGraceMeng,T,43.0,F,Married,F,F,F,D+16,T,,55043.0,NE
+60,alex,New York,24,24,NY,NY24,Dana Balter,Democratic,https://electdanabalter.com/,dana_balter,F,,F,Married,T,F,F,D+3,T,,51724.0,NE
+61,alex,New York,24,24,NY,NY24,Bill Bass,Independent,https://www.billbassforcongress.com/,BillforNY24,F,34.0,M,Married,T,F,F,D+3,T,,51724.0,NE
+62,alex,New York,24,24,NY,NY24,John Katko,Republican,https://katko.house.gov/,RepJohnKatko,T,55.0,M,Married,T,F,F,D+3,T,,51724.0,NE
+63,alex,North Carolina,8,8,NC,NC08,Richard Hudson,Republican,https://hudson.house.gov/,RepRichHudson,T,46.0,M,Married,T,F,F,R+8,T,71.28,38390.0,S
+64,alex,North Carolina,8,8,NC,NC08,Frank McNeill,Democratic,https://mcneill4congress.com/,Frank4NC,F,,M,Married,T,F,F,R+8,T,71.28,38390.0,S
+65,alex,Ohio,5,5,OH,OH05,Michael Galbraith,Democratic,https://galbraithforcongress.com/,oh5forgalbraith,F,,M,Married,T,F,F,R+11,T,62.27,57171.0,MW
+66,alex,Ohio,5,5,OH,OH05,Bob Latta,Republican,https://lattaforcongress.com/,boblatta,T,62.0,M,Married,T,F,F,R+11,T,62.27,57171.0,MW
+67,alex,Ohio,11,11,OH,OH11,Marcia Fudge,Democratic,http://marcialfudge.com/,repmarciafudge,T,65.0,F,,F,T,F,D+32,T,100,31331.0,MW
+68,alex,Ohio,11,11,OH,OH11,Beverly Goldstein,Republican,http://beverly4congress.com/,BevGoldstein,,70.0,F,Married,T,F,F,D+32,T,100,31331.0,MW
+69,alex,Pennsylvania,2,2,PA,PA02,Brendan Boyle,Democratic,https://voteboyle.com/,RepBrendanBoyle,T,41.0,M,Married,T,F,F,D+25,T,100,30646.0,NE
+70,alex,Pennsylvania,2,2,PA,PA02,David Torres,Republican,https://www.torres2018.org/,dtorres4cong,F,,M,,F,T,F,D+25,T,100,30646.0,NE
+71,alex,Pennsylvania,11,11,PA,PA11,Drew Anderson,Independent,,,,,,,,,,R+14,T,,49085.0,NE
+72,alex,Pennsylvania,11,11,PA,PA11,Jess King,Democratic,https://jesskingforcongress.com/,jessforcongress,F,,F,Married,T,F,F,R+14,T,,49085.0,NE
+73,alex,Pennsylvania,11,11,PA,PA11,Lloyd Smucker,Republican,http://www.electsmuckerpa.com/,repsmucker,T,54.0,M,Married,T,F,F,R+14,T,,49085.0,NE
+74,alex,South Carolina,1,1,SC,SC01,Katie Arrington,Republican,https://www.votekatiearrington.com/,karringtonsc,T,47.0,F,Married,T,F,F,R+10,T,,40713.0,S
+75,alex,South Carolina,1,1,SC,SC01,Joe Cunningham,Democratic,https://www.joecunninghamforcongress.com/?utm_campaign=JCFC_Brand&utm_medium=CPC&utm_source=AW,joecunninghamsc,F,,M,,T,F,F,R+10,T,,40713.0,S
+76,alex,South Carolina,5,5,SC,SC05,Michael Chandler,Constitution,,,,,M,,,,,R+9,T,,44685.0,S
+77,alex,South Carolina,5,5,SC,SC05,Ralph Norman,Republican,https://norman.house.gov/,repralphnorman,T,65.0,M,Married,T,F,F,R+9,T,,44685.0,S
+78,alex,South Carolina,5,5,SC,SC05,Archie Parnell,Democratic,https://www.facebook.com/ArchieParnellforCongress/,archie4congress,F,67.0,M,Married,T,F,F,R+9,T,,44685.0,S
+79,alex,Texas,7,7,TX,TX07,John Culberson,Republican,https://culberson.house.gov/,johnculberson,T,62.0,M,Married,T,F,F,R+7,T,99.99,71183.0,S
+80,alex,Texas,7,7,TX,TX07,Lizzie Pannill Fletcher,Democratic,https://lizziefletcher.com/,lizzie4congress,F,,F,Married,T,F,F,R+7,T,99.99,71183.0,S
+81,alex,Texas,9,9,TX,TX09,Al Green,Democratic,https://algreen.house.gov/,RepAlGreen,T,71.0,M,,F,F,F,D+29,T,99.97,46068.0,S
+82,alex,Texas,9,9,TX,TX09,Benjamin Hernandez,Independent,https://www.benjaminforcongress.com/,BenjaminTX09,F,,M,,F,T,F,D+29,T,99.97,46068.0,S
+83,alex,Texas,9,9,TX,TX09,Phil Kurtz,Libertarian,https://philkurtzforcongress.nationbuilder.com/,PhilKurtz3,F,,M,,T,F,F,D+29,T,99.97,46068.0,S
+84,alex,Texas,9,9,TX,TX09,Kesha Rogers,Independent,https://www.kesharogers.com/,KeshaRogersTX,F,41.0,F,Married,F,F,T,D+29,T,99.97,46068.0,S
+85,alex,Texas,13,13,TX,TX13,Calvin DeWeese,Libertarian,,,F,,M,,T,F,F,R+33,T,68.88,50150.0,S
+86,alex,Texas,13,13,TX,TX13,Greg Sagan,Democratic,https://gregsagan2018.org/,gtsagan,F,,M,Married,T,F,F,R+33,T,68.88,50150.0,S
+87,alex,Texas,13,13,TX,TX13,Mac Thornberry,Republican,https://thornberry.house.gov/,MacThornberry,T,60.0,M,Married,T,F,F,R+33,T,68.88,50150.0,S
+88,alex,Texas,14,14,TX,TX14,Adrienne Bell,Democratic,https://www.bell2018.com/,AdrBell,F,,F,,F,F,T,R+12,T,86.57,58103.0,S
+89,alex,Texas,14,14,TX,TX14,Don Conley III,Libertarian,,,F,,M,,T,F,F,R+12,T,86.57,58103.0,S
+90,alex,Texas,14,14,TX,TX14,Randy Weber,Republican,https://weber.house.gov/,TXRandy14,T,65.0,M,Married,T,F,F,R+12,T,86.57,58103.0,S
+91,alex,Texas,28,28,TX,TX28,Henry Cuellar,Democratic,https://cuellar.house.gov/,RepCuellar,T,63.0,M,Married,F,T,F,D+9,T,82.75,44021.0,S
+92,alex,Texas,28,28,TX,TX28,Arthur Thomas IV,Libertarian,https://www.amtiv.com/,,F,40.0,M,,T,F,F,D+9,T,82.75,44021.0,S
+93,alex,Texas,32,32,TX,TX32,Colin Allred,Democratic,https://www.colinallred.com/,CollinAllredTX,F,35.0,M,Married,F,F,T,R+5,T,99.85,70119.0,S
+94,alex,Texas,32,32,TX,TX32,Melina Baker,Libertarian,https://www.baker4congress.com/,melina4congress,F,,F,,T,F,F,R+5,T,99.85,70119.0,S
+95,alex,Texas,32,32,TX,TX32,Pete Sessions,Republican,https://sessions.house.gov/,PeteSessions,T,63.0,M,Married,T,F,F,R+5,T,99.85,70119.0,S
+96,alex,Vermont,at-large,0,VT,VT00,H Brooke Paige,Republican,http://www.brookepaige.us/,,F,,M,,,,,D+15,T,,51755.0,NE
+97,alex,Vermont,at-large,0,VT,VT00,Peter Welch,Democratic,https://welch.house.gov/,Peterwelch,T,71.0,M,Married,T,F,F,D+15,T,,51755.0,NE
+98,alex,West Virginia,2,2,WV,WV02,Daniel Lutz,Mountain,,,,,M,,T,F,F,R+17,T,,33198.0,S
+99,alex,West Virginia,2,2,WV,WV02,Alex Mooney,Republican,https://mooney.house.gov/,RepAlexMooney,T,47.0,M,Married,T,F,F,R+17,T,,33198.0,S
+100,alex,West Virginia,2,2,WV,WV02,Talley Sergent,Democratic,http://talleysergent.com/,TalleySergent,F,37.0,F,,T,F,F,R+17,T,,33198.0,S
+101,alex,Wyoming,at-large,0,WY,WY00,Liz Cheney,Republican,https://cheney.house.gov/,Liz_Cheney,T,52.0,F,Married,T,F,F,R+25,T,64.72,37892.0,W
+102,alex,Wyoming,at-large,0,WY,WY00,Greg Hunter,Democratic,https://hunterforwyoming.com/,,F,55.0,M,Married,T,F,F,R+25,T,64.72,37892.0,W
+103,anna,Arizona,8,8,AZ,AZ08,Debbie Lesko,Republican,http://debbieleskoforcongress.com/,DebbieLesko,T,59.0,F,Married,T,F,F,R+13,T,87.3,40656.0,W
+104,anna,Arizona,8,8,AZ,AZ08,Hiral Tipirneni,Democratic,http://hiralforcongress.com/,hiral4congress,F,51.0,F,Married,F,F,F,R+13,T,87.3,40656.0,W
+105,anna,Arizona,9,9,AZ,AZ09,Steve Ferrara,Republican,https://ferraraforcongress.com/,steveferraramd,F,49.0,M,Married,T,F,F,D+4,T,,56598.0,W
+106,anna,Arizona,9,9,AZ,AZ09,Greg Stanton,Democratic,http://stantonforarizona.com/,MayorStanton,F,48.0,M,Married,T,F,F,D+4,T,,56598.0,W
+107,anna,Arkansas,2,2,AR,AR02,French Hill,Republican,https://www.electfrench.com/,ElectFrench,T,61.0,M,Married,T,F,F,R+7,T,66.2,37221.0,S
+108,anna,Arkansas,2,2,AR,AR02,Joe Ryne Swafford,Libertarian,http://www.joeswafford4congress.com/,joeswaff4cong,F,,M,,T,F,F,R+7,T,66.2,37221.0,S
+109,anna,Arkansas,2,2,AR,AR02,Clarke Tucker,Democratic,https://www.clarketucker.com/,clarketucker,F,37.0,M,Married,T,F,F,R+7,T,66.2,37221.0,S
+110,anna,California,30,30,CA,CA30,Mark Reed,Republican,http://www.markreedforcongress.com/,MarkReed2014,F,61.0,M,Married,T,F,F,D+18,T,,88314.0,W
+111,anna,California,30,30,CA,CA30,Brad Sherman,Democratic,http://bradsherman.com/,BradSherman,T,63.0,M,Married,T,F,F,D+18,T,,88314.0,W
+112,anna,California,31,31,CA,CA31,Pete Aguilar,Democratic,https://peteaguilar.com/,AguilarCampaign,T,39.0,M,Married,F,T,F,D+8,T,,50882.0,W
+113,anna,California,31,31,CA,CA31,Sean Flynn,Republican,https://seanflynnforcongress.com/,SeanFlynnCA,F,45.0,M,,F,F,F,D+8,T,,50882.0,W
+114,anna,California,47,47,CA,CA47,John Briscoe,Republican,https://johnbriscoe.us/,johnfbriscoe,F,,M,Married,T,F,F,D+13,T,,55590.0,W
+115,anna,California,47,47,CA,CA47,Alan Lowenthal,Democratic,https://alanlowenthal.nationbuilder.com/,,T,77.0,M,Married,T,F,F,D+13,T,,55590.0,W
+116,anna,California,52,52,CA,CA52,Scott Peters,Democratic,http://www.scottpeters.com/,ScottPetersSD,T,60.0,M,Married,T,F,F,D+6,T,,82286.0,W
+117,anna,California,52,52,CA,CA52,Omar Qudrat,Republican,https://www.electomar.com/,omarqudrat1,F,,M,Single,F,F,F,D+6,T,,82286.0,W
+118,anna,Florida,21,21,FL,FL21,Lois Frankel,Democratic,https://loisfrankelforcongress.com/,loisfrankel,T,70.0,F,Divorced,F,T,F,D+9,F,99.44,51757.0,S
+119,anna,Florida,24,24,FL,FL24,Frederica Wilson,Democratic,http://www.fredericawilsonforcongress.com/,,T,75.0,F,Divorced,F,F,T,D+34,F,100,38016.0,S
+120,anna,Georgia,13,13,GA,GA13,David Callahan,Republican,https://www.callahan4ga.com/,DavidCa46446866,F,67.0,M,Divorced,T,F,F,D+20,T,93.83,47004.0,S
+121,anna,Georgia,13,13,GA,GA13,Martin Cowen,Libertarian,http://www.cowenforcongress.com/?p=8,mlcowen,F,,M,,T,F,F,D+20,T,93.83,47004.0,S
+122,anna,Georgia,13,13,GA,GA13,David Scott,Democratic,http://www.votedavidscottforcongress.com/home,electdavidscott,T,73.0,M,Married,F,F,T,D+20,T,93.83,47004.0,S
+123,anna,Idaho,2,2,ID,ID02,Mike Simpson,Republican,http://www.simpsonforcongress.com/,mikesimpson4id,T,68.0,M,Married,T,F,F,R+17,T,67.03,46943.0,W
+124,anna,Idaho,2,2,ID,ID02,Aaron Swisher,Democratic,https://swisherforidaho.com/,SwisherforIdaho,F,,M,Married,T,F,F,R+17,T,67.03,46943.0,W
+125,anna,Illinois,15,15,IL,IL15,Kevin Gaither,Democratic,https://gaither4il.com/,Gaither4IL,F,,M,Single,T,F,F,R+21,T,48.6,45122.0,MW
+126,anna,Illinois,15,15,IL,IL15,John Shimkus,Republican,https://johnshimkus.com/,RepShimkus,T,60.0,M,Married,T,F,F,R+21,T,48.6,45122.0,MW
+127,anna,Indiana,4,4,IN,IN04,Jim Baird,Republican,http://www.electjimbaird.com/,ElectJimBaird,F,72.0,M,Married,T,F,F,R+17,T,68.17,45947.0,MW
+128,anna,Indiana,4,4,IN,IN04,Tobi Beck,Democratic,http://www.beck4indiana.org/,beckforindiana,F,,F,Married,T,F,F,R+17,T,68.17,45947.0,MW
+129,anna,Indiana,9,9,IN,IN09,Trey Hollingsworth,Republican,http://www.votefortrey.com/,VoteForTrey,T,35.0,M,Married,T,F,F,R+13,T,,48522.0,MW
+130,anna,Indiana,9,9,IN,IN09,Liz Watson,Democratic,https://lizforindiana.com/,LizForIndiana,F,42.0,F,Married,T,F,F,R+13,T,,48522.0,MW
+131,anna,Kansas,2,2,KS,KS02,Paul Davis,Democratic,https://www.davisforkansas.com/,PaulDavisKS,F,46.0,M,Married,T,F,F,R+10,T,59.73,50087.0,MW
+132,anna,Kansas,2,2,KS,KS02,Kelly Standley,Libertarian,https://www.facebook.com/standley4congress/,kestand,F,,M,,T,F,F,R+10,T,59.73,50087.0,MW
+133,anna,Kansas,2,2,KS,KS02,Steve Watkins,Republican,https://steveforkansas.com/,Steve4Kansas,F,,M,,T,F,F,R+10,T,59.73,50087.0,MW
+134,anna,Kentucky,4,4,KY,KY04,David Goodwin,Independent,https://www.voteforgood.win/,ky4goodwin,F,,M,Married,T,F,F,R+18,T,68.2,60912.0,S
+135,anna,Kentucky,4,4,KY,KY04,Seth Hall,Democratic,https://www.sethhallcongress.com/,HallCongress,F,,M,,T,F,F,R+18,T,68.2,60912.0,S
+136,anna,Kentucky,4,4,KY,KY04,Thomas Massie,Republican,http://www.thomasmassie.com/,ThomasMassieKY,T,47.0,M,Married,T,F,F,R+18,T,68.2,60912.0,S
+137,anna,Kentucky,5,5,KY,KY05,Hal Rogers,Republican,,,T,80.0,M,Married,T,F,F,R+31,T,23.52,30585.0,S
+138,anna,Kentucky,5,5,KY,KY05,Kenneth Stepp,Democratic,http://steppforcongress.blogspot.com/,ppetsnek,F,71.0,M,Married,T,F,F,R+31,T,23.52,30585.0,S
+139,anna,Louisiana,3,3,LA,LA03,Rob Anderson,Democratic,https://www.robjonanderson.com/,RobAnderson2018,F,,M,Married,T,F,F,R+20,T,73.4,44668.0,S
+140,anna,Louisiana,3,3,LA,LA03,Aaron Andrus,Libertarian,http://www.andrus4congress.com/,aaron4liberty,F,45.0,M,Married,T,F,F,R+20,T,73.4,44668.0,S
+141,anna,Louisiana,3,3,LA,LA03,Josh Guillory,Republican,http://www.votejosh2018.com/,votejosh2018,F,,M,Married,T,F,F,R+20,T,73.4,44668.0,S
+142,anna,Louisiana,3,3,LA,LA03,Clay Higgins,Republican,https://captainhiggins.com/,CaptClayHiggins,T,57.0,M,Married,T,F,F,R+20,T,73.4,44668.0,S
+143,anna,Louisiana,3,3,LA,LA03,Mimi Methvin,Democratic,https://votemimi.org/,VoteMimi,F,,F,,T,F,F,R+20,T,73.4,44668.0,S
+144,anna,Louisiana,3,3,LA,LA03,Larry Rader,Democratic,https://www.larryraderforcongress.com/,votelarryrader,F,,M,,F,F,T,R+20,T,73.4,44668.0,S
+145,anna,Louisiana,3,3,LA,LA03,Verone Thomas,Democratic,http://www.thomasishonest.com/,Verone4Congress,F,,M,,F,F,T,R+20,T,73.4,44668.0,S
+146,anna,Maryland,7,7,MD,MD07,Elijah Cummings,Democratic,https://www.cummingsforcongress.com/,ReElectCummings,T,67.0,M,Married,F,F,T,D+26,T,95,38885.0,S
+147,anna,Maryland,7,7,MD,MD07,Richmond Davis,Republican,https://www.davisforcongress2018.com/,Davis4Maryland,F,,M,Married,T,F,F,D+26,T,95,38885.0,S
+148,anna,Maryland,7,7,MD,MD07,Swami Swaminathan,Independent,http://swamiforcongress.com/,,F,,M,Married,F,F,F,D+26,T,95,38885.0,S
+149,anna,Michigan,1,1,MI,MI01,Jack Bergman,Republican,https://bergmanforcongress.com/,JackBergman_MI1,T,71.0,M,Married,T,F,F,R+9,T,36.58,46927.0,MW
+150,anna,Michigan,1,1,MI,MI01,Matt Morgan,Democratic,https://mattmorganformichigan.com/,MorganforMI,F,,M,Married,T,F,F,R+9,T,36.58,46927.0,MW
+151,anna,Michigan,13,13,MI,MI13,Rashida Tlaib,Democratic,https://www.rashidaforcongress.com/,RashidaTlaib,F,42.0,F,Divorced,F,F,F,D+32,F,100,29863.0,MW
+152,anna,Minnesota,8,8,MN,MN08,Joe Radinovich,Democratic,https://www.joeradinovich.com/,joeradinovich,T,32.0,M,,T,F,F,R+4,T,38.47,53676.0,MW
+153,anna,Minnesota,8,8,MN,MN08,"Ray ""Skip"" Sandman",Independence,https://skipsandman.com/,Vote4Sandman,F,,M,,F,F,F,R+4,T,38.47,53676.0,MW
+154,anna,Minnesota,8,8,MN,MN08,Pete Stauber,Republican,https://petestauberforcongress.com/,PeteStauber,F,52.0,M,Married,T,F,F,R+4,T,38.47,53676.0,MW
+155,anna,Mississippi,2,2,MS,MS02,Irving Harris,Reform,,,F,,,,,,,D+14,T,62.67,26894.0,S
+156,anna,Mississippi,2,2,MS,MS02,Troy Ray,Independent,https://icanrebuildamerica.com/p/vote,repTroyRay,F,,M,,,,,D+14,T,62.67,26894.0,S
+157,anna,Mississippi,2,2,MS,MS02,Bennie Thompson,Democratic,http://benniethompson.com/,BennieGThompson,T,70.0,M,Married,F,F,T,D+14,T,62.67,26894.0,S
+158,anna,Missouri,1,1,MO,MO01,Lacy Clay,Democratic,http://www.lacyclay.org/,LacyClayMO1,T,62.0,M,Divorced,F,F,T,D+29,T,99.21,36314.0,MW
+159,anna,Missouri,1,1,MO,MO01,Robb Cunningham,Libertarian,https://www.facebook.com/RobbLibertarian/,,F,,M,,,,,D+29,T,99.21,36314.0,MW
+160,anna,Missouri,1,1,MO,MO01,Robert Vroman,Republican,https://www.facebook.com/VoteVroman/,,F,,M,,T,F,F,D+29,T,99.21,36314.0,MW
+161,anna,Nevada,2,2,NV,NV02,Mark Amodei,Republican,https://amodeifornevada.com/,AmodeiForNevada,T,60.0,M,,T,F,F,R+7,T,,51505.0,W
+162,anna,Nevada,2,2,NV,NV02,Clint Koble,Democratic,https://www.clintforcongress.com/,Clint4Congress,F,,M,,T,F,F,R+7,T,,51505.0,W
+163,anna,New Mexico,3,3,NM,NM03,Ben Ray Luján,Democratic,http://www.benrlujan.com/,peopleforben,T,46.0,M,,F,T,F,D+8,T,62.7,35058.0,W
+164,anna,New Mexico,3,3,NM,NM03,Christopher Manning,Libertarian,https://chrismanningforcongress.nationbuilder.com/,Manning4USCong,F,,M,,T,F,F,D+8,T,62.7,35058.0,W
+165,anna,New Mexico,3,3,NM,NM03,Jerald McFall,Republican,https://www.mcfallforcongress.com/,jstevemcfall,F,53.0,M,,T,F,F,D+8,T,62.7,35058.0,W
+166,anna,North Carolina,4,4,NC,NC04,Barbara Howe,Libertarian,http://barbarahowe.net/,barbarahowe,F,,F,,T,F,F,D+17,T,,70587.0,S
+167,anna,North Carolina,4,4,NC,NC04,David Price,Democratic,http://www.priceforcongress.com/,DPrice4Congress,T,78.0,M,Married,T,F,F,D+17,T,,70587.0,S
+168,anna,North Carolina,4,4,NC,NC04,Steve Von Loor,Republican,http://steveavonloor.org/,steveavonloor,F,40.0,M,Married,F,T,F,D+17,T,,70587.0,S
+169,anna,North Carolina,5,5,NC,NC05,DD Adams,Democratic,https://ddadamsforcongress.com/,DDAdamsCongress,F,64.0,F,,F,F,T,R+10,T,58.99,39710.0,S
+170,anna,North Carolina,5,5,NC,NC05,Virginia Foxx,Republican,https://virginiafoxx.com/,foxxforcongress,T,75.0,F,Married,T,F,F,R+10,T,58.99,39710.0,S
+171,anna,Oklahoma,4,4,OK,OK04,Mary Brannon,Democratic,http://electbrannon.com/,electbrannon,F,,F,,T,F,F,R+20,T,63.29,35510.0,S
+172,anna,Oklahoma,4,4,OK,OK04,Tom Cole,Republican,http://www.tomcoleforcongress.com/,ColeForCongress,T,69.0,M,Married,T,F,F,R+20,T,63.29,35510.0,S
+173,anna,Oklahoma,4,4,OK,OK04,Ruby Peters,Independent,,,F,75.0,F,Widowed,F,F,T,R+20,T,63.29,35510.0,S
+174,anna,Pennsylvania,8,8,PA,PA08,Matt Cartwright,Democratic,http://www.cartwrightcongress.com/,CartwrightPA,T,57.0,M,Married,T,F,F,R+1,T,90.73,59207.0,NE
+175,anna,Pennsylvania,8,8,PA,PA08,John Chrin,Republican,https://www.johnchrin.com/,JohnChrin,F,,M,Married,T,F,F,R+1,T,90.73,59207.0,NE
+176,anna,Rhode Island,2,2,RI,RI02,Sal Caiozzo,Republican,http://rhodyfirst.com/,salforcongress,F,,M,,T,F,F,D+6,T,,57834.0,NE
+177,anna,Rhode Island,2,2,RI,RI02,James Langevin,Democratic,https://www.jimlangevin.com/,LangevinForRI,T,54.0,M,,T,F,F,D+6,T,,57834.0,NE
+178,anna,South Carolina,4,4,SC,SC04,Brandon Brown,Democratic,https://brandonpbrown.com/,brown_congress,F,,M,Married,F,F,T,R+15,T,,39417.0,S
+179,anna,South Carolina,4,4,SC,SC04,Guy Furay,American,https://guy4congress.com/,guyfuray,F,,M,Married,T,F,F,R+15,T,,39417.0,S
+180,anna,South Carolina,4,4,SC,SC04,William Timmons,Republican,https://www.votetimmons.com/,votetimmons,T,34.0,M,,T,F,F,R+15,T,,39417.0,S
+181,anna,Tennessee,5,5,TN,TN05,Jody Ball,Republican,https://jodyballforcongress.com/,jballcampaign,F,,M,Married,T,F,F,D+7,T,88.68,54470.0,S
+182,anna,Tennessee,5,5,TN,TN05,Jim Cooper,Democratic,http://www.cooperforcongress.com/,CoopForCongress,T,64.0,M,Married,T,F,F,D+7,T,88.68,54470.0,S
+183,anna,Texas,8,8,TX,TX08,Kevin Brady,Republican,http://www.bradyforcongress.com/,bradyfortexas,T,63.0,M,Married,T,F,F,R+28,T,67.55,64861.0,S
+184,anna,Texas,8,8,TX,TX08,Steven David,Democratic,http://www.electstevendavid.com/,stevedavid,F,,M,Married,T,F,F,R+28,T,67.55,64861.0,S
+185,anna,Texas,8,8,TX,TX08,Chris Duncan,Libertarian,,,F,,M,,T,F,F,R+28,T,67.55,64861.0,S
+186,anna,Texas,22,22,TX,TX22,Sri Preston Kulkarni,Democratic,https://www.kulkarniforcongress.com/,SriPKulkarni,F,39.0,M,,F,F,F,R+10,T,93.09,87901.0,S
+187,anna,Texas,22,22,TX,TX22,John McElligott,Libertarian,,,F,,M,,T,F,F,R+10,T,93.09,87901.0,S
+188,anna,Texas,22,22,TX,TX22,Pete Olson,Republican,https://www.olsonforcongress.com/,PeteOlson,T,55.0,M,Married,T,F,F,R+10,T,93.09,87901.0,S
+189,anna,Texas,22,22,TX,TX22,Kellen Sweny,Independent,https://www.kellenforcongress.com/,KellenTX22,F,,F,Married,T,F,F,R+10,T,93.09,87901.0,S
+190,anna,Texas,25,25,TX,TX25,Desarae Lindsey,Libertarian,http://peaceandlovetexas.com/,PeaceAndLoveTX,F,,F,Married,T,F,F,R+11,T,67.47,69083.0,S
+191,anna,Texas,25,25,TX,TX25,Martin Luecke,Independent,https://www.luecke4congress.org/,Luecke4C,F,,M,,T,F,F,R+11,T,67.47,69083.0,S
+192,anna,Texas,25,25,TX,TX25,Julie Oliver,Democratic,https://www.oliver2018.com/,JulieForTX25,F,,F,Married,T,F,F,R+11,T,67.47,69083.0,S
+193,anna,Texas,25,25,TX,TX25,Roger Williams,Republican,http://www.rogerforcongress.com/,RogerWilliamsTX,T,69.0,M,Married,T,F,F,R+11,T,67.47,69083.0,S
+194,anna,Texas,31,31,TX,TX31,John Carter,Republican,https://www.johncarterforcongress.com/,judgejohncarter,T,76.0,M,Married,T,F,F,R+10,T,86.1,69228.0,S
+195,anna,Texas,31,31,TX,TX31,Mary Jennings Hegar,Democratic,https://www.mjfortexas.com/,mjhegar,F,41.0,F,Married,T,F,F,R+10,T,86.1,69228.0,S
+196,anna,Texas,31,31,TX,TX31,Jason Hope,Libertarian,https://www.facebook.com/libertarianhope/,,F,,M,,T,F,F,R+10,T,86.1,69228.0,S
+197,anna,Virginia,9,9,VA,VA09,Anthony Flaccavento,Democratic,https://www.flacc4congress.com/,flacc4congress,F,,M,Married,T,F,F,R+19,T,41.75,43987.0,S
+198,anna,Virginia,9,9,VA,VA09,Morgan Griffith,Republican,https://www.morgangriffithforcongress.com/,MorganGriffith,T,60.0,M,Married,T,F,F,R+19,T,41.75,43987.0,S
+199,anna,Washington,10,10,WA,WA10,Joseph Brumbles,Republican,https://josephbrumbles.com/,JosephBrumbles,F,,M,,T,F,F,D+5,T,92,54917.0,W
+200,anna,Washington,10,10,WA,WA10,Denny Heck,Democratic,http://www.dennyheckforcongress.com/,DennyHeck,T,66.0,M,Married,T,F,F,D+5,T,92,54917.0,W
+201,anna,Wisconsin,6,6,WI,WI06,Glenn Grothman,Republican,http://www.glenngrothman.com/,GrothmanforWI,T,63.0,M,Single,T,F,F,R+8,T,60.63,44242.0,MW
+202,anna,Wisconsin,6,6,WI,WI06,Dan Kohl,Democratic,http://www.kohlforcongress.com/,DanKohlWI,F,53.0,M,Married,T,F,F,R+8,T,60.63,44242.0,MW
+203,bobby,Alabama,2,2,AL,AL02,Tabitha Isner,Democratic,https://tabithaisner.com/meet-tabitha/,TabithaK,F,37.0,F,Married,T,F,F,R+16,T,54.71,42035.0,S
+204,bobby,Alabama,2,2,AL,AL02,Martha Roby,Republican,https://roby.house.gov/,RepMarthaRoby,T,42.0,F,Married,T,F,F,R+16,T,54.71,42035.0,S
+205,bobby,California,18,18,CA,CA18,Anna Eshoo,Democratic,https://eshoo.house.gov/,RepAnnaEshoo,T,75.0,F,Single,T,F,F,D+23,T,22.9,125000.0,W
+206,bobby,California,18,18,CA,CA18,Christine Russell,Republican,,,,,,,,,,,,,,W
+207,bobby,California,36,36,CA,CA36,Kimberlin Brown Pelzer,Republican,https://www.kimberlinforcongress.com/,KimberlinBrown,F,57.0,F,Married,T,F,F,D+2,T,4.2,46471.0,W
+208,bobby,California,36,36,CA,CA36,Raul Ruiz,Democratic,https://ruiz.house.gov/,CongressmanRuiz,T,46.0,M,Married,T,F,F,D+2,T,4.2,46471.0,W
+209,bobby,California,53,53,CA,CA53,Susan Davis,Democratic,https://susandavis.house.gov/,RepSusanDavis,T,74.0,F,Married,T,F,F,D+14,T,88.9,61021.0,W
+210,bobby,California,53,53,CA,CA53,Morgan Murtaugh,Republican,http://morganmurtaugh.com/,MorganMurtaugh,F,25.0,F,Single,T,F,F,D+14,T,88.9,61021.0,W
+211,bobby,Colorado,5,5,CO,CO05,Doug Lamborn,Republican,https://lamborn.house.gov/,RepDLamborn,T,64.0,M,Married,T,F,F,R+14,T,86.44,53691.0,W
+212,bobby,Colorado,5,5,CO,CO05,Stephany Rose Spaulding,Democratic,https://www.stephanyroseforcongress.com/,StephanyForCo,F,40.0,F,Single,F,F,T,R+14,T,86.44,53691.0,W
+213,bobby,Florida,4,4,FL,FL04,Joceline Berrios,No Party Affiliation,https://berrios4congress.com/,berriojo1,F,56.0,F,Single,T,F,F,R+17,T,87.4,43947.0,S
+214,bobby,Florida,4,4,FL,FL04,Jason Bulger,No Party Afiliation,http://jasonbulgerforcongress.com/,jason_bulger,F,30.0,M,Married,T,F,F,R+17,T,87.4,43947.0,S
+215,bobby,Florida,4,4,FL,FL04,John Rutherford,Republican,https://rutherford.house.gov/,RepRutherforFl,T,66.0,M,Married,T,F,F,R+17,T,87.4,43947.0,S
+216,bobby,Florida,4,4,FL,FL04,Ges Selmont,Democratic,https://selmontforcongress.com/,vote4ges,F,,M,Married,T,F,F,R+17,T,87.4,43947.0,S
+217,bobby,Florida,16,16,FL,FL16,Vern Buchanan,Republican,https://buchanan.house.gov/,VernBuchanan,T,67.0,M,Married,T,F,F,R+7,T,94.26,47827.0,S
+218,bobby,Florida,16,16,FL,FL16,David Shapiro,Democratic,https://voteshapiro2018.com/,Shapiro4FL16,F,,M,Married,T,F,F,R+7,T,94.26,47827.0,S
+219,bobby,Florida,22,22,FL,FL22,Ted Deutch,Democratic,https://teddeutch.house.gov/,RepTedDeutch,T,52.0,M,Married,T,F,F,D+6,T,100,51200.0,S
+220,bobby,Florida,22,22,FL,FL22,Nicolas Kimaz,Republican,http://www.kimazforcongress.com/,NicolasKimazFL,F,55.0,M,Married,T,F,F,D+6,T,100,51200.0,S
+221,bobby,Georgia,6,6,GA,GA06,Karen Handel,Republican,https://handel.house.gov/,karenhandel,T,56.0,F,Married,T,F,F,R+8,T,99.77,49600.0,S
+222,bobby,Georgia,6,6,GA,GA06,Lucy McBath,Democratic,https://lucyforcongress.com/,lucywins2018,F,58.0,F,Married,F,F,T,R+8,T,99.77,49600.0,S
+223,bobby,Georgia,6,6,GA,GA06,"Jeremy ""Carlton Heston"" Stubbs",Write-in,https://pseudonymphet.net/carlton/platform/,carltonHouseton,F,,M,Single,T,F,F,R+8,T,99.77,49600.0,S
+224,bobby,Georgia,11,11,GA,GA11,Flynn Broady,Democratic,https://flynnbroady.com/,flynnbraodyjr,F,57.0,M,Married,F,F,T,R+17,T,96.1,55813.0,S
+225,bobby,Georgia,11,11,GA,GA11,Barry Loudermilk,Republican,https://loudermilk.house.gov/,RepLouderMilk,T,54.0,M,Single,T,F,F,R+17,T,96.1,55813.0,S
+226,bobby,Hawaii,2,2,HI,HI02,Brian Evans,Republican,https://www.brianevansforcongress.com/,becongress,F,48.0,M,Single,T,F,F,D+19,T,83.65,48686.0,W
+227,bobby,Hawaii,2,2,HI,HI02,Tulsi Gabbard,Democratic,https://gabbard.house.gov/,TulsiGabbard,T,37.0,F,Married,T,F,F,D+19,T,83.65,48686.0,W
+228,bobby,Illinois,5,5,IL,IL05,Tom Hanson,Republican,https://www.ourcampaigns.com/CandidateDetail.html?CandidateID=181567,,F,64.0,M,Married,T,F,F,D+20,T,100,62632.0,MW
+229,bobby,Illinois,5,5,IL,IL05,Mike Quigley,Democratic,https://quigley.house.gov/,repMikeQuigley,T,59.0,M,Married,T,F,F,D+20,T,100,62632.0,MW
+230,bobby,Illinois,10,10,IL,IL10,Douglas Bennett,Republican,https://www.il10.org/,DougRBennett,F,,,,,,,,,,,MW
+231,bobby,Illinois,10,10,IL,IL10,Brad Schneider,Democratic,https://schneider.house.gov/,RepSchneider,T,57.0,M,Married,T,F,F,D+10,T,99.7,65864.0,MW
+232,bobby,Illinois,17,17,IL,IL17,Cheri Bustos,Democratic,https://bustos.house.gov/,RepCheri,T,56.0,F,Married,T,F,F,D+3,T,73.3,41194.0,MW
+233,bobby,Illinois,17,17,IL,IL17,Bill Fawell,Republican,https://www.electfawell.com/,WmFawell,F,,M,Single,T,F,F,D+3,T,73.3,41194.0,MW
+234,bobby,Kansas,1,1,KS,KS01,Alan LaPolice,Democratic,https://alanlapolice.com/,AlanLaPolice,F,46.0,M,Married,T,F,F,R+24,T,,45540.0,MW
+235,bobby,Kansas,1,1,KS,KS01,Roger Marshall,Republican,https://marshall.house.gov/,RogerMarshallMD,T,58.0,M,Married,T,F,F,R+24,T,,45540.0,MW
+236,bobby,Louisiana,6,6,LA,LA06,Justin DeWitt,Democratic,https://www.dewittforcongress.com/,Dewitt4Congress,F,,M,Single,T,F,F,R+19,T,78.12,59270.0,S
+237,bobby,Louisiana,6,6,LA,LA06,Garret Graves,Republican,https://garretgraves.house.gov/,RepGarretGraves,T,46.0,M,Married,T,F,F,R+19,T,78.12,59270.0,S
+238,bobby,Louisiana,6,6,LA,LA06,Andie Saizan,Democratic,https://www.voteandie.com/,andisaizan,F,,F,Married,T,F,F,R+19,T,78.12,59270.0,S
+239,bobby,Maryland,3,3,MD,MD03,Charles Anthony,Republican,,,F,,,,,,,,,,,S
+240,bobby,Maryland,3,3,MD,MD03,David Lashar,Libertarian,https://lashar2018.us/profile/,DLashar,F,55.0,M,Married,T,F,F,D+13,T,98.4,52906.0,S
+241,bobby,Maryland,3,3,MD,MD03,John Sarbanes,Democratic,https://sarbanes.house.gov/,RepSarbanes,T,56.0,M,Married,T,F,F,D+13,T,98.4,52906.0,S
+242,bobby,Massachusetts,6,6,MA,MA06,Seth Moulton,Democratic,https://moulton.house.gov/,sethmoulton,T,39.0,M,Married,T,F,F,D+6,T,63.15,76942.0,NE
+243,bobby,Massachusetts,6,6,MA,MA06,Joseph Schneider,Republican,https://joeschneiderforcongress.com/,JoeSchneiderMA,F,,M,Single,T,F,F,D+6,T,63.15,76942.0,NE
+244,bobby,Michigan,11,11,MI,MI11,Lena Epstein,Republican,https://lenaforcongress.com/,LenaEpstein,F,36.0,F,Single,T,F,F,R+4,T,,69397.0,MW
+245,bobby,Michigan,11,11,MI,MI11,Cooper Nye,Independent,https://coopforcongress.com/,Coop4Congress,F,,M,Single,T,F,F,R+4,T,,69397.0,MW
+246,bobby,Michigan,11,11,MI,MI11,Leonard Schwartz,Libertarian,http://www.leonardschwartz.us/,LenSchwartz3,F,,M,Single,T,F,F,R+4,T,,69397.0,MW
+247,bobby,Michigan,11,11,MI,MI11,Haley Stevens,Democratic,https://haleystevensforcongress.com/,HaleyLive,F,,F,Single,T,F,F,R+4,T,,69397.0,MW
+248,bobby,Michigan,14,14,MI,MI14,Marc Herschfus,Republican,,,,,,,,,,,,,,MW
+249,bobby,Michigan,14,14,MI,MI14,Brenda Lawrence,Democratic,https://lawrence.house.gov/,RepLawrence,T,63.0,F,Married,F,F,T,D+30,T,,,MW
+250,bobby,Missouri,2,2,MO,MO02,David Justus Arnold,Green,https://electdavidarnold.weebly.com/,,F,60.0,M,Single,T,F,F,R+8,T,69.6,,MW
+251,bobby,Missouri,2,2,MO,MO02,"Larry A ""Tony"" Kirk",Libertarian,,kirkforliberty,F,,M,Single,T,F,F,R+8,T,69.6,,MW
+252,bobby,Missouri,2,2,MO,MO02,Cort VanOstran,Democratic,https://cortforcongress.com/,cortvo,F,,M,Single,T,F,F,R+8,T,69.6,,MW
+253,bobby,Missouri,2,2,MO,MO02,Ann Wagner,Republican,https://wagner.house.gov/,RepAnnWagner,T,56.0,F,Married,T,F,F,R+8,T,69.6,,MW
+254,bobby,New Jersey,3,3,NJ,NJ03,Andy Kim,Democratic,https://andykimforcongress.com/,AnyKimNJ,F,,M,Married,F,F,F,R+2,T,96.17,,NE
+255,bobby,New Jersey,3,3,NJ,NJ03,Tom MacArthur,Republican,https://macarthur.house.gov/,RepTomMacArthur,T,57.0,M,Single,F,F,F,R+2,T,96.17,,NE
+256,bobby,New Jersey,4,4,NJ,NJ04,Chris Smith,Republican,https://chrissmith.house.gov/,RepChrisSmith,T,65.0,M,Married,T,F,F,R+8,T,93.08,,NE
+257,bobby,New Jersey,4,4,NJ,NJ04,Edward Stackhouse,Independent,https://www.facebook.com/pages/category/Politician/Ed-The-Barber-For-Congress-2018-1528697377215756/,,F,,M,Married,T,F,F,R+8,T,93.08,,NE
+258,bobby,New Jersey,4,4,NJ,NJ04,Josh Welle,Democratic,https://welleforcongress.com/,JoshuaWelle,F,,M,Married,T,F,F,R+8,T,93.08,,NE
+259,bobby,New Jersey,12,12,NJ,NJ12,Daryl Kipnis,Republican,http://kipnisforcongress.com/,kipnis4Congress,F,38.0,M,Married,T,F,F,D+16,T,93.17,,NE
+260,bobby,New Jersey,12,12,NJ,NJ12,Bonnie Watson Coleman,Democratic,https://watsoncoleman.house.gov/,RepBonnie,T,73.0,F,Married,F,F,T,D+16,T,93.17,,NE
+261,bobby,New Mexico,2,2,NM,NM02,Yvette Herrell,Republican,https://www.herrellforcongress.com/,Yvette4Congress,F,,F,Single,T,F,F,R+6,T,70.82,,W
+262,bobby,New Mexico,2,2,NM,NM02,Xochitl Torres Small,Democratic,https://www.xochforcongress.com/,xochforcongress,F,,F,Single,F,T,F,R+6,T,70.82,,W
+263,bobby,New York,2,2,NY,NY02,Liuba Grechen Shirley,Democratic,https://www.liubaforcongress.com/,liuba4congress,F,,,,,,,,,,,NE
+264,bobby,New York,2,2,NY,NY02,Peter King,Republican,https://peteking.house.gov/,RepPeterKind,T,74.0,M,Married,T,F,F,R+3,T,,,NE
+265,bobby,New York,5,5,NY,NY05,Gregory Meeks,Democratic,https://meeks.house.gov/,GregoryMeeks,T,65.0,M,Married,F,f,T,D+37,T,,,NE
+266,bobby,New York,7,7,NY,NY07,Jeff Kurzon,Reform,https://www.jeffkurzon.com/,JeffKurzon,F,42.0,M,Single,T,F,F,D+38,T,100,,NE
+267,bobby,New York,7,7,NY,NY07,Joseph Lieberman,Conservative,,JoeLieberman,F,76.0,M,Married,T,F,F,D+38,T,100,,NE
+268,bobby,New York,7,7,NY,NY07,Nydia Velázquez,Democratic,https://velazquez.house.gov/,NydiaVelazquez,F,65.0,F,Married,F,T,F,D+38,T,100,,NE
+269,bobby,New York,26,26,NY,NY26,Brian Higgins,Democratic,https://higgins.house.gov/,RepBrianHiggins,T,58.0,M,Married,T,F,F,D+11,T,,,NE
+270,bobby,New York,26,26,NY,NY26,Renee Zeno,Republican,https://zenoforcongressny.com/meet-renee-zeno,,F,,F,Single,T,F,F,D+11,T,,,NE
+271,bobby,Ohio,9,9,OH,OH09,Marcy Kaptur,Democratic,https://kaptur.house.gov/,RepMarcyKaptur,T,72.0,F,Single,T,F,F,D+14,T,86.02,,MW
+272,bobby,Ohio,9,9,OH,OH09,Steve Kraus,Republican,https://www.bvp.com/team/stephen-kraus,stephenkrau,F,59.0,M,Single,T,F,F,D+14,T,86.02,,MW
+273,bobby,Oklahoma,2,2,OK,OK02,Richard Castaldo,Libertarian,https://castaldoforcongress.info/,Cataldo2018,F,37.0,M,Married,T,F,F,R+24,T,35.51,,S
+274,bobby,Oklahoma,2,2,OK,OK02,John Foreman,Independent,http://www.foreman4congress.com/,John4man,F,53.0,M,Single,T,F,F,R+24,T,35.51,,S
+275,bobby,Oklahoma,2,2,OK,OK02,Markwayne Mullin,Republican,https://mullin.house.gov/,RepMullin,T,41.0,M,Married,T,F,F,R+24,T,35.51,,S
+276,bobby,Oklahoma,2,2,OK,OK02,Jason Nichols,Democratic,https://www.nichols4congress.com/,jn4ush,F,,M,Married,T,F,F,R+24,T,35.51,,S
+277,bobby,Pennsylvania,9,9,PA,PA09,Dan Meuser,Republican,https://www.meuserforcongress.com/,Meuser4Congress,F,54.0,M,Married,T,F,F,R+14,T,53.11,,NE
+278,bobby,Pennsylvania,9,9,PA,PA09,Denny Wolff,Democratic,https://dennywolff.com/,dennyforPA,F,67.0,M,Married,T,F,F,R+14,T,53.11,,NE
+279,bobby,Texas,30,30,TX,TX30,Eddie Bernice Johnson,Democratic,https://ebjohnson.house.gov/,RepRBJ,T,82.0,F,Single,F,F,T,D+29,T,98.56,,S
+280,bobby,Texas,30,30,TX,TX30,Shawn Jones,Libertarian,https://www.shawnjonesforcongress.com/welcometofreedom,,F,,M,Single,T,F,F,D+29,T,98.56,,S
+281,bobby,Texas,34,34,TX,TX34,Rey Gonzalez,Republican,https://reygonzalez.org/,Reyconzalez34,F,,M,Single,T,F,F,D+10,T,83.96,,S
+282,bobby,Texas,34,34,TX,TX34,Filemon Vela Jr,Democratic,https://vela.house.gov/,RepFilemonVela,T,55.0,M,Married,T,F,F,D+10,T,83.96,,S
+283,bobby,Texas,36,36,TX,TX36,Brian Babin,Republican,https://babin.house.gov/,RepBrianBabin,T,70.0,M,Married,T,F,F,R+26,T,67.74,,S
+284,bobby,Texas,36,36,TX,TX36,Dayna Steele,Democratic,https://daynasteele36.com/,daynasteel,F,59.0,F,Married,T,F,F,R+26,T,67.74,,S
+285,bobby,Utah,4,4,UT,UT04,Mia Love,Republican,https://love.house.gov/,MiaBLove,T,42.0,F,Married,F,F,T,R+13,T,,,W
+286,bobby,Utah,4,4,UT,UT04,Ben McAdams,Democratic,https://benmcadamsforcongress.com/,MayorBenMcAdams,F,43.0,M,Married,T,F,F,R+13,T,,,W
+287,bobby,Virginia,5,5,VA,VA05,Leslie Cockburn,Democratic,https://www.lesliecockburnforcongress.com/,LeslieCockburn,F,66.0,F,Married,T,F,F,R+6,T,35.3,,S
+288,bobby,Virginia,5,5,VA,VA05,Denver Riggleman,Republican,http://denverforcongress.com/,Devnber4VA,F,48.0,M,Married,T,F,F,R+6,T,35.3,,S
+289,bobby,Virginia,6,6,VA,VA06,Ben Cline,Republican,http://www.bencline.com/,Cline4Virginia,F,46.0,M,Married,T,F,F,R+13,T,64.34,,S
+290,bobby,Virginia,6,6,VA,VA06,Jennifer Lewis,Democratic,https://jenniferlewisforcongress.com/,JenniferForVa,F,36.0,F,Married,T,F,F,R+13,T,64.34,,S
+291,bobby,Washington,8,8,WA,WA08,Dino Rossi,Republican,https://www.dinorossi.com/,DinoRossiWa,F,58.0,M,Married,T,F,F,Even,T,83.4,,W
+292,bobby,Washington,8,8,WA,WA08,Kim Schrier,Democratic,https://www.drkimschrier.com/,DrKimSchrier,F,,F,Married,T,F,F,Even,T,83.4,,W
+293,bobby,Wisconsin,1,1,WI,WI01,Randy Bryce,Democratic,https://splash.randybryceforcongress.com/?ref=https://www.randybryceforcongress.com/,IronStache,F,53.0,M,Single,T,F,F,R+5,T,15..87,,MW
+294,bobby,Wisconsin,1,1,WI,WI01,Bryan Steil,Republican,https://steilforwisconsin.com/,BryanSteilForWi,F,37.0,M,Single,T,F,F,R+5,T,15..87,,MW
+295,bobby,Wisconsin,1,1,WI,WI01,Ken Yorgan,Independent,https://www.yorganforcongress.com/,YorganDr,F,,M,,T,F,F,R+5,T,15..87,,MW
+296,john,Alabama,1,1,AL,AL01,Bradley Byrne,Republican,https://www.byrneforcongress.com/,bradleybyrne,T,63.0,M,Married,T,F,F,R+15,T,66.82,47083.0,S
+297,john,Alabama,1,1,AL,AL01,Robert Kennedy Jr,Democratic,http://www.kennedy4alabama.org/,kennedy4alabama,F,47.0,M,Married,F,F,T,R+15,T,66.82,47083.0,S
+298,john,Arizona,6,6,AZ,AZ06,Anita Malik,Democratic,https://anitaforarizona.com/,anitamalik,F,42.0,F,Married,F,F,F,R+9,T,96.8,47976.0,W
+299,john,Arizona,6,6,AZ,AZ06,David Schweikert,Republican,https://davidschweikert.com/,DavidSchweikert,T,56.0,M,Married,T,F,F,R+9,T,96.8,47976.0,W
+300,john,Arkansas,3,3,AR,AR03,Michael Kalagias,Libertarian,http://mkin2012.blogspot.com/,kalagiasforus,F,51.0,M,Married,T,F,F,R+19,T,54.4,33915.0,S
+301,john,Arkansas,3,3,AR,AR03,Josh Mahony,Democratic,https://mahonyforcongress.com/,joshuamahony,F,,M,Married,T,F,F,R+19,T,54.4,33915.0,S
+302,john,Arkansas,3,3,AR,AR03,Josh Moody,Independent,https://moodyforarkansas.org/,MooDfor3,F,30.0,M,,T,F,F,R+19,T,54.4,33915.0,S
+303,john,Arkansas,3,3,AR,AR03,Steve Womack,Republican,https://www.womackforcongress.com/,womack4congress,T,61.0,M,Married,T,F,F,R+19,T,54.4,33915.0,S
+304,john,California,2,2,CA,CA02,Jared Huffman,Democratic,http://www.jaredhuffman.com/,JaredHuffman,T,54.0,M,Married,T,F,F,D+22,T,,65414.0,W
+305,john,California,2,2,CA,CA02,Dale Mensing,Republican,https://www.theflamingarrow.com/,dalemessing,F,60.0,M,,T,F,F,D+22,T,,65414.0,W
+306,john,California,14,14,CA,CA14,Cristina Osmeña,Republican,https://www.osmenaforcongress.com/,cristinaosmena,F,,F,,F,F,F,D+27,T,,,W
+307,john,California,14,14,CA,CA14,Jackie Speier,Democratic,http://www.jackiespeier.org/,JackieSpeier,T,68.0,F,Married,T,F,F,D+27,T,,,W
+308,john,California,19,19,CA,CA19,Justin Aguilera,Republican,https://www.facebook.com/joinjustinaguilera/,joinjustin19,F,,M,,F,T,F,D+24,T,,,W
+309,john,California,19,19,CA,CA19,Zoe Lofgren,Democratic,https://zoelofgren.com/,ZoeLofgren,T,70.0,F,Married,T,F,F,D+24,T,,,W
+310,john,California,29,29,CA,CA29,Benito Bernal,Republican,https://www.bernalforcongress2018.com/,BB4congress2018,F,54.0,M,Married,F,T,F,D+29,T,,,W
+311,john,California,29,29,CA,CA29,Tony Cárdenas,Democratic,www.tonycardenasforcongress.com,RepCardenas,T,55.0,M,Married,F,T,F,D+29,T,,,W
+312,john,California,32,32,CA,CA32,Grace Napolitano,Democratic,http://www.napolitanoforcongress.com/,grace4congress,T,81.0,F,Married,F,T,F,D+17,T,,,W
+313,john,California,32,32,CA,CA32,Joshua Scott,Republican,https://votejoshuascott.org/,joshuascottca32,F,25.0,M,Single,T,F,F,D+17,T,,,W
+314,john,California,35,35,CA,CA35,Norma Torres,Democratic,https://normatorres.com/,Norma4Congress,T,53.0,F,Married,F,T,F,D+19,T,,,W
+315,john,California,35,35,CA,CA35,Christian Valiente,Republican,https://www.votevaliente.com/,CLVALIENTE4,F,,M,,F,T,F,D+19,T,,,W
+316,john,California,37,37,CA,CA37,Karen Bass,Democratic,https://karenbass.com/,KarenBassTweets,T,64.0,F,Divorced,F,F,T,D+37,T,,46081.0,W
+317,john,California,37,37,CA,CA37,Ron Bassilian,Republican,https://ronfor37.org/,ron4california,F,,M,,T,F,F,D+37,T,,46081.0,W
+318,john,Florida,2,2,FL,FL02,Neal Dunn,Republican,https://www.nealdunn.com/,dunncampaign,T,65.0,M,Married,T,F,F,R+18,T,51.3,34718.0,S
+319,john,Florida,2,2,FL,FL02,Bob Rackleff,Democratic,https://www.bobrackleff.com/,bobrackleff,F,75.0,M,Married,T,F,F,R+18,T,51.3,34718.0,S
+320,john,Florida,9,9,FL,FL09,Wayne Liebnitzky,Republican,www.wayneforuscongress.com/,liebnitzkywayne,F,,M,Married,T,F,F,D+5,T,89.9,,S
+321,john,Florida,9,9,FL,FL09,Darren Soto,Democratic,https://www.darrensoto.com/,DarrenSoto,T,40.0,M,Married,F,T,F,D+5,T,89.9,,S
+322,john,Georgia,2,2,GA,GA02,Sanford Bishop,Democratic,https://sanfordbishop.com/,SanfordBishop,T,71.0,M,Married,F,F,T,D+6,T,65.76,,S
+323,john,Georgia,2,2,GA,GA02,Herman West,Republican,http://hermanwestforcongress.com/,RealHermanWest,F,,M,Married,F,F,T,D+6,T,65.76,,S
+324,john,Georgia,4,4,GA,GA04,Hank Johnson,Democratic,https://hankforcongress.com/,ReElectHank,T,64.0,M,Married,F,F,T,D+24,T,96.1,,S
+325,john,Georgia,4,4,GA,GA04,Joe Profit,Republican,https://joeprofitforcongress.com/,JoeProfitGA_04,F,68.0,M,Married,F,F,T,D+24,T,96.1,,S
+326,john,Georgia,12,12,GA,GA12,Rick Allen,Republican,https://www.rickwallen.com/,RickAllen,T,66.0,M,Married,T,F,F,R+9,T,59.96,,S
+327,john,Georgia,12,12,GA,GA12,Francys Johnson,Democratic,https://www.francysjohnson.org/,francysjohnson,F,39.0,M,Married,F,F,T,R+9,T,59.96,,S
+328,john,Georgia,14,14,GA,GA14,Steve Foster,Democratic,https://www.facebook.com/SteveFoster4Congress/,,F,,M,,T,F,F,R+27,T,59.72,,S
+329,john,Georgia,14,14,GA,GA14,Tom Graves,Republican,https://gravesforcongress.org/,RepTomGraves,T,48.0,M,Married,T,F,F,R+27,T,59.72,,S
+330,john,Indiana,6,6,IN,IN06,Jeannine Lake,Democratic,https://jeannineleelakeforcongress.com/,jeannineleelake,F,40.0,F,,F,F,T,R+18,T,59.23,39002.0,MW
+331,john,Indiana,6,6,IN,IN06,Greg Pence,Republican,https://gregpenceforcongress.com/,GregPenceIN,T,61.0,M,Married,T,F,F,R+18,T,59.23,39002.0,MW
+332,john,Kentucky,2,2,KY,KY02,Brett Guthrie,Republican,https://www.brettguthrie.com/,brettguthrie,T,54.0,M,Married,T,F,F,R+19,T,49.77,49960.0,S
+333,john,Kentucky,2,2,KY,KY02,Hank Linderman,Democratic,https://www.hank4ky.com/,hank4ky,F,65.0,M,Married,T,F,F,R+19,T,49.77,49960.0,S
+334,john,Maryland,2,2,MD,MD02,Liz Matory,Republican,https://www.lizmatory.com/,lizmatory,F,38.0,F,,F,F,T,D+11,T,98.3,60376.0,S
+335,john,Maryland,2,2,MD,MD02,Dutch Ruppersberger,Democratic,https://www.dutchforcongress.com/,Call_Me_Dutch,T,71.0,M,Married,T,F,F,D+11,T,98.3,60376.0,S
+336,john,Maryland,2,2,MD,MD02,Guy Mimoun,Green,https://www.facebook.com/GuyForCongress/,,F,,M,,F,F,F,D+11,T,98.3,60376.0,S
+337,john,Maryland,8,8,MD,MD08,Jamie Raskin,Democratic,https://jamieraskin.com/,repraskin,T,55.0,M,Married,T,F,F,D+14,T,88.08,97192.0,S
+338,john,Maryland,8,8,MD,MD08,John Walsh,Republican,http://johnwalshforcongress.com/,,F,70.0,M,,T,F,F,D+14,T,88.08,97192.0,S
+339,john,Maryland,8,8,MD,MD08,Jasen Wunder,Libertarian,https://jasenwunder.org/,Jasenwunder,F,45.0,M,,T,F,F,D+14,T,88.08,97192.0,S
+340,john,Massachusetts,4,4,MA,MA04,Joe Kennedy III,Democratic,https://www.joekennedyforcongress.com/,repjoekennedy,T,38.0,M,Married,T,F,F,D+9,F,90,,NE
+341,john,Massachusetts,5,5,MA,MA05,Katherine Clark,Democratic,http://katherineclark.org/,RepKClark,T,55.0,F,Married,T,F,F,D+18,T,90,,NE
+342,john,Massachusetts,5,5,MA,MA05,John Hugo,Republican,https://sites.google.com/view/johnhugo/home,hugocongress,F,,M,,T,F,F,D+18,T,90,,NE
+343,john,Massachusetts,9,9,MA,MA09,Bill Keating,Democratic,http://www.keatingforcongress.com/,WilliamKeating,T,66.0,M,Married,T,F,F,D+4,T,,,NE
+344,john,Massachusetts,9,9,MA,MA09,Peter Tedeschi,Republican,https://tedeschiforcongress.com/,pdtedeschi,F,65.0,M,Married,T,F,F,D+4,T,,,NE
+345,john,Missouri,3,3,MO,MO03,Katy Geppert,Democratic,https://katygeppertforcongress.com/,katyforcongress,F,35.0,F,Married,T,F,F,R+18,T,,,MW
+346,john,Missouri,3,3,MO,MO03,Blaine Luetkemeyer,Republican,http://www.blaineforcongress.com/,luetkemeyerb,T,66.0,M,Married,T,F,F,R+18,T,,,MW
+347,john,Missouri,3,3,MO,MO03,Donald Stolle,Libertarian,https://www.facebook.com/pages/category/Political-Organization/Donald-Stolle-libertarian-for-congress-2025058981097128/,,F,,M,,T,F,F,R+18,T,,,MW
+348,john,Nevada,1,1,NV,NV01,Joyce Bentley,Republican,http://joycebentley.com/,joycebentleycd1,F,,F,Married,F,F,F,D+15,T,99.9,36447.0,W
+349,john,Nevada,1,1,NV,NV01,Dan Garfield,Independent American,,,F,,M,,T,F,F,D+15,T,99.9,36447.0,W
+350,john,Nevada,1,1,NV,NV01,Robert Strawder,Libertarian,https://www.facebook.com/vegasdonforcongress/,trawvegasdon,F,45.0,M,,F,F,T,D+15,T,99.9,36447.0,W
+351,john,Nevada,1,1,NV,NV01,Dina Titus,Democratic,https://www.facebook.com/CongresswomanTitus,repdinatitus,T,68.0,F,Married,T,F,F,D+15,T,99.9,36447.0,W
+352,john,New Hampshire,1,1,NH,NH01,Dan Belforti,Libertarian,http://www.belforti.org/,,F,,M,,T,F,F,R+2,T,61.69,71277.0,NE
+353,john,New Hampshire,1,1,NH,NH01,Eddie Edwards,Republican,https://www.edwardsfornh.com/home,EddieEdwardsNH,F,65.0,M,Married,F,F,T,R+2,T,61.69,71277.0,NE
+354,john,New Hampshire,1,1,NH,NH01,Chris Pappas,Democratic,https://www.chrispappas.org/,ChrisPappasNH,F,38.0,M,Single,T,F,F,R+2,T,61.69,71277.0,NE
+355,john,New Jersey,10,10,NJ,NJ10,Agha Khan,Republican,http://www.khanforcongress.com/,,F,70.0,M,Married,F,F,F,D+36,T,100,,NE
+356,john,New Jersey,10,10,NJ,NJ10,Donald Payne,Democratic,payne.house.gov,RepDonaldPayne,T,59.0,M,Married,F,F,T,D+36,T,100,,NE
+357,john,North Carolina,1,1,NC,NC01,Roger Allison,Republican,https://rogerallisonforcongress.com/home-1,rogerwallison,F,65.0,M,,T,F,F,D+17,T,62.9,28410.0,S
+358,john,North Carolina,1,1,NC,NC01,G K Butterfield,Democratic,G Butterfield,KButterfield,T,71.0,M,Married,T,F,F,D+17,T,62.9,28410.0,S
+359,john,North Dakota,at-large,0,ND,ND00,Kelly Armstrong,Republican,https://www.armstrongnd.com/,Armstrong_ND,F,46.0,M,Married,T,F,F,R+16,T,55.8,56631.0,MW
+360,john,North Dakota,at-large,0,ND,ND00,Mac Schneider,Democratic,http://mac4northdakota.com/,mac4northdakota,F,39.0,M,Married,T,F,F,R+16,T,55.8,56631.0,MW
+361,john,Ohio,15,15,OH,OH15,Johnathan Miller,Independent,http://csjmiller.wixsite.com/iamrunning4congress,,F,,M,,F,F,F,R+7,T,91.26,53880.0,MW
+362,john,Ohio,15,15,OH,OH15,Rick Neal,Democratic,https://rickneal.com/,Rick_Neal,F,48.0,M,Married,T,F,F,R+7,T,91.26,53880.0,MW
+363,john,Ohio,15,15,OH,OH15,Steve Stivers,Republican,https://stevestivers.com/,stevestivers,T,53.0,M,Married,T,F,F,R+7,T,91.26,53880.0,MW
+364,john,Oklahoma,1,1,OK,OK01,Tim Gilpin,Democratic,https://www.gilpin4congress.com/,Gilpin4Congress,F,60.0,M,Married,T,F,F,R+17,T,89.63,,S
+365,john,Oklahoma,1,1,OK,OK01,Kevin Hern,Republican,https://www.hernforcongress.com/,krhern,F,55.0,M,Married,T,F,F,R+17,T,89.63,,S
+366,john,Pennsylvania,3,3,PA,PA03,Dwight Evans,Democratic,https://www.dwightevans.com/,DwightEvansPA,T,64.0,M,Married,F,F,T,D+41,T,59.26,35884.0,NE
+367,john,Pennsylvania,3,3,PA,PA03,Bryan Leib,Republican,https://www.bryanleib.com/,leibforpa,F,32.0,M,Single,T,F,F,D+41,T,59.26,35884.0,NE
+368,john,Pennsylvania,16,16,PA,PA16,Mike Kelly,Republican,http://www.mikekellyforcongress.com/,MikeKellyforPA,T,70.0,M,Married,T,F,F,R+8,T,76.05,45943.0,NE
+369,john,Pennsylvania,16,16,PA,PA16,Ron DiNicola,Democratic,https://dinicolaforcongress.com/,ron_dinicola,F,62.0,M,Married,T,F,F,R+8,T,76.05,45943.0,NE
+370,john,Pennsylvania,17,17,PA,PA17,Conor Lamb,Democratic,https://conorlamb.com/,conorlambpa,T,34.0,M,Single,T,F,F,R+3,T,,,NE
+371,john,Pennsylvania,17,17,PA,PA17,Keith Rothfus,Republican,https://www.keithrothfus.com/,keithrothfus,T,56.0,M,Married,T,F,F,R+3,T,,,NE
+372,john,Rhode Island,1,1,RI,RI01,David Cicilline,Democratic,https://www.cicilline.com/,davidcicilline,T,57.0,M,Married,T,F,F,D+14,T,,53305.0,NE
+373,john,Rhode Island,1,1,RI,RI01,Patrick Donovan,Republican,https://www.facebook.com/pg/PatrickDonovan4Congress/posts/,,F,65.0,M,,T,F,F,D+14,T,,53305.0,NE
+374,john,Rhode Island,1,1,RI,RI01,Daniel Joseph Guilmette,Independent,http://djforcongress.com/,danjguilmette,F,38.0,M,,T,F,F,D+14,T,,53305.0,NE
+375,john,Tennessee,7,7,TN,TN07,Mark Green,Republican,https://www.markgreen4tn.com/,DrMarkGreen4TN,F,53.0,M,Married,T,F,F,R+20,T,50.71,53276.0,S
+376,john,Tennessee,7,7,TN,TN07,Justin Kanew,Democratic,https://www.kanewforcongress.com/,kanew,F,43.0,M,Married,T,F,F,R+20,T,50.71,53276.0,S
+377,john,Tennessee,7,7,TN,TN07,Lenny Ladner,Independent,http://www.ladner4congress.com/,lennyladner,F,64.0,M,Married,T,F,F,R+20,T,50.71,53276.0,S
+378,john,Tennessee,7,7,TN,TN07,Brent Legendre,Independent,http://www.ofthepeople2018.com/,,F,45.0,M,Married,T,F,F,R+20,T,50.71,53276.0,S
+379,john,Texas,15,15,TX,TX15,Anthony Cristo,Libertarian,https://cristoforcongress.com/,cristodude,F,47.0,M,Married,F,T,F,D+7,T,86.67,46048.0,S
+380,john,Texas,15,15,TX,TX15,Vicente González,Democratic,http://www.vicentegonzalez.com/,repgonzalez,T,51.0,M,Married,F,T,F,D+7,T,86.67,46048.0,S
+381,john,Texas,15,15,TX,TX15,Tim Westley,Republican,https://www.timwestley.com/,dapastor,F,55.0,M,Married,F,F,T,D+7,T,86.67,46048.0,S
+382,john,Texas,19,19,TX,TX19,Jodey Arrington,Republican,http://www.jodeyarrington.com/index.php,JodeyArrington,T,46.0,M,Married,T,F,F,R+27,T,74.25,47875.0,S
+383,john,Texas,19,19,TX,TX19,Miguel Levario,Democratic,https://levarioforcongress.com/,miguellevario19,F,50.0,M,Married,F,T,F,R+27,T,74.25,47875.0,S
+384,john,Virginia,7,7,VA,VA07,Dave Brat,Republican,https://davebrat.com/,DaveBratVA7th,T,54.0,M,Married,T,F,F,R+7,T,72.38,73580.0,S
+385,john,Virginia,7,7,VA,VA07,Abigail Spanberger,Democratic,https://abigailspanberger.com/,SpanbergerVA07,F,39.0,F,Married,T,F,F,R+7,T,72.38,73580.0,S
+386,john,Virginia,7,7,VA,VA07,Joe Walton,Libertarian,https://www.joeforvirginia.com/,joeforvirginia,F,42.0,M,,T,F,F,R+7,T,72.38,73580.0,S
+387,john,Washington,4,4,WA,WA04,Christine Brown,Democratic,https://www.christinebrownforcongress.com/,ChristineForWA,F,68.0,F,,T,F,F,R+13,T,,37764.0,W
+388,john,Washington,4,4,WA,WA04,Dan Newhouse,Republican,https://www.dannewhouse.com/,RepNewhouse,T,63.0,M,Widowed,T,F,F,R+13,T,,37764.0,W
+389,john,Wisconsin,3,3,WI,WI03,Ron Kind,Democratic,http://www.ronkind.org/,repronkind,T,55.0,M,Married,T,F,F,Even,T,43.15,40006.0,MW
+390,john,Wisconsin,3,3,WI,WI03,Steve Toft,Republican,http://www.toftforcongress.com/,toftforcongress,F,,M,Married,T,F,F,Even,T,43.15,40006.0,MW
+391,kailey,Alaska,at-large,0,AK,AK00,Alyse Galvin,Undeclared/Democratic,https://www.alyse4alaska.com/,AlyseGalvin,F,,F,,T,F,F,R+9,T,65.7,57431.0,W
+392,kailey,Alaska,at-large,0,AK,AK00,Don Young,Republican,https://donyoung.house.gov/,repdonyoung,T,85.0,M,Married,T,F,F,R+9,T,,,W
+393,kailey,California,15,15,CA,CA15,Rudy Peters,Republican,https://rudypetersforcongress.com/,PetersCongress,T,56.0,M,Married,T,F,F,D+20,T,,,W
+394,kailey,California,15,15,CA,CA15,Eric Swalwell,Democratic,https://www.swalwellforcongress.com,RepSwalWell,F,37.0,M,Married,T,F,F,D+20,F,,,W
+395,kailey,California,41,41,CA,CA41,Aja Smith,Republican,https://www.ajaforcongress.com/,AjaforCongress,T,,F,,F,F,F,D+12,T,,,W
+396,kailey,California,41,41,CA,CA41,Mark Takano,Democratic,https://marktakano.com/,RepMarkTakano,F,57.0,M,,F,F,F,D+12,T,,,W
+397,kailey,California,44,44,CA,CA44,Nanette Barragán,Democratic,barraganforcongress.com,RepBarragan,T,42.0,F,,F,T,F,D+35,T,100,43956.0,W
+398,kailey,California,44,44,CA,CA44,Aja Brown,Democratic,joinajabrown.com,AjaLBrown,F,36.0,F,Married,F,F,T,D+35,T,100,43956.0,W
+399,kailey,Colorado,2,2,CO,CO02,Joe Neguse,Democratic,https://www.joeneguseforcongress.com,JoeNeguse,T,34.0,M,Married,F,F,T,D+9,T,81.04,,W
+400,kailey,Colorado,2,2,CO,CO02,Peter Yu,Republican,https://www.peteryuforcongress.com,peteryuCO,F,,,,F,F,F,D+9,T,81.04,,W
+401,kailey,Colorado,7,7,CO,CO07,Mark Barrington,Republican,https://barringtonforcolorado.com,,T,,M,Married,T,F,F,D+6,T,99.44,,W
+402,kailey,Colorado,7,7,CO,CO07,Ed Perlmutter,Democratic,https://perlmutterforcolorado.com/,RepPerlmutter,F,65.0,M,Married,T,F,F,D+6,T,99.44,,W
+403,kailey,Connecticut,2,2,CT,CT02,Joe Courtney,Democratic,joecourtney.com,RepJoeCourtney,T,65.0,M,Married,T,F,F,D+3,T,66.7,54498.0,NE
+404,kailey,Connecticut,2,2,CT,CT02,Danny Postemski,Republican,,,F,,M,,,,,D+3,T,66.7,54498.0,NE
+405,kailey,Illinois,8,8,IL,IL08,JD Diganvker,Republican,https://www.jdforcongress.com,JD4Congress,T,60.0,M,Married,F,F,F,D+8,T,100,62705.0,MW
+406,kailey,Illinois,8,8,IL,IL08,Raja Krishnamoorthi,Democratic,https://rajaforcongress.com/,CongressmanRaja,F,45.0,M,Married,F,F,F,D+8,T,100,62705.0,MW
+407,kailey,Illinois,14,14,IL,IL14,Randy Hultgren,Republican,https://randyhultgren.com,rephultgren,T,52.0,M,Married,T,F,F,R+5,T,89.9,77758.0,MW
+408,kailey,Illinois,14,14,IL,IL14,Lauren Underwood,Democratic,https://www.underwoodforcongress.com,LUnderwood630,F,31.0,F,Single,F,F,T,R+5,T,89.9,77758.0,MW
+409,kailey,Illinois,18,18,IL,IL18,Darin LaHood,Republican,https://www.lahoodforcongress.com,RepLaHood,T,50.0,M,Married,T,F,F,R+15,T,63.7,54571.0,MW
+410,kailey,Illinois,18,18,IL,IL18,Junius Rodriguez,Democratic,www.rodriguezcongress.com,,F,61.0,M,Single,T,F,F,R+15,T,63.7,54571.0,MW
+411,kailey,Indiana,3,3,IN,IN03,Jim Banks,Republican,www.jimbanks.us/,RepJimBanks,T,39.0,M,Married,T,F,F,R+18,T,65.14,44013.0,MW
+412,kailey,Indiana,3,3,IN,IN03,Courtney Tritch,Democratic,https://www.tritchforcongress.com,CourtneyTritch,F,40.0,F,Single,T,F,F,R+18,T,65.14,44013.0,MW
+413,kailey,Indiana,7,7,IN,IN07,André Carson,Democratic,https://carson.house.gov,RepAndreCarson,T,43.0,M,Divorced,F,F,T,D+11,T,99.7,36522.0,MW
+414,kailey,Indiana,7,7,IN,IN07,"Wayne ""Gunny"" Harmon",Republican,https://weharmon.com,Gunny_Harmon,F,,M,,T,F,F,D+11,T,99.7,36522.0,MW
+415,kailey,Louisiana,1,1,LA,LA01,Ronald Denenea,Libertarian,,,F,,M,,,,,R+24,T,86.02,56938.0,S
+416,kailey,Louisiana,1,1,LA,LA01,Jim Francis,Democratic,www.jimfrancisforcongress.com,JimFrancisLA01,F,,M,Married,T,F,F,R+24,T,86.02,56938.0,S
+417,kailey,Louisiana,1,1,LA,LA01,Howard Kearney,Libertarian,https://www.kearneyforcongress.com,HowardKearney,F,59.0,M,Married,T,F,F,R+24,T,86.02,56938.0,S
+418,kailey,Louisiana,1,1,LA,LA01,Tammy Savoie,Democratic,https://www.tammysavoie.com,tammyforla,F,59.0,F,Single,T,F,F,R+24,T,86.02,56938.0,S
+419,kailey,Louisiana,1,1,LA,LA01,Steve Scalise,Republican,https://stevescalise.com,SteveScalise,T,52.0,M,Married,T,T,T,R+24,T,86.02,56938.0,S
+420,kailey,Michigan,2,2,MI,MI02,Rob Davidson,Democratic,https://www.robdavidsonforcongress.com,VoteRobDavidson,F,,M,Married,F,F,F,R+9,T,74.26,52919.0,MW
+421,kailey,Michigan,2,2,MI,MI02,Bill Huizenga,Republican,huizenga.house.gov,RepHuizenga,T,48.0,M,Married,T,F,F,R+9,T,74.26,52919.0,MW
+422,kailey,Michigan,6,6,MI,MI06,Matt Longjohn,Democratic,https://www.mattlongjohnforcongress.com,MattLongjohn,F,,M,Married,T,F,F,R+4,T,82.2,,MW
+423,kailey,Michigan,6,6,MI,MI06,Fred Upton,Republican,https://www.fredupton.com,RepFredUpton,T,65.0,M,Married,T,F,F,R+4,T,82.2,,MW
+424,kailey,Missouri,7,7,MO,MO07,Ben Brixey,Libertarian,https://www.benbrixey.com,,F,,M,,T,F,F,R+23,T,59.28,44619.0,MW
+425,kailey,Missouri,7,7,MO,MO07,Billy Long,Republican,https://billylongforcongress.com/,USRepLong,T,63.0,M,Married,T,F,F,R+23,T,59.28,44619.0,MW
+426,kailey,Missouri,7,7,MO,MO07,Jamie Schoolcraft,Democratic,https://www.electschoolcraft.com,Schoolcreft4MO,F,,M,Married,T,F,F,R+23,T,59.28,44619.0,MW
+427,kailey,Montana,at-large,0,MT,MT00,Doug Campbell,Independent,https://dougformt.us,DougforMT,F,58.0,M,Married,T,F,F,R+11,T,54,33024.0,W
+428,kailey,Montana,at-large,0,MT,MT00,Greg Gianforte,Republican,www.gregformontana.com/,gianforte,T,57.0,M,Married,T,F,F,R+11,T,54,33024.0,W
+429,kailey,Montana,at-large,0,MT,MT00,Elinor Swanson,Libertarian,https://www.swanson4liberty.com,Swanson4Liberty,F,,F,Married,T,F,F,R+11,T,54,33024.0,W
+430,kailey,Montana,at-large,0,MT,MT00,Kathleen Williams,Democratic,https://kathleenformontana.com/,WilliamsForMT,F,57.0,F,Married,F,F,F,R+11,T,54,33024.0,W
+431,kailey,New Hampshire,2,2,NH,NH02,Stewart Levenson,Republican,www.levensonforcongress.com,Dr_Levenson_NH,F,61.0,M,Widowed,T,F,F,D+2,T,51.83,63835.0,NE
+432,kailey,New Hampshire,2,2,NH,NH02,Ann McLane Kuster,Democratic,www.kusterforcongress.com,AnnMcLaneKuster,T,62.0,F,Married,F,F,F,D+2,T,51.83,63835.0,NE
+433,kailey,New Hampshire,2,2,NH,NH02,Steve Negron,Republican,https://negron4congress.com/,Negron4Congress,F,,M,Married,F,F,F,D+2,T,51.83,63835.0,NE
+434,kailey,New Hampshire,2,2,NH,NH02,Justin O'Donnell,Libertarian,https://www.odonnell2018.com,ODonnell4NH,F,29.0,M,Single,T,F,F,D+2,T,51.83,63835.0,NE
+435,kailey,New Jersey,7,7,NJ,NJ07,Leonard Lance,Republican,www.lanceforcongress.com,LeonardLanceNJ7,T,66.0,M,Married,T,F,F,R+3,T,90.38,101746.0,NE
+436,kailey,New Jersey,7,7,NJ,NJ07,Tom Malinowski,Democratic,https://malinowskifornj.com,Malinowski,F,53.0,M,,T,F,F,R+3,T,90.38,101746.0,NE
+437,kailey,New York,9,9,NY,NY09,Joel Anabilah-Azumah,Reform,https://www.joelazumah.com,,F,,,,,,,D+34,T,,,NE
+438,kailey,New York,9,9,NY,NY09,Yvette Clarke,Democratic,https://www.voteyvette.com,VoteYvette,T,53.0,F,Single,F,F,T,D+34,T,,,NE
+439,kailey,New York,9,9,NY,NY09,Lutchi Gayot,Republican,https://www.teamgayot.com,LutchiGayot,F,38.0,M,Single,F,F,T,D+34,T,,,NE
+440,kailey,New York,12,12,NY,NY12,Scott Hutchins,Green,https://votescotthutchins.wordpress.com/,,,,,Single,T,F,F,D+31,T,,,NE
+441,kailey,New York,12,12,NY,NY12,Carolyn Maloney,Democratic,carolynmaloney.com,CarolynBMaloney,T,72.0,F,Divorced,T,F,F,D+31,T,,,NE
+442,kailey,New York,12,12,NY,NY12,Eliot Rabin,Republican,https://eliotrabinforcongress.com,EliotRabinForUS,F,,M,,T,F,F,D+31,T,,,NE
+443,kailey,New York,17,17,NY,NY17,Joe Ciardullo,Reform,https://www.averagejoeforcongress.com,,F,,M,Married,T,F,F,D+7,T,,,NE
+444,kailey,New York,17,17,NY,NY17,Nita Lowey,Democratic,https://www.loweyforcongress.com/,Lowey4Congress,T,81.0,F,Married,F,F,F,D+7,T,,,NE
+445,kailey,North Carolina,6,6,NC,NC06,Mark Walker,Republican,www.walker4nc.com,RepMarkWalker,T,49.0,M,Married,T,F,F,R+9,T,52.76,39710.0,S
+446,kailey,North Carolina,6,6,NC,NC06,Ryan Watts,Democratic,https://wattsforcongress.com,watts4congress,F,28.0,M,Single,T,F,F,R+9,T,52.76,39710.0,S
+447,kailey,Ohio,2,2,OH,OH02,Steve Myers,Independent,,,F,,,,,,,R+9,T,73.38,55472.0,MW
+448,kailey,Ohio,2,2,OH,OH02,Jill Schiller,Democratic,https://voteschiller.com,Vote4Schiller,F,42.0,F,Married,T,F,F,R+9,T,73.38,55472.0,MW
+449,kailey,Ohio,2,2,OH,OH02,Brad Wenstrup,Republican,www.usabrad.com,RepBradWenstrup,T,60.0,M,Married,T,F,F,R+9,T,73.38,55472.0,MW
+450,kailey,Ohio,10,10,OH,OH10,Theresa Gasper,Democratic,https://www.gasperforcongress.com,GasperforOH10,F,,F,Married,T,F,F,R+4,T,,,MW
+451,kailey,Ohio,10,10,OH,OH10,Mike Turner,Republican,www.miketurner.com,MikeTurnerOH,T,58.0,M,Divorced,T,F,F,R+4,T,,,MW
+452,kailey,Oklahoma,5,5,OK,OK05,Kendra Horn,Democratic,www.kendrahornforcongress.com/,kendrashorn,F,,F,Single,T,F,F,R+10,T,87.53,33893.0,S
+453,kailey,Oklahoma,5,5,OK,OK05,Steve Russell,Republican,https://www.steverussellforcongress.com/,SteveRussellOK,T,55.0,M,Married,T,F,F,R+10,T,87.53,33893.0,S
+454,kailey,Pennsylvania,1,1,PA,PA01,Brian Fitzpatrick,Republican,https://www.brianfitzpatrick.com,BrianFitzUSA,F,44.0,M,,T,F,F,R+1,T,100,28261.0,NE
+455,kailey,Pennsylvania,1,1,PA,PA01,Scott Wallace,Democratic,https://www.scottwallacepa.com/,ScottWallacePA,F,,M,Married,T,F,F,R+1,T,100,28261.0,NE
+456,kailey,Pennsylvania,7,7,PA,PA07,Marty Nothstein,Republican,https://www.martyforpa.com,Marty_Nothstein,F,47.0,M,Married,T,F,F,D+1,T,87.65,,NE
+457,kailey,Pennsylvania,7,7,PA,PA07,Susan Wild,Democratic,https://wildforcongress.com,,F,,F,,T,F,F,D+1,T,87.65,,NE
+458,kailey,Pennsylvania,10,10,PA,PA10,Scott Perry,Republican,https://www.patriotsforperry.com,Perry4Congress,T,,M,Married,T,F,F,R+6,T,,,NE
+459,kailey,Pennsylvania,10,10,PA,PA10,George Scott,Democratic,https://georgescott4congress.com/,GScott4Congress,F,56.0,M,Married,T,F,F,R+6,T,,,NE
+460,kailey,South Carolina,3,3,SC,SC03,Jeff Duncan,Republican,www.jeffduncan.com,Duncan4Congress,T,52.0,M,Married,T,F,F,R+19,T,,36092.0,S
+461,kailey,South Carolina,3,3,SC,SC03,Mary Geren,Democratic,https://marygeren.com,MaryGeren,F,,F,Married,T,F,F,R+19,T,,36092.0,S
+462,kailey,South Carolina,3,3,SC,SC03,Dave Moore,American,https://www.daveforcongress.org/,electdave2018,F,66.0,M,Married,T,F,F,R+19,T,,36092.0,S
+463,kailey,Tennessee,8,8,TN,TN08,John Boatner,Democratic,https://www.voteboatner.com/,voteboatner,F,,M,Married,T,F,F,R+19,T,60.83,54145.0,S
+464,kailey,Tennessee,8,8,TN,TN08,James Hart,Independent,,,F,74.0,M,,T,F,F,R+19,T,60.83,54145.0,S
+465,kailey,Tennessee,8,8,TN,TN08,David Kustoff,Republican,www.kustoffforcongress.com,DavidKustoff,T,52.0,M,Married,T,F,F,R+19,T,60.83,54145.0,S
+466,kailey,Tennessee,8,8,TN,TN08,Erika Stotts Pearson,Democratic,https://erikastottspearson.com,erika_stotts,F,,F,Divoced,F,F,T,R+19,T,60.83,54145.0,S
+467,kailey,Texas,23,23,TX,TX23,Ruben Corvalan,Libertarian,www.rubenforcongress.org,rubencongress,F,66.0,M,Married,F,T,F,R+1,T,78.09,511293.0,S
+468,kailey,Texas,23,23,TX,TX23,Will Hurd,Republican,https://www.hurdforcongress.com,WillHurd,T,41.0,M,Single,F,F,T,R+1,T,78.09,511293.0,S
+469,kailey,Texas,23,23,TX,TX23,Gina Ortiz Jones,Democratic,https://ginaortizjones.com,,F,37.0,F,Single,F,F,F,R+1,T,78.09,511293.0,S
+470,kailey,Texas,29,29,TX,TX29,Phillip Aronoff,Republican,https://www.aronoffforcongress.com/,Aronoff4USRep,T,,M,Married,T,F,F,D+19,T,99.94,41737.0,S
+471,kailey,Texas,29,29,TX,TX29,Cullen Burns,Libertarian,https://www.facebook.com/CullenBurnsforCongress/,cullenburnsCD29,F,,M,Married,T,F,F,D+19,T,99.94,41737.0,S
+472,kailey,Texas,29,29,TX,TX29,Sylvia Garcia,Democratic,http://sylviaforcongress.com/,SenatorSylvia,F,68.0,F,Single,F,T,F,D+19,T,99.94,41737.0,S
+473,kailey,Texas,33,33,TX,TX33,Willie Billups,Republican,https://billupsforcongress.com,VoteBillups,F,41.0,M,Married,F,F,T,D+23,T,99.98,38445.0,S
+474,kailey,Texas,33,33,TX,TX33,Jason Reeves,Libertarian,,,F,,M,Single,T,F,F,D+23,T,99.98,38445.0,S
+475,kailey,Texas,33,33,TX,TX33,Marc Veasey,Democratic,marcveasey.com/,MarcVeasey,T,47.0,M,Married,F,F,T,D+23,T,99.98,38445.0,S
+476,kailey,Virginia,3,3,VA,VA03,Bobby Scott,Democratic,bobbyscottforcongress.com,BobbyScott4VA3,T,71.0,M,Single,F,F,T,D+16,F,95.01,51794.0,S
+477,kailey,Washington,2,2,WA,WA02,Rick Larsen,Democratic,https://www.ricklarsen.org,LarsenRick,T,53.0,M,Married,T,F,F,D+10,T,85.27,45441.0,W
+478,kailey,Washington,2,2,WA,WA02,Brian Luke,Libertarian,https://www.luke4congress.com,,F,,M,,T,F,F,D+10,T,85.27,45441.0,W
+479,kailey,Washington,9,9,WA,WA09,Adam Smith,Democratic,www.electadamsmith.com,RepAdamSmith,T,53.0,M,Married,T,F,F,D+21,T,99.97,,W
+480,kailey,Washington,9,9,WA,WA09,Sarah Smith,Democratic,https://www.votesarahsmith.com,sarahsmith2018,F,30.0,F,Single,T,F,F,D+21,T,99.97,,W
+481,kailey,West Virginia,3,3,WV,WV03,Carol Miller,Republican,https://www.electcarolmiller.com,carolmillerwv,F,67.0,F,Married,T,F,F,R+23,T,40.16,25630.0,S
+482,kailey,West Virginia,3,3,WV,WV03,Richard Ojeda,Democratic,https://voteojeda.com/,Ojeda4congress,F,47.0,M,Married,T,F,F,R+23,T,40.16,25630.0,S
+483,kailey,Wisconsin,2,2,WI,WI02,Mark Pocan,Democratic,https://pocan.house.gov/,MarkPocan,T,54.0,M,Married,T,F,F,D+18,F,75.65,46976.0,MW
+484,kailey,Wisconsin,5,5,WI,WI05,Tom Palzewicz,Democratic,https://www.tomforwi.com,tomforwi,F,74.0,M,Married,T,F,F,R+13,T,84.79,58594.0,MW
+485,kailey,Wisconsin,5,5,WI,WI05,Jim Sensenbrenner,Republican,https://www.sensenbrenner.org,jimPressOffice,T,75.0,M,Married,T,F,F,R+13,T,84.79,58594.0,MW
+486,kaixuan,Alabama,4,4,AL,AL04,Robert Aderholt,Republican,https://aderholt.house.gov/,robert_aderholt,T,53.0,M,Married,T,F,F,R+30,T,34.62,41110.0,S
+487,kaixuan,Alabama,4,4,AL,AL04,Lee Auman,Democratic,https://ballotpedia.org/Lee_Auman,LeeAuman2018,F,25.0,M,,T,F,F,R+30,T,34.62,41110.0,S
+488,kaixuan,Alabama,6,6,AL,AL06,Danner Kline,Democratic,https://www.votedannerkline.com/,VoteDannerKline,F,,M,Married,T,F,F,R+26,T,69.17,61413.0,S
+489,kaixuan,Alabama,6,6,AL,AL06,Gary Palmer,Republican,https://palmer.house.gov/,USRepGaryPalmer,T,64.0,M,,T,F,F,R+26,T,69.17,61413.0,S
+490,kaixuan,Arizona,5,5,AZ,AZ05,Andy Biggs,Republican,https://biggsforcongress.com/,RepAndyBiggsAZ,T,60.0,M,Married,T,F,F,R+15,T,97.2,51780.0,W
+491,kaixuan,Arizona,5,5,AZ,AZ05,Joan Greene,Democratic,https://en.wikipedia.org/wiki/Arizona%27s_5th_congressional_district,joangreeneaz,F,,F,,T,F,F,R+15,T,97.2,51780.0,W
+492,kaixuan,California,4,4,CA,CA04,Tom McClintock,Republican,,RepMcClintock,T,62.0,M,Married,T,F,F,R+10,T,,,W
+493,kaixuan,California,4,4,CA,CA04,Jessica Morse,Democratic,,Morse4America,F,,,,,,,R+10,T,,,W
+494,kaixuan,California,9,9,CA,CA09,Marla Livengood,Republican,,,F,,,,,,,D+8,T,,,W
+495,kaixuan,California,9,9,CA,CA09,Jerry McNerney,Democratic,,,T,,,,,,,D+8,T,,,W
+496,kaixuan,California,12,12,CA,CA12,Nancy Pelosi,Democratic,,NancyPelosi,T,,,,,,,D+37,T,100,,W
+497,kaixuan,California,12,12,CA,CA12,Lisa Remmer,Republican,,1776NotInVain,F,,,,,,,D+37,T,100,,W
+498,kaixuan,California,16,16,CA,CA16,Jim Costa,Democratic,,RepJimCosta,T,,,,,,,D+9,T,,,W
+499,kaixuan,California,16,16,CA,CA16,Elizabeth Heng,Republican,,ElizabethHeng,F,,F,,F,F,F,D+9,T,,,W
+500,kaixuan,Connecticut,3,3,CT,CT03,Angel Cadena,Republican,,hiro4you2,F,,,,,,,D+9,T,96.6,49752.0,NE
+501,kaixuan,Connecticut,3,3,CT,CT03,Rosa DeLauro,Democratic,,rosadelauro,T,,F,,T,F,F,D+9,T,96.6,49752.0,NE
+502,kaixuan,Florida,12,12,FL,FL12,Gus Bilirakis,Republican,,RepGusBilirakis,T,,M,,T,F,F,R+8,T,93.09,,S
+503,kaixuan,Florida,12,12,FL,FL12,Chris Hunter,Democratic,,ChrisHunterFL,F,,M,,T,F,F,R+8,T,93.09,,S
+504,kaixuan,Florida,12,12,FL,FL12,Angelika Purkis,No Party Afiliation,,itsnotokayfl,F,,F,,T,F,F,R+8,T,93.09,,S
+505,kaixuan,Georgia,10,10,GA,GA10,Jody Hice,Republican,,CongressmanHice,T,,M,,T,F,F,R+15,T,56.03,,S
+506,kaixuan,Georgia,10,10,GA,GA10,Tabitha Johnson-Green,Democratic,,TJG4GA,F,,F,,F,F,T,R+15,T,56.03,,S
+507,kaixuan,Idaho,1,1,ID,ID01,Russ Fulcher,Republican,,RussFulcher,T,,M,,T,F,F,R+21,T,65.82,38364.0,W
+508,kaixuan,Idaho,1,1,ID,ID01,Scott Howard,Libertarian,,,F,,,,,,,R+21,T,65.82,38364.0,W
+509,kaixuan,Idaho,1,1,ID,ID01,Christina McNeil,Democratic,,ForMcneil,F,,F,,T,F,F,R+21,T,65.82,38364.0,W
+510,kaixuan,Illinois,3,3,IL,IL03,Arthur Jones,Republican,,ArtJonesCongres,F,,M,,T,F,F,D+6,T,99.6,56597.0,MW
+511,kaixuan,Illinois,3,3,IL,IL03,Dan Lipinski,Democratic,,RepLipinski,T,,M,,T,F,F,D+6,T,99.6,56597.0,MW
+512,kaixuan,Illinois,9,9,IL,IL09,John Elleson,Republican,https://en.wikipedia.org/wiki/Illinois%27s_9th_congressional_district,JohnElleson,F,,M,,T,F,F,D+18,T,100,63039.0,MW
+513,kaixuan,Illinois,9,9,IL,IL09,Jan Schakowsky,Democratic,https://en.wikipedia.org/wiki/Illinois%27s_9th_congressional_district,janschakowsky,T,,F,,T,F,F,D+18,T,100,63039.0,MW
+514,kaixuan,Iowa,1,1,IA,IA01,Rod Blum,Republican,https://en.wikipedia.org/wiki/Iowa%27s_1st_congressional_district,RepRodBlum,T,,M,,T,F,F,D+1,T,66.35,38727.0,MW
+515,kaixuan,Iowa,1,1,IA,IA01,Abby Finkenauer,Democratic,https://en.wikipedia.org/wiki/Iowa%27s_1st_congressional_district,Abby4Iowa,F,,F,,T,F,F,D+1,T,66.35,38727.0,MW
+516,kaixuan,Iowa,1,1,IA,IA01,Henry Gaff,Green,https://en.wikipedia.org/wiki/Iowa%27s_1st_congressional_district,HenryGraff,F,,M,,T,F,F,D+1,T,66.35,38727.0,MW
+517,kaixuan,Kentucky,3,3,KY,KY03,Vickie Glisson,Republican,https://en.wikipedia.org/wiki/Kentucky%27s_3rd_congressional_district,VickieYGlisson,F,,M,,T,F,F,D+6,T,99.33,51070.0,S
+518,kaixuan,Kentucky,3,3,KY,KY03,John Yarmuth,Democratic,https://en.wikipedia.org/wiki/Kentucky%27s_3rd_congressional_district,RepJohnYarmuth,T,,M,,T,F,F,D+6,T,99.33,51070.0,S
+519,kaixuan,Louisiana,5,5,LA,LA05,Ralph Abraham,Republican,https://en.wikipedia.org/wiki/Louisiana%27s_5th_congressional_district,RepAbraham,T,,M,,T,F,F,R+15,T,48.35,36717.0,S
+520,kaixuan,Louisiana,5,5,LA,LA05,Billy Burkette,Independent,https://en.wikipedia.org/wiki/Louisiana%27s_5th_congressional_district,VoteJessee,F,,M,Married,T,F,F,R+15,T,48.35,36717.0,S
+521,kaixuan,Louisiana,5,5,LA,LA05,Jesse Carlton Fleenor,Democratic,https://en.wikipedia.org/wiki/Louisiana%27s_5th_congressional_district,,F,,,,,,,R+15,T,48.35,36717.0,S
+522,kaixuan,Louisiana,5,5,LA,LA05,Kyle Randol,Libertarian,https://en.wikipedia.org/wiki/Louisiana%27s_5th_congressional_district,,F,,,,,,,R+15,T,48.35,36717.0,S
+523,kaixuan,Maine,2,2,ME,ME02,Jared Golden,Democratic,https://en.wikipedia.org/wiki/Maine%27s_2nd_congressional_district,golden4congress,F,,M,,T,F,F,R+2,T,27.89,,NE
+524,kaixuan,Maine,2,2,ME,ME02,Bruce Poliquin,Republican,https://en.wikipedia.org/wiki/Maine%27s_2nd_congressional_district,RepPoliquin,T,,M,,T,F,F,R+2,T,27.89,,NE
+525,kaixuan,Massachusetts,7,7,MA,MA07,Ayanna Pressley,Democratic,,AyannaPressley,F,,F,,F,F,T,D+34,F,na,,NE
+526,kaixuan,Michigan,8,8,MI,MI08,Mike Bishop,Republican,,RepMikeBishop,T,,M,,,,,R+4,T,na,,MW
+527,kaixuan,Michigan,8,8,MI,MI08,Brian Ellison,Libertarian,,Ptsbrian,F,,M,,T,F,F,R+4,T,na,,MW
+528,kaixuan,Michigan,8,8,MI,MI08,Elissa Slotkin,Democratic,,ElissaSlotkin,F,,F,,T,F,F,R+4,T,na,,MW
+529,kaixuan,Mississippi,3,3,MS,MS03,Michael Evans,Democratic,https://en.wikipedia.org/wiki/Mississippi%27s_3rd_congressional_district,,F,,,,,,,R+13,T,40.33,31907.0,S
+530,kaixuan,Mississippi,3,3,MS,MS03,Michael Guest,Republican,https://en.wikipedia.org/wiki/Mississippi%27s_3rd_congressional_district,GuestCongress,F,,M,Married,T,F,F,R+13,T,40.33,31907.0,S
+531,kaixuan,Mississippi,3,3,MS,MS03,Matthew Holland,Reform,https://en.wikipedia.org/wiki/Mississippi%27s_3rd_congressional_district,,F,,,,,,,R+13,T,40.33,31907.0,S
+532,kaixuan,Missouri,4,4,MO,MO04,Mark Bliss,Libertarian,,,F,,,,,,,R+17,T,na,,MW
+533,kaixuan,Missouri,4,4,MO,MO04,Vicky Hartzler,Republican,,RepHartzler,T,,F,,T,F,F,R+17,T,na,,MW
+534,kaixuan,Missouri,4,4,MO,MO04,Renee Hoagenson,Democratic,,ReneeHoagenson,F,,F,,T,F,F,R+17,T,na,,MW
+535,kaixuan,Nevada,3,3,NV,NV03,Susie Lee,Democratic,,SusieLeeNV,F,,F,,T,F,F,R+2,T,,61286.0,W
+536,kaixuan,Nevada,3,3,NV,NV03,Danny Tarkanian,Republican,,DannyTarkanian,F,,M,,T,F,F,R+2,T,,61286.0,W
+537,kaixuan,New York,11,11,NY,NY11,Henry Bardel,Green,,Bardel4CD11,F,,M,,T,F,F,R+3,T,,,NE
+538,kaixuan,New York,11,11,NY,NY11,Dan Donovan,Republican,,RepDanDonovan,T,,M,,T,F,F,R+3,T,,,NE
+539,kaixuan,New York,11,11,NY,NY11,Max Rose,Democratic,,MaxRose4NY,F,,M,,T,F,F,R+3,T,,,NE
+540,kaixuan,New York,13,13,NY,NY13,Jineea Butler,Republican,https://en.wikipedia.org/wiki/New_York%27s_13th_congressional_district,Jineea4Congress,F,,F,,F,F,T,D+43,T,100,,NE
+541,kaixuan,New York,13,13,NY,NY13,Adriano Espaillat,Democratic,https://en.wikipedia.org/wiki/New_York%27s_13th_congressional_district,RepEspaillat,T,,M,,,,,D+43,T,100,,NE
+542,kaixuan,New York,15,15,NY,NY15,Jason Gonzalez,Republican,https://en.wikipedia.org/wiki/New_York%27s_15th_congressional_district,ByJasonGonzales,F,,M,,F,T,F,D+44,T,100,,NE
+543,kaixuan,New York,15,15,NY,NY15,José Serrano,Democratic,https://en.wikipedia.org/wiki/New_York%27s_15th_congressional_district,RepJoseSerrano,T,,M,,F,T,F,D+44,T,100,,NE
+544,kaixuan,New York,16,16,NY,NY16,Eliot Engel,Democratic,,RepEliotEngel,T,,M,,T,F,F,D+24,F,,,NE
+545,kaixuan,New York,19,19,NY,NY19,Antonio Delgado,Democratic,,DelgadoforNY19,F,,M,,F,F,T,R+2,T,,,NE
+546,kaixuan,New York,19,19,NY,NY19,John Faso,Republican,,RepJohnFaso,T,,M,,T,F,F,R+2,T,,,NE
+547,kaixuan,New York,19,19,NY,NY19,Steven Greenfield,Green,,SGreenfield613,F,,M,,,,,R+2,T,,,NE
+548,kaixuan,New York,23,23,NY,NY23,Hertzler,Independent,,,F,,,,,,,R+6,T,,,NE
+549,kaixuan,New York,23,23,NY,NY23,Tracy Mitrano,Democratic,,MitranoForNY23,F,,F,,T,F,F,R+6,T,,,NE
+550,kaixuan,New York,23,23,NY,NY23,Tom Reed,Republican,,RepTomReed,T,,M,,T,F,F,R+6,T,,,NE
+551,kaixuan,Oregon,4,4,OR,OR04,Peter DeFazio,Democratic,https://en.wikipedia.org/wiki/Oregon%27s_4th_congressional_district,RepPeterDeFazio,T,,M,,T,F,F,EVEN,T,69.17,35796.0,W
+552,kaixuan,Oregon,4,4,OR,OR04,Art Robinson,Republican,https://en.wikipedia.org/wiki/Oregon%27s_4th_congressional_district,,F,,,,,,,EVEN,T,69.17,35796.0,W
+553,kaixuan,Pennsylvania,18,18,PA,PA18,Mike Doyle,Democratic,https://en.wikipedia.org/wiki/Pennsylvania%27s_18th_congressional_district,USRepMikeDoyle,T,,M,,T,F,F,R+11,F,84.05,44938.0,NE
+554,kaixuan,South Carolina,6,6,SC,SC06,Jim Clyburn,Democratic,https://en.wikipedia.org/wiki/South_Carolina%27s_6th_congressional_district,Clyburn,T,,M,,F,F,T,D+19,T,na,28967.0,S
+555,kaixuan,South Carolina,6,6,SC,SC06,Gerhan Gressmann,Republican,https://en.wikipedia.org/wiki/South_Carolina%27s_6th_congressional_district,,F,,,,,,,D+19,T,na,28967.0,S
+556,kaixuan,South Carolina,6,6,SC,SC06,Bryan Pugh,Green,https://en.wikipedia.org/wiki/South_Carolina%27s_6th_congressional_district,BryanKellyPugh,F,,M,,T,F,F,D+19,T,na,28967.0,S
+557,kaixuan,South Carolina,7,7,SC,SC07,Tom Rice,Republican,,RepTomRice,T,,M,,T,F,F,R+9,T,na,,S
+558,kaixuan,South Carolina,7,7,SC,SC07,Robert Williams,Democratic,,,F,,,,,,,R+9,T,na,,S
+559,kaixuan,South Carolina,7,7,SC,SC07,Dick Withington,Libertarian,,,F,,,,,,,R+9,T,na,,S
+560,kaixuan,South Dakota,at-large,0,SD,SD00,Tim Bjorkman,Democratic,https://en.wikipedia.org/wiki/South_Dakota%27s_at-large_congressional_district,TimBjorkmanSD,F,,M,,T,F,F,R+14,T,55.8,47223.0,MW
+561,kaixuan,South Dakota,at-large,0,SD,SD00,George Hendrickson,Libertarian,https://en.wikipedia.org/wiki/South_Dakota%27s_at-large_congressional_district,,F,,,,,,,R+14,T,55.8,47223.0,MW
+562,kaixuan,South Dakota,at-large,0,SD,SD00,Dusty Johnson,Republican,https://en.wikipedia.org/wiki/South_Dakota%27s_at-large_congressional_district,DustyJohnson,F,,M,,T,F,F,R+14,T,55.8,47223.0,MW
+563,kaixuan,Texas,24,24,TX,TX24,Mike Kolls,Libertarian,https://en.wikipedia.org/wiki/Texas%27s_24th_congressional_district,,F,,,,,,,R+9,T,99.89,70454.0,S
+564,kaixuan,Texas,24,24,TX,TX24,Kenny Marchant,Republican,https://en.wikipedia.org/wiki/Texas%27s_24th_congressional_district,RepKenMarchant,T,,M,,T,F,F,R+9,T,99.89,70454.0,S
+565,kaixuan,Texas,24,24,TX,TX24,Jan McDowell,Democratic,https://en.wikipedia.org/wiki/Texas%27s_24th_congressional_district,JanForCongress,F,,F,,T,F,F,R+9,T,99.89,70454.0,S
+566,kaixuan,Virginia,4,4,VA,VA04,Ryan McAdams,Republican,https://en.wikipedia.org/wiki/Virginia%27s_4th_congressional_district,,F,,,,,,,D+10,T,73.83,54607.0,S
+567,kaixuan,Virginia,4,4,VA,VA04,Donald McEachin,Democratic,https://en.wikipedia.org/wiki/Virginia%27s_4th_congressional_district,RepMcEachin,T,,M,,F,F,T,D+10,T,73.83,54607.0,S
+568,kaixuan,Virginia,4,4,VA,VA04,Pete Wells,Libertarian,https://en.wikipedia.org/wiki/Virginia%27s_4th_congressional_district,,F,,,,,,,D+10,T,73.83,54607.0,S
+569,kaixuan,Washington,1,1,WA,WA01,Jeffrey Beeler,Republican,https://en.wikipedia.org/wiki/Washington%27s_1st_congressional_district,,F,,,,,,,D+6,T,na,58565.0,W
+570,kaixuan,Washington,1,1,WA,WA01,Suzan DelBene,Democratic,https://en.wikipedia.org/wiki/Washington%27s_1st_congressional_district,RepDelBene,T,,F,,T,F,F,D+6,T,na,58565.0,W
+571,kaixuan,Washington,6,6,WA,WA06,Douglas Dightman,Republican,https://en.wikipedia.org/wiki/Washington%27s_6th_congressional_district,,F,,,,,,,D+6,T,na,39205.0,W
+572,kaixuan,Washington,6,6,WA,WA06,Derek Kilmer,Democratic,https://en.wikipedia.org/wiki/Washington%27s_6th_congressional_district,RepDerekKilmer,T,,M,,T,F,F,D+6,T,na,39205.0,W
+573,kaixuan,Wisconsin,4,4,WI,WI04,Gwen Moore,Democratic,https://en.wikipedia.org/wiki/Wisconsin%27s_4th_congressional_district,RepGwenMoore,T,,F,,F,F,T,D+25,T,100,38600.0,MW
+574,kaixuan,Wisconsin,4,4,WI,WI04,Robert Raymond,Independent,https://en.wikipedia.org/wiki/Wisconsin%27s_4th_congressional_district,,F,,,,,,,D+25,T,100,38600.0,MW
+575,kaixuan,Wisconsin,4,4,WI,WI04,Tim Rogers,Republican,https://en.wikipedia.org/wiki/Wisconsin%27s_4th_congressional_district,,F,,,,,,,D+25,T,100,38600.0,MW
+576,kaixuan,Wisconsin,7,7,WI,WI07,Ken Driessen,Direct Participatory Democracy,https://en.wikipedia.org/wiki/Wisconsin%27s_7th_congressional_district,,F,,,,,,,R+8,T,42.04,39026.0,MW
+577,kaixuan,Wisconsin,7,7,WI,WI07,Sean Duffy,Republican,https://en.wikipedia.org/wiki/Wisconsin%27s_7th_congressional_district,RepSeanDuffy,T,,M,,T,F,F,R+8,T,42.04,39026.0,MW
+578,kaixuan,Wisconsin,7,7,WI,WI07,Margaret Engebretson,Democratic,https://en.wikipedia.org/wiki/Wisconsin%27s_7th_congressional_district,vetfordemocracy,F,,F,,T,F,F,R+8,T,42.04,39026.0,MW
+579,michelle,Arizona,1,1,AZ,AZ01,Tom O'Halleran,Democratic,http://www.tomohalleran.com/,RepOHalleran,T,72.0,M,Married,T,F,F,R+2,T,55.4,32979.0,W
+580,michelle,Arizona,1,1,AZ,AZ01,Wendy Rogers,Republican,https://wendyrogers.org/,WendyRogersAZ,F,64.0,F,Married,T,F,F,R+2,T,55.4,32979.0,W
+581,michelle,Arizona,3,3,AZ,AZ03,Raúl Grijalva,Democratic,http://www.standwithraul.com/,standwithraul,T,70.0,M,Married,F,T,F,D+13,T,88.8,40734.0,W
+582,michelle,Arizona,3,3,AZ,AZ03,Nick Pierson,Republican,https://www.piersonforcongress.com,,F,,M,Married,F,T,F,D+13,T,88.8,40734.0,W
+583,michelle,California,5,5,CA,CA05,Anthony Mills,No party preference,http://candidatemills.com/,,F,67.0,M,,T,F,F,D+21,T,,,W
+584,michelle,California,5,5,CA,CA05,Mike Thompson,Democratic,http://www.mikethompsonforcongress.com/,RepThompson,T,67.0,M,Married,T,F,F,D+21,T,,,W
+585,michelle,California,6,6,CA,CA06,Jrmar Jefferson,Democratic,,JrmarJefferson,F,,M,,F,F,T,D+21,T,,,W
+586,michelle,California,6,6,CA,CA06,Doris Matsui,Democratic,http://www.matsuiforcongress.com/,DorisMatsui,T,73.0,F,Single,F,F,F,D+21,T,,,W
+587,michelle,California,7,7,CA,CA07,Ami Bera,Democratic,https://beraforcongress.com/,BeraForCongress,T,53.0,M,Married,F,F,F,D+3,T,,,W
+588,michelle,California,7,7,CA,CA07,Andrew Grant,Republican,https://www.andrewgrantforcongress.com/,AndrewFGrant,F,,M,Married,T,F,F,D+3,T,,,W
+589,michelle,California,11,11,CA,CA11,Mark DeSaulnier,Democratic,http://desaulnierforcongress.com/,RepDeSaulnier,T,66.0,M,Single,T,F,F,D+21,T,,,W
+590,michelle,California,11,11,CA,CA11,John Fitzgerald,Republican,http://johnfitzgeraldforcongress.com/,JFitz4Congress,F,,M,,T,F,F,D+21,T,,,W
+591,michelle,California,13,13,CA,CA13,Barbara Lee,Democratic,http://www.barbaraleeforcongress.org/,BLeeForCongress,T,72.0,F,Single,F,F,T,D+40,T,,,W
+592,michelle,California,13,13,CA,CA13,Laura Wells,Green,https://laurawells.org/,LauraWellsCA,F,70.0,F,,T,F,F,D+40,T,,,W
+593,michelle,California,20,20,CA,CA20,Ronald Kabat,No party preference,,,F,,M,Married,T,F,F,D+23,T,,,W
+594,michelle,California,20,20,CA,CA20,Jimmy Panetta,Democratic,https://jimmypanetta.com/,RepJimmyPanetta,T,48.0,M,Married,T,F,F,D+23,T,,,W
+595,michelle,California,22,22,CA,CA22,Andrew Janz,Democratic,https://www.andrewjanzforcongress.com/,JanzforCongress,F,,M,Married,F,F,F,R+8,T,,,W
+596,michelle,California,22,22,CA,CA22,Devin Nunes,Republican,https://www.devinnunes.com/,DevinNunes,T,44.0,M,Married,T,F,F,R+8,T,,,W
+597,michelle,California,25,25,CA,CA25,Katie Hill,Democratic,https://www.katiehillforcongress.com,KatieHill4CA,F,30.0,F,Married,T,F,F,EVEN,T,,,W
+598,michelle,California,25,25,CA,CA25,Steve Knight,Republican,http://steveknight.org/,SteveKnight25,T,51.0,M,Married,T,F,F,EVEN,T,,,W
+599,michelle,Colorado,1,1,CO,CO01,Diana DeGette,Democratic,https://degette.com/,Degette5280,T,61.0,F,Married,T,F,F,D+21,T,100,,W
+600,michelle,Colorado,1,1,CO,CO01,Casper Stockham,Republican,https://www.casperforcolorado.com/,Casper4Colorado,F,,M,Married,F,F,T,D+21,T,100,,W
+601,michelle,Colorado,1,1,CO,CO01,Gary Swing,Unity,http://www.newmenu.org/swingvoter,SwingGary,F,50.0,M,Single,T,F,F,D+21,T,100,,W
+602,michelle,Connecticut,1,1,CT,CT01,John Larson,Democratic,http://larsonforcongress.org/,RepJohnLarson,T,70.0,M,Married,T,F,F,D+12,T,93.4,50227.0,NE
+603,michelle,Connecticut,1,1,CT,CT01,Jennifer Nye,Republican,https://www.nye4congress.com/,Nye4Congress,F,,F,Married,T,F,F,D+12,T,93.4,50227.0,NE
+604,michelle,Connecticut,4,4,CT,CT04,Harry Arora,Republican,https://www.harryforct.com/,HarryForCT,F,,M,Married,F,F,F,D+7,T,95.9,66598.0,NE
+605,michelle,Connecticut,4,4,CT,CT04,Jim Himes,Democratic,https://www.himesforcongress.com/,jahimes,T,52.0,M,Married,T,F,F,D+7,T,95.9,66598.0,NE
+606,michelle,Florida,5,5,FL,FL05,Virginia Fuller,Republican,https://fullerforcongress.com/,Florida_CD5,F,,F,Single,F,F,T,D+12,T,83.37,,S
+607,michelle,Florida,5,5,FL,FL05,Al Lawson,Democratic,https://www.allawson.com/,AlLawsonJr,T,70.0,M,Married,F,F,T,D+12,T,83.37,,S
+608,michelle,Florida,6,6,FL,FL06,Nancy Soderberg,Democratic,https://soderbergforcongress.com/,nancysoderberg,F,60.0,F,Single,T,F,F,R+7,T,86.15,,S
+609,michelle,Florida,6,6,FL,FL06,Michael Waltz,Republican,https://michaelwaltz.com/,michaelgwaltz,F,44.0,M,Married,T,F,F,R+7,T,86.15,,S
+610,michelle,Florida,11,11,FL,FL11,Dana Cottrell,Democratic,https://danacottrellforcongress.com/,DanaforCongress,F,,F,Married,T,F,F,R+15,T,75.19,,S
+611,michelle,Florida,11,11,FL,FL11,Daniel Webster,Republican,https://www.electwebster.com/,RepWebster,T,69.0,M,Married,T,F,F,R+15,T,75.19,,S
+612,michelle,Florida,19,19,FL,FL19,David Holden,Democratic,https://www.holden2018.com/,holden2018,F,,M,Married,T,F,F,R+13,T,96.3,,S
+613,michelle,Florida,19,19,FL,FL19,Francis Rooney,Republican,http://francisrooney.com/,FrancisRooney,T,64.0,M,Married,T,F,F,R+13,T,96.3,,S
+614,michelle,Georgia,1,1,GA,GA01,Buddy Carter,Republican,http://axbuddycarter.wpengine.com/,RepBuddyCarter,T,61.0,M,Married,T,F,F,R+9,T,70.98,,S
+615,michelle,Georgia,1,1,GA,GA01,Lisa Ring,Democratic,https://www.lisaringforcongress.com/,LisaRingGA01,F,,F,Married,T,F,F,R+9,T,70.98,,S
+616,michelle,Illinois,4,4,IL,IL04,"Jesús ""Chuy"" García",Democratic,http://jesuschuygarcia.com/,JesusGGarcia,F,62.0,M,Married,F,T,F,D+33,T,100,39744.0,MW
+617,michelle,Illinois,4,4,IL,IL04,Mark Lorch,Republican,,marklorch,F,,M,,T,F,F,D+33,T,100,39744.0,MW
+618,michelle,Indiana,1,1,IN,IN01,Mark Leyva,Republican,http://markleyva.com/,,F,58.0,M,Single,F,T,F,D+8,T,87.02,44087.0,MW
+619,michelle,Indiana,1,1,IN,IN01,Pete Visclosky,Democratic,http://www.viscloskyforcongress.us/,TeamVisclosky,T,69.0,M,Married,T,F,F,D+8,T,87.02,44087.0,MW
+620,michelle,Indiana,2,2,IN,IN02,Mel Hall,Democratic,https://www.melforcongress.com/,melforcongress,F,,M,Single,T,F,F,R+11,T,72.9,40381.0,MW
+621,michelle,Indiana,2,2,IN,IN02,Jackie Walorski,Republican,https://www.standwithjackie.com/,jackiewalorski,T,55.0,F,Married,T,F,F,R+11,T,72.9,40381.0,MW
+622,michelle,Iowa,2,2,IA,IA02,Daniel Clark,Independent,https://loebsack.house.gov/,dcforcongress,F,,M,,T,F,F,D+1,T,66.06,40121.0,MW
+623,michelle,Iowa,2,2,IA,IA02,Dave Loebsack,Democratic,https://www.loebsackforcongress.org/,daveloebsack,T,65.0,M,Married,T,F,F,D+1,T,66.06,40121.0,MW
+624,michelle,Iowa,2,2,IA,IA02,Christopher Peters,Republican,https://drpetersforiowa.com/,DrPeters4Iowa,F,58.0,M,Married,T,F,F,D+1,T,66.06,40121.0,MW
+625,michelle,Maine,1,1,ME,ME01,Marty Grohman,Independent,https://www.martygrohman.com/,mgrohman,F,,M,Married,T,F,F,D+8,T,49.44,42044.0,NE
+626,michelle,Maine,1,1,ME,ME01,Mark Holbrook,Republican,https://www.holbrook4me.org/,MarkHolbrook_ME,F,59.0,M,Married,T,F,F,D+8,T,49.44,42044.0,NE
+627,michelle,Maine,1,1,ME,ME01,Chellie Pingree,Democratic,http://www.chelliepingree.com/,chelliepingree,T,63.0,F,Single,T,F,F,D+8,T,49.44,42044.0,NE
+628,michelle,Maryland,6,6,MD,MD06,Ted Athey,Independent,http://www.tedathey.com/,AtheyTed,F,,M,Married,T,F,F,D+6,T,84.49,73641.0,S
+629,michelle,Maryland,6,6,MD,MD06,Kevin Caldwell,Libertarian,https://www.electkevincaldwell.com/,Caldwell4MD6CD,F,,M,,T,F,F,D+6,T,84.49,73641.0,S
+630,michelle,Maryland,6,6,MD,MD06,George Gluck,Green,https://sites.google.com/prod/view/georgegluck,Gluck4Congress,F,71.0,M,Married,T,F,F,D+6,T,84.49,73641.0,S
+631,michelle,Maryland,6,6,MD,MD06,Amie Hoeber,Republican,https://www.amieformaryland.com/,amieformaryland,F,76.0,F,Married,T,F,F,D+6,T,84.49,73641.0,S
+632,michelle,Maryland,6,6,MD,MD06,David Trone,Democratic,https://www.davidtrone.com/,davidjtrone,F,63.0,M,Married,T,F,F,D+6,T,84.49,73641.0,S
+633,michelle,Massachusetts,8,8,MA,MA08,Stephen Lynch,Democratic,http://www.stephenflynch.com,RepStephenLynch,T,63.0,M,Married,T,F,F,D+10,F,,,NE
+634,michelle,Michigan,10,10,MI,MI10,Kimberly Bizon,Democratic,https://www.electbizon2018.com/,electbizon2018,F,49.0,F,,T,F,F,R+13,T,,,MW
+635,michelle,Michigan,10,10,MI,MI10,Harley Mikkelson,Green,http://www.harleymikkelson.com/,,F,,M,Married,T,F,F,R+13,T,,,MW
+636,michelle,Michigan,10,10,MI,MI10,Paul Mitchell,Republican,https://paulmitchellforcongress.com/,RepPaulMitchell,T,61.0,M,Married,T,F,F,R+13,T,,,MW
+637,michelle,Michigan,10,10,MI,MI10,Jeremy Peruski,Independent,https://peruskiforcongress.com/,VotePeruski,F,44.0,M,,T,F,F,R+13,T,,,MW
+638,michelle,Minnesota,2,2,MN,MN02,Angie Craig,Democratic,https://www.angiecraig.com/,AngieCraigMN,F,46.0,F,Married,T,F,F,R+2,T,86.97,80128.0,MW
+639,michelle,Minnesota,2,2,MN,MN02,Jason Lewis,Republican,https://www.jasonformn.com/,Jason2CD,T,62.0,M,Married,T,F,F,R+2,T,86.97,80128.0,MW
+640,michelle,Missouri,8,8,MO,MO08,Kathy Ellis,Democratic,https://www.ellisformissouri.com/,ellis4missouri,F,,F,Married,T,F,F,R+24,T,38.29,40639.0,MW
+641,michelle,Missouri,8,8,MO,MO08,Jonathan Shell,Libertarian,,ShellforLiberty,F,,M,Married,T,F,F,R+24,T,38.29,40639.0,MW
+642,michelle,Missouri,8,8,MO,MO08,Jason Smith,Republican,http://electjasonsmith.com/,RepJasonSmith,T,38.0,M,Single,T,F,F,R+24,T,38.29,40639.0,MW
+643,michelle,Nebraska,2,2,NE,NE02,Don Bacon,Republican,https://donjbacon.com/,RepDonBacon,T,55.0,M,Married,T,F,F,R+4,T,97.86,45235.0,MW
+644,michelle,Nebraska,2,2,NE,NE02,Kara Eastman,Democratic,http://eastmanforcongress.com/,karaforcongress,F,46.0,F,Married,T,F,F,R+4,T,97.86,45235.0,MW
+645,michelle,New Jersey,8,8,NJ,NJ08,John Muniz,Republican,http://www.johnmunizforcongress.com/,,F,,M,,T,F,F,D+27,T,100,51954.0,NE
+646,michelle,New Jersey,8,8,NJ,NJ08,Albio Sires,Democratic,,RepSires,T,67.0,M,Married,T,F,F,D+27,T,100,51954.0,NE
+647,michelle,New York,21,21,NY,NY21,Tedra Cobb,Democratic,https://www.tedracobb.com/,TedraCobb,F,51.0,F,Married,T,F,F,R+4,T,,,NE
+648,michelle,New York,21,21,NY,NY21,Lynn Kahn,Green,http://www.votelynn2018.com/,lynnskahn,F,,F,,T,F,F,R+4,T,,,NE
+649,michelle,New York,21,21,NY,NY21,Elise Stefanik,Republican,https://eliseforcongress.com/,EliseStefanik,T,34.0,F,Married,T,F,F,R+4,T,,,NE
+650,michelle,Ohio,1,1,OH,OH01,Steve Chabot,Republican,https://stevechabot.com/,SteveChabot,T,65.0,M,Married,T,F,F,R+5,T,92.5,55712.0,MW
+651,michelle,Ohio,1,1,OH,OH01,Aftab Pureval,Democratic,https://aftabforohio.com/,AftabPureval,F,36.0,M,Single,F,F,F,R+5,T,92.5,55712.0,MW
+652,michelle,Ohio,6,6,OH,OH06,Bill Johnson,Republican,http://billjohnsonleads.com/,RepBillJohnson,T,63.0,M,Married,T,F,F,R+16,T,42.68,46839.0,MW
+653,michelle,Ohio,6,6,OH,OH06,Shawna Roberts,Democratic,https://www.shawnarobertsforcongress2018.org/,RobertsOhioD6,F,,F,Married,T,F,F,R+16,T,42.68,46839.0,MW
+654,michelle,Ohio,7,7,OH,OH07,Bob Gibbs,Republican,http://bobgibbsforcongress.com/,Bob_Gibbs,T,64.0,M,Married,T,F,F,R+12,T,,47805.0,MW
+655,michelle,Ohio,7,7,OH,OH07,Ken Harbaugh,Democratic,https://www.kenharbaughforcongress.com/,Team_Harbaugh,F,44.0,M,Married,T,F,F,R+12,T,,47805.0,MW
+656,michelle,Oregon,1,1,OR,OR01,Suzanne Bonamici,Democratic,https://www.bonamiciforcongress.com/,RepBonamici,T,63.0,F,Married,T,F,F,D+9,T,86.65,48464.0,W
+657,michelle,Oregon,1,1,OR,OR01,John Verbeek,Republican,,,F,,M,Married,T,F,F,D+9,T,86.65,48464.0,W
+658,michelle,Oregon,3,3,OR,OR03,Earl Blumenauer,Democratic,http://earlblumenauer.com/,repblumenauer,T,70.0,M,Married,T,F,F,D+24,T,93.12,42063.0,W
+659,michelle,Oregon,3,3,OR,OR03,Marc Koller,Independent,http://marckoller4congress.com/,kolleroregon3rd,F,,M,Single,T,F,F,D+24,T,93.12,42063.0,W
+660,michelle,Pennsylvania,13,13,PA,PA13,John Joyce,Republican,https://johnjoyceforcongress.com/,JohnJoyceForPA,F,61.0,M,Married,T,F,F,R+22,T,98.46,49319.0,NE
+661,michelle,Pennsylvania,13,13,PA,PA13,Brent Ottaway,Democratic,https://www.brentottawayforcongress.com/,BrentforPA13,F,57.0,M,Married,T,F,F,R+22,T,98.46,49319.0,NE
+662,michelle,Texas,17,17,TX,TX17,Peter Churchman,Libertarian,https://www.churchmanfortexas.com/,,F,,M,Married,T,F,F,R+12,T,75.28,50888.0,S
+663,michelle,Texas,17,17,TX,TX17,Bill Flores,Republican,http://www.billflores.com/,Flores4Congress,T,64.0,M,Married,T,F,F,R+12,T,75.28,50888.0,S
+664,michelle,Texas,17,17,TX,TX17,Rick Kennedy,Democratic,https://www.rickkennedyforcongress.com/,RickKennedyTX17,F,55.0,M,Single,T,F,F,R+12,T,75.28,50888.0,S
+665,michelle,Utah,3,3,UT,UT03,John Curtis,Republican,https://johncurtis.org/,CurtisUT,T,58.0,M,Married,T,F,F,R+25,T,,,W
+666,michelle,Utah,3,3,UT,UT03,Gregory Duerden,Independent American,http://www.gregorycduerden.us/,BYHi67,F,,M,Married,T,F,F,R+25,T,,,W
+667,michelle,Utah,3,3,UT,UT03,Melanie McCoard,United Utah,,,,,F,,,,,R+25,T,,,W
+668,michelle,Utah,3,3,UT,UT03,James Singer,Democratic,https://www.jamessinger.org/,urbannavajo,F,,M,Married,F,F,F,R+25,T,,,W
+669,patrick,Arizona,2,2,AZ,AZ02,Ann Kirkpatrick,Democratic,https://www.kirkpatrickforcongress.com,Ann_Kirkpatrick,F,68.0,F,Married,T,F,F,R+1,T,89,42432.0,W
+670,patrick,Arizona,2,2,AZ,AZ02,Lea Marquez-Peterson,Republican,https://www.voteforlea.com,LeaPeterson,F,,F,Married,F,T,F,R+1,T,89,42432.0,W
+671,patrick,Arizona,7,7,AZ,AZ07,Ruben Gallego,Democratic,https://gallegoforarizona.com,RubenGallego,T,38.0,M,Single,F,T,F,D+23,F,83.6,30828.0,W
+672,patrick,Arkansas,4,4,AR,AR04,Tom Canada,Libertarian,http://tomcanadaforcongress.org/about.html,,F,,M,Married,T,F,F,R+17,T,66.2,29675.0,S
+673,patrick,Arkansas,4,4,AR,AR04,Jack Foster,Independent,,,F,,M,,F,F,T,R+17,T,66.2,29675.0,S
+674,patrick,Arkansas,4,4,AR,AR04,Lee McQueen,Independent,https://mcqueen2018.com,McQueen4USRep,F,,F,Single,F,F,T,R+17,T,66.2,29675.0,S
+675,patrick,Arkansas,4,4,AR,AR04,Hayden Shamel,Democratic,https://www.haydenforcongress.com,HaydenShamel,F,,F,Married,T,F,F,R+17,T,66.2,29675.0,S
+676,patrick,Arkansas,4,4,AR,AR04,Bruce Westerman,Republican,https://www.brucewesterman.com,WestermanAR,T,50.0,M,Married,T,F,F,R+17,T,66.2,29675.0,S
+677,patrick,California,3,3,CA,CA03,John Garamendi,Democratic,http://www.garamendi.org,JohnGaramendi,T,73.0,M,Married,T,F,F,D+5,T,3.2,53602.0,W
+678,patrick,California,3,3,CA,CA03,Charlie Schaupp,Republican,https://www.facebook.com/charlieschaupp/,CharlieSchaupp,F,63.0,M,Married,T,F,F,D+5,T,3.2,53602.0,W
+679,patrick,California,8,8,CA,CA08,Paul Cook,Republican,https://www.joinpaulcook.com,joinpaulcook,T,75.0,M,Married,T,F,F,R+9,T,0.9,45879.0,W
+680,patrick,California,8,8,CA,CA08,Tim Donnelly,Republican,https://www.donnelly4congress.com,PatriotNotPol,F,52.0,M,Married,T,F,F,R+9,T,0.9,45879.0,W
+681,patrick,California,17,17,CA,CA17,Ron Cohen,Republican,https://www.roncohen4congress2018.com,RonCohenUS17,F,59.0,M,Married,T,F,F,D+25,T,67.6,92030.0,W
+682,patrick,California,17,17,CA,CA17,Ro Khanna,Democratic,http://www.rokhanna.com,RoKhanna,T,42.0,M,Married,F,F,F,D+25,T,67.6,92030.0,W
+683,patrick,California,21,21,CA,CA21,T.J. Cox,Democratic,https://tjcoxforcongress.com,TJCoxCongress,F,,M,Married,T,F,F,D+5,T,2.3,37228.0,W
+684,patrick,California,21,21,CA,CA21,David Valadao,Republican,https://www.valadaoforcongress.com,dgvaladao,T,41.0,M,Married,F,T,F,D+5,T,2.3,37228.0,W
+685,patrick,California,23,23,CA,CA23,Tatiana Matta,Democratic,http://tatianamatta.com,Matta4Congress,F,,F,Married,F,T,F,R+14,T,2,51232.0,W
+686,patrick,California,23,23,CA,CA23,Kevin McCarthy,Republican,https://www.mccarthyforcongress.com,kevinomccarthy,T,53.0,M,Married,T,F,F,R+14,T,2,51232.0,W
+687,patrick,California,24,24,CA,CA24,Salud Carbajal,Democratic,https://www.saludcarbajal.com,carbajalsalud,T,53.0,M,Married,F,T,F,D+7,T,3,56943.0,W
+688,patrick,California,24,24,CA,CA24,Justin Fareed,Republican,https://www.justinfareed.com,JustinFareed,F,30.0,M,Single,T,F,F,D+7,T,3,56943.0,W
+689,patrick,California,49,49,CA,CA49,Diane Harkey,Republican,https://www.harkeyforcongress.com,diane_harkey,F,67.0,F,Married,T,F,F,R+1,T,42.2,67018.0,W
+690,patrick,California,49,49,CA,CA49,Mike Levin,Democratic,https://mikelevin.org,MikeLevinCA,F,39.0,M,Married,T,F,F,R+1,T,42.2,67018.0,W
+691,patrick,Delaware,at-large,0,DE,DE00,Lisa Blunt Rochester,Democratic,https://lisabluntrochester.com,LisaBRochester,T,56.0,F,Single,F,F,T,D+6,T,83.3,57357.0,S
+692,patrick,Delaware,at-large,0,DE,DE00,Christopher Mockerman,Independent,https://www.facebook.com/CWMockerman4House/,,F,,M,,T,F,F,D+6,T,83.3,57357.0,S
+693,patrick,Delaware,at-large,0,DE,DE00,Scott Walker,Republican,,,F,,M,,T,F,F,D+6,T,83.3,57357.0,S
+694,patrick,Florida,7,7,FL,FL07,Mike Miller,Republican,https://www.millerforflorida.com,Mike_Miller_FL,F,50.0,M,Married,T,F,F,EVEN,T,97.87,51007.0,S
+695,patrick,Florida,7,7,FL,FL07,Stephanie Murphy,Democratic,http://www.stephaniemurphyforcongress.com,SMurphyCongress,T,40.0,F,Married,F,F,F,EVEN,T,97.87,51007.0,S
+696,patrick,Florida,15,15,FL,FL15,Kristen Carlson,Democratic,https://www.kristencarlsonforcongress.com,KristenForFL,F,,F,Single,T,F,F,R+6,T,92.06,47117.0,S
+697,patrick,Florida,15,15,FL,FL15,Ross Spano,Republican,http://www.rossspano.com,RossSpano,F,52.0,M,Married,T,F,F,R+6,T,92.06,47117.0,S
+698,patrick,Florida,25,25,FL,FL25,Mary Barzee Flores,Democratic,https://marybarzeeflores.com,MBFforCongress,F,,F,Married,T,F,F,R+4,T,94.4,46869.0,S
+699,patrick,Florida,25,25,FL,FL25,Mario Díaz-Balart,Republican,https://mariodiazbalart.org,MarioDB,T,57.0,M,Married,F,T,F,R+4,T,94.4,46869.0,S
+700,patrick,Georgia,3,3,GA,GA03,Chuck Enderlin,Democratic,https://chuckenderlin.com,Vote_Chuck,F,,M,Married,T,F,F,R+18,T,60.53,50155.0,S
+701,patrick,Georgia,3,3,GA,GA03,Drew Ferguson,Republican,https://fergusonforgeorgia.com,DrewFergusonGA,T,51.0,M,Married,T,F,F,R+18,T,60.53,50155.0,S
+702,patrick,Georgia,5,5,GA,GA05,John Lewis,Democratic,https://www.johnlewisforcongress.com,repjohnlewis,T,78.0,M,Single,F,F,T,D+34,F,99.97,40708.0,S
+703,patrick,Illinois,6,6,IL,IL06,Sean Casten,Democratic,https://castenforcongress.com,VoteCasten,F,,M,Married,T,F,F,R+2,T,99.4,85655.0,MW
+704,patrick,Illinois,6,6,IL,IL06,Peter Roskam,Republican,https://www.roskamforcongress.com,PeterRoskam,T,58.0,M,Married,T,F,F,R+2,T,99.4,85655.0,MW
+705,patrick,Indiana,8,8,IN,IN08,Larry Bucshon,Republican,https://www.bucshonforcongress.com,DrLarryBucshon,T,56.0,M,Married,T,F,F,R+15,T,58.1,36732.0,MW
+706,patrick,Indiana,8,8,IN,IN08,William Tanoos,Democratic,http://williamtanoos.com,Tanoos2018,F,,M,Married,F,F,F,R+15,T,58.1,36732.0,MW
+707,patrick,Iowa,4,4,IA,IA04,Charles Aldrich,Libertarian,,,F,,M,,F,F,F,R+11,T,50.58,38242.0,MW
+708,patrick,Iowa,4,4,IA,IA04,Steve King,Republican,https://www.steveking.com,SteveKingIA,T,69.0,M,Married,T,F,F,R+11,T,50.58,38242.0,MW
+709,patrick,Iowa,4,4,IA,IA04,J.D. Scholten,Democratic,https://www.scholten4iowa.com,Scholten4Iowa,F,,M,Single,T,F,F,R+11,T,50.58,38242.0,MW
+710,patrick,Kansas,4,4,KS,KS04,Ron Estes,Republican,https://estesforcongress.com,RonEstesKS,T,62.0,M,Married,T,F,F,R+15,T,78.9,40917.0,MW
+711,patrick,Kansas,4,4,KS,KS04,James Thompson,Democratic,https://www.votejamesthompson.com,JamesThompsonKS,F,,M,Married,T,F,F,R+15,T,78.9,40917.0,MW
+712,patrick,Kentucky,6,6,KY,KY06,Andy Barr,Republican,https://www.andybarrforcongress.com,barrforcongress,T,45.0,M,Married,T,F,F,R+9,T,72.59,50659.0,S
+713,patrick,Kentucky,6,6,KY,KY06,Frank Harris,Libertarian,https://www.votefrankharris.com,VoteFrankHarris,F,56.0,M,Married,T,F,F,R+9,T,72.59,50659.0,S
+714,patrick,Kentucky,6,6,KY,KY06,Amy McGrath,Democratic,https://amymcgrathforcongress.com,AmyMcGrathKY,F,,F,Married,T,F,F,R+9,T,72.59,50659.0,S
+715,patrick,Massachusetts,3,3,MA,MA03,Rick Green,Republican,https://www.rickgreenforma.com,RickGreenMA,F,,M,Married,T,F,F,D+9,T,48.2,63270.0,NE
+716,patrick,Massachusetts,3,3,MA,MA03,Dan Koh,Democratic,https://koh2018.com,dank,F,33.0,M,Married,F,F,F,D+9,T,48.2,63270.0,NE
+717,patrick,Massachusetts,3,3,MA,MA03,Lori Trahan,Democratic,https://loritrahan.com,LoriUSCongress,F,,F,Married,T,F,F,D+9,T,48.2,63270.0,NE
+718,patrick,Minnesota,4,4,MN,MN04,Betty McCollum,Democratic,https://www.mccollumforcongress.com,VoteBetty,T,64.0,F,Single,T,F,F,D+14,T,97.21,66175.0,MW
+719,patrick,Minnesota,4,4,MN,MN04,Susan Pendergast Sindt,Legal Marijuana Now,https://www.facebook.com/Sindtforcongress/,,F,,F,,T,F,F,D+14,T,97.21,66175.0,MW
+720,patrick,Minnesota,4,4,MN,MN04,Greg Ryan,Republican,http://ryan4us.com,GregTRyan4US,F,,M,Single,T,F,F,D+14,T,97.21,66175.0,MW
+721,patrick,Minnesota,6,6,MN,MN06,Tom Emmer,Republican,https://emmerforcongress.com,tomemmer,T,57.0,M,Married,T,F,F,R+12,T,69.55,77049.0,MW
+722,patrick,Minnesota,6,6,MN,MN06,Ian Todd,Democratic,https://www.iantoddforcongress.com,IanToddforMN,F,,M,Married,T,F,F,R+12,T,69.55,77049.0,MW
+723,patrick,Minnesota,7,7,MN,MN07,Dave Hughes,Republican,https://www.hughesforcongress.us,DHughesCongress,F,,M,Married,T,F,F,R+12,T,35.87,52620.0,MW
+724,patrick,Minnesota,7,7,MN,MN07,Collin Peterson,Democratic,http://www.petersonforcongress.com,collinpeterson,T,74.0,M,Single,T,F,F,R+12,T,35.87,52620.0,MW
+725,patrick,Mississippi,1,1,MS,MS01,Trent Kelly,Republican,http://www.kellyformississippi.com,KellyforMS01,T,52.0,M,Single,T,F,F,R+16,T,38.36,35831.0,S
+726,patrick,Mississippi,1,1,MS,MS01,Randy Wadkins,Democratic,https://www.wadkinsforcongress.com,Wadkins2018,F,53.0,M,Single,T,F,F,R+16,T,38.36,35831.0,S
+727,patrick,New Jersey,2,2,NJ,NJ02,Seth Grossman,Republican,https://grossmanforcongress.com,Grossman4NJ,F,,M,,T,F,F,R+1,T,79.1,44173.0,NE
+728,patrick,New Jersey,2,2,NJ,NJ02,Jeff Van Drew,Democratic,https://www.vandrewforcongress.com,VanDrewForNJ,F,,M,Single,T,F,F,R+1,T,79.1,44173.0,NE
+729,patrick,New York,1,1,NY,NY01,Perry Gershon,Democratic,https://www.perrygershon.com,perrygershon,F,,M,Married,T,F,F,R+5,T,93.89,61884.0,NE
+730,patrick,New York,1,1,NY,NY01,Lee Zeldin,Republican,https://zeldinforcongress.com,leezeldin,T,38.0,M,Married,T,F,F,R+5,T,93.89,61884.0,NE
+731,patrick,New York,4,4,NY,NY04,Ameer Benno,Republican,https://www.benno4congress.com,Benno4Congress,F,,M,Married,T,F,F,D+4,T,87.4,87860.0,NE
+732,patrick,New York,4,4,NY,NY04,Kathleen Rice,Democratic,https://www.kathleenrice.com,KathleenRice,T,53.0,F,Single,T,F,F,D+4,T,87.4,87860.0,NE
+733,patrick,North Carolina,3,3,NC,NC03,Walter Jones,Republican,http://www.walterjonescommittee.com,RepWalterJones,T,75.0,M,Married,T,F,F,R+12,F,53.13,44871.0,S
+734,patrick,North Carolina,7,7,NC,NC07,Kyle Horton,Democratic,https://www.drkyleforcongress.com,drkyle4congress,F,,F,Single,T,F,F,R+9,T,52.92,39710.0,S
+735,patrick,North Carolina,7,7,NC,NC07,David Rouzer,Republican,http://davidrouzer.com,DavidRouzer,T,46.0,M,Single,T,F,F,R+9,T,52.92,39710.0,S
+736,patrick,Ohio,16,16,OH,OH16,Anthony Gonzalez,Republican,https://www.voteanthonygonzalez.com,anthonygonzalez,F,34.0,M,Married,F,T,F,R+8,T,31.4,58526.0,MW
+737,patrick,Ohio,16,16,OH,OH16,Susan Moran Palmer,Democratic,https://www.susanpalmerforcongress.com,SusanPalmerOH,F,,F,Married,T,F,F,R+8,T,31.4,58526.0,MW
+738,patrick,Oklahoma,3,3,OK,OK03,Frank Lucas,Republican,http://www.frankdlucas.com,FrankDLucas,T,58.0,M,Married,T,F,F,R+27,T,50.71,32098.0,S
+739,patrick,Oklahoma,3,3,OK,OK03,Frankie Robbins,Democratic,http://robbinsforoklahoma.com,RobbinsforOK,F,72.0,M,Single,T,F,F,R+27,T,50.71,32098.0,S
+740,patrick,Texas,2,2,TX,TX02,Dan Crenshaw,Republican,https://crenshawforcongress.com,DanCrenshawTX,F,,M,Married,T,F,F,R+11,T,98.11,72711.0,S
+741,patrick,Texas,2,2,TX,TX02,Scott Cubbler,Independent,https://www.cubblerforcongress.com,ScottCubbler,F,,M,Married,T,F,F,R+11,T,98.11,72711.0,S
+742,patrick,Texas,2,2,TX,TX02,Patrick Gunnels,Libertarian,,,F,,M,,F,F,F,R+11,T,98.11,72711.0,S
+743,patrick,Texas,2,2,TX,TX02,Todd Litton,Democratic,https://toddlitton.com,toddlitton,F,,M,Married,T,F,F,R+11,T,98.11,72711.0,S
+744,patrick,Texas,5,5,TX,TX05,Lance Gooden,Republican,http://lancegooden.com,RepLanceGooden,F,35.0,M,Married,T,F,F,R+16,T,67.16,50536.0,S
+745,patrick,Texas,5,5,TX,TX05,Dan Wood,Democratic,https://www.votedanwood.com,DanWood2018,F,62.0,M,Married,T,F,F,R+16,T,67.16,50536.0,S
+746,patrick,Texas,10,10,TX,TX10,Michael McCaul,Republican,https://www.michaelmccaul.com,McCaulforTexas,T,56.0,M,Married,T,F,F,R+9,T,77.46,73476.0,S
+747,patrick,Texas,10,10,TX,TX10,Mike Ryan,Libertarian,http://mikeryantexas.nationbuilder.com,,F,,M,,F,F,F,R+9,T,77.46,73476.0,S
+748,patrick,Texas,10,10,TX,TX10,Mike Siegel,Democratic,https://www.siegelfortexas.org,SiegelForTexas,F,,M,Married,T,F,F,R+9,T,77.46,73476.0,S
+749,patrick,Texas,18,18,TX,TX18,Sheila Jackson Lee,Democratic,http://www.sheilajacksonlee18.com,JacksonLeeTX18,T,68.0,F,Married,F,F,T,D+27,T,99.94,42662.0,S
+750,patrick,Texas,18,18,TX,TX18,Ava Pate,Republican,http://www.avapateforuscongress.com,avaforcongress,F,52.0,F,Married,F,T,F,D+27,T,99.94,42662.0,S
+751,patrick,Texas,18,18,TX,TX18,Luke Spencer,Libertarian,https://lukespencerforcongress.com,SpencerCongress,F,,M,,T,F,F,D+27,T,99.94,42662.0,S
+752,patrick,Texas,27,27,TX,TX27,Michael Cloud,Republican,https://www.cloudforcongress.com,MichaelJCloud,T,43.0,M,Married,T,F,F,R+13,T,74.99,53047.0,S
+753,patrick,Texas,27,27,TX,TX27,James Duerr,Independent,http://duerrforcongress.com,Duerr4Congress,F,,M,,T,F,F,R+13,T,74.99,53047.0,S
+754,patrick,Texas,27,27,TX,TX27,Eric Holguin,Democratic,https://www.ericforus.com,EricHolguinTX,F,,M,Single,F,T,F,R+13,T,74.99,53047.0,S
+755,patrick,Texas,27,27,TX,TX27,Daniel Tinus,Libertarian,https://dtinusforcongress.com,tinus4congress,F,,M,Married,T,F,F,R+13,T,74.99,53047.0,S
+756,patrick,Washington,5,5,WA,WA05,Lisa Brown,Democratic,https://lisabrownforcongress.com,lisa4congress,F,61.0,F,Married,T,F,F,R+8,T,1.5,35720.0,W
+757,patrick,Washington,5,5,WA,WA05,Cathy McMorris Rodgers,Republican,http://www.cathyforcongress.com,TeamCMR,T,49.0,F,Married,T,F,F,R+8,T,1.5,35720.0,W
+758,thomas,Alabama,7,7,AL,AL07,Terri Sewell,Democratic,http://www.sewellforcongress.com/,RepTerriSewell,T,53.0,F,,F,F,T,D+20,F,72.16,34664.0,S
+759,thomas,California,26,26,CA,CA26,Julia Brownley,Democratic,http://juliabrownley.com/,JuliaBrownley26,T,66.0,F,,T,F,F,D+7,T,,72804.0,W
+760,thomas,California,26,26,CA,CA26,Antonio Sabàto Jr,Republican,http://voteantonio.com/,AntonioSabatoJr,F,46.0,M,,F,F,F,D+7,T,,72804.0,W
+761,thomas,California,33,33,CA,CA33,Ted Lieu,Democratic,http://www.tedlieu.com/,tedlieu,T,49.0,M,Married,F,F,F,D+16,T,,61273.0,W
+762,thomas,California,33,33,CA,CA33,Kenneth Wright,Republican,https://drwright4congress.com/,drwright4congr1,F,,M,,T,F,F,D+16,T,,61273.0,W
+763,thomas,California,39,39,CA,CA39,Gil Cisneros,Democratic,https://cisnerosforcongress.com/,GilCisnerosCA,F,48.0,M,Married,F,F,F,Even,T,,76748.0,W
+764,thomas,California,39,39,CA,CA39,Young Kim,Republican,https://www.kimforcongress2018.com/,YoungKimCD39,F,55.0,F,Married,F,F,F,Even,T,,76748.0,W
+765,thomas,California,48,48,CA,CA48,Harley Rouda,Democratic,https://www.harleyforcongress.com/,HarleyRouda,F,,M,Married,T,F,F,R+4,T,,76077.0,W
+766,thomas,California,48,48,CA,CA48,Dana Rohrabacher,Republican,http://www.rohrabacher.com/,DanaRohrabacher,T,71.0,M,Married,T,F,F,R+4,T,,76077.0,W
+767,thomas,California,51,51,CA,CA51,Juan Hidalgo Jr,Republican,http://hidalgoforcongress.com/,HidalgoFor51st,F,52.0,M,Married,F,T,F,D+22,T,,41477.0,W
+768,thomas,California,51,51,CA,CA51,Juan Vargas,Democratic,https://votevargas.com/,RepJuanVargas,T,57.0,M,Married,F,T,F,D+22,T,,41477.0,W
+769,thomas,Colorado,3,3,CO,CO03,Mary Malarsie,Independent,https://www.marymindependent.com/,,F,,F,,T,F,F,R+6,T,64.75,47012.0,W
+770,thomas,Colorado,3,3,CO,CO03,Diane Mitsch Bush,Democratic,https://dianeforcolorado.com/,RepDMB,F,68.0,F,Married,T,F,F,R+6,T,64.75,47012.0,W
+771,thomas,Colorado,3,3,CO,CO03,Scott Tipton,Republican,https://www.votetipton.com/,RepTipton,T,61.0,M,Married,T,F,F,R+6,T,64.75,47012.0,W
+772,thomas,Colorado,4,4,CO,CO04,Ken Buck,Republican,http://www.buckforcolorado.com/,RepKenBuck,T,59.0,M,Married,T,F,F,R+13,T,72.9,57836.0,W
+773,thomas,Colorado,4,4,CO,CO04,Karen McCormick,Democratic,https://www.mccormickforcongress.org/,McCormickForCO,F,,F,Married,T,F,F,R+13,T,72.9,57836.0,W
+774,thomas,Colorado,6,6,CO,CO06,Mike Coffman,Republican,http://www.coffmanforcongress.com/,RepMikeCoffman,T,63.0,M,,T,F,F,D+2,T,98.51,,W
+775,thomas,Colorado,6,6,CO,CO06,Jason Crow,Democratic,https://jasoncrowforcongress.com/,JasonCrowCO6,F,,M,Married,T,F,F,D+2,T,98.51,,W
+776,thomas,Florida,14,14,FL,FL14,Kathy Castor,Democratic,https://www.castorforcongress.com/,USRepKCastor,T,52.0,F,Married,T,F,F,D+7,F,99.3,,S
+777,thomas,Georgia,7,7,GA,GA07,Carolyn Bourdeaux,Democratic,https://www.carolyn4congress.com/,Carolyn4GA7,F,,F,Married,T,F,F,R+9,T,99.55,,S
+778,thomas,Georgia,7,7,GA,GA07,Rob Woodall,Republican,http://robwoodall.com/,RepRobWoodall,T,48.0,M,,T,F,F,R+9,T,99.55,,S
+779,thomas,Illinois,7,7,IL,IL07,Craig Cameron,Republican,https://cameron4congress.com/,CraigCameron07,F,,M,,F,F,T,D+38,T,100,44535.0,MW
+780,thomas,Illinois,7,7,IL,IL07,Danny Davis,Democratic,https://davis.house.gov/,RepDannyDavis,T,77.0,M,Married,F,F,T,D+38,T,100,44535.0,MW
+781,thomas,Illinois,13,13,IL,IL13,Rodney Davis,Republican,https://electrodney.com/,RodneyDavis,T,48.0,M,Married,T,F,F,R+3,T,78.9,44915.0,MW
+782,thomas,Illinois,13,13,IL,IL13,Betsy Dirksen Londrigan,Democratic,https://www.betsydirksenlondrigan.com/,BetsyforIL,F,,F,Married,T,F,F,R+3,T,78.9,44915.0,MW
+783,thomas,Indiana,5,5,IN,IN05,Susan Brooks,Republican,https://www.susanbrooksforcongress.com/,SusanWBrooks,T,58.0,F,Married,T,F,F,R+9,T,74.53,58115.0,MW
+784,thomas,Indiana,5,5,IN,IN05,Dee Thornton,Democratic,http://www.deethorntonforcongress.com/,VoteThornton,F,,F,Married,F,F,T,R+9,T,74.53,58115.0,MW
+785,thomas,Michigan,7,7,MI,MI07,Gretchen Driskell,Democratic,https://votedriskell.com/,gdriskell,F,59.0,F,Married,T,F,F,R+7,T,79.9,,MW
+786,thomas,Michigan,7,7,MI,MI07,Tim Walberg,Republican,http://www.walbergforcongress.com/,RepWalberg,T,67.0,M,Married,T,F,F,R+7,T,79.9,,MW
+787,thomas,Nevada,4,4,NV,NV04,Cresent Hardy,Republican,https://www.cresenthardy.com/,CresentHardy,F,61.0,M,Married,T,F,F,D+3,T,,50134.0,W
+788,thomas,Nevada,4,4,NV,NV04,Steven Horsford,Democratic,https://www.stevenhorsford.com/,StevenHorsford,F,45.0,M,Married,F,F,T,D+3,T,,50134.0,W
+789,thomas,New Jersey,9,9,NJ,NJ09,Eric Fisher,Republican,,,F,,M,,T,F,F,D+16,T,100,52437.0,NE
+790,thomas,New Jersey,9,9,NJ,NJ09,Bill Pascrell,Democratic,http://billpascrell.com/,BillPascrell,T,81.0,M,Married,T,F,F,D+16,T,100,52437.0,NE
+791,thomas,New Jersey,11,11,NJ,NJ11,Mikie Sherrill,Democratic,https://mikiesherrill.com/,MikieSherrill,F,46.0,F,Married,T,F,F,R+3,T,93.49,79009.0,NE
+792,thomas,New Jersey,11,11,NJ,NJ11,Jay Webber,Republican,https://www.webberforcongress.com/splash_wfc?splash=1,JayWebberNJ,F,46.0,M,Married,T,F,F,R+3,T,93.49,79009.0,NE
+793,thomas,New York,8,8,NY,NY08,Hakeem Jeffries,Democratic,http://hakeemjeffries.com/,RepJeffries,T,48.0,M,,F,F,T,D+36,T,,,NE
+794,thomas,New York,8,8,NY,NY08,Ernest Johnson,Conservative,,,F,,M,,F,F,F,D+36,T,,,NE
+795,thomas,New York,8,8,NY,NY08,Jessica White,Reform,,,F,,F,,F,F,F,D+36,T,,,NE
+796,thomas,New York,10,10,NY,NY10,Naomi Levin,Republican,https://naomiforcongress.com/,NaomiLevinNY,F,,F,,T,F,F,D+26,T,,70270.0,NE
+797,thomas,New York,10,10,NY,NY10,Jerry Nadler,Democratic,http://www.jerrynadler.com/,RepJerryNadler,T,71.0,M,Married,T,F,F,D+26,T,,70270.0,NE
+798,thomas,New York,18,18,NY,NY18,Sean Patrick Maloney,Democratic,http://seanmaloney.com/,RepSeanMaloney,T,52.0,M,Married,T,F,F,R+1,T,,71399.0,NE
+799,thomas,New York,18,18,NY,NY18,James O'Donnell,Republican,https://www.voteodonnell.com/,JamesODonnellNY,F,,M,Married,T,F,F,R+1,T,,71399.0,NE
+800,thomas,North Carolina,12,12,NC,NC12,Alma Adams,Democratic,http://almaadamsforcongress.com/,RepAdams,T,72.0,F,,F,F,T,D+18,T,98.93,35775.0,S
+801,thomas,North Carolina,12,12,NC,NC12,Paul Wright,Republican,http://wrightforuscongress.com/,,F,,M,Married,T,F,F,D+18,T,98.93,35775.0,S
+802,thomas,Ohio,12,12,OH,OH12,Troy Balderson,Republican,https://baldersonforcongress.com/,Troy_Balderson,T,56.0,M,,T,F,F,R+7,T,,63046.0,MW
+803,thomas,Ohio,12,12,OH,OH12,Joseph Mancik,Green,,Joe_Manchik,F,,M,,T,F,F,R+7,T,,63046.0,MW
+804,thomas,Ohio,12,12,OH,OH12,Danny O'Connor,Democratic,https://dannyoconnorforcongress.com/,dannyoconnor1,F,31.0,M,,T,F,f,R+7,T,,63046.0,MW
+805,thomas,Ohio,13,13,OH,OH13,Chris DePizzo,Republican,https://depizzoforcongress.com/,chrisdepizzo,F,,M,Married,T,F,F,D+7,T,,40429.0,MW
+806,thomas,Ohio,13,13,OH,OH13,Tim Ryan,Democratic,https://timryanforcongress.com/,RepTimRyan,T,45.0,M,Married,T,F,F,D+7,T,,40429.0,MW
+807,thomas,Ohio,14,14,OH,OH14,David Joyce,Republican,https://joyceforcongress.com/,RepDaveJoyce,T,61.0,M,Married,T,F,F,R+5,T,74.05,58451.0,MW
+808,thomas,Ohio,14,14,OH,OH14,Betsy Rader,Democratic,https://www.betsyraderforcongress.com/,BetsyRaderOH,F,,F,Married,T,F,F,R+5,T,74.05,58451.0,MW
+809,thomas,Oregon,2,2,OR,OR02,Jamie McLeod-Skinner,Democratic,https://jamiefororegon.com/,JamieforOregon,F,,F,Married,T,F,F,R+11,T,,35600.0,W
+810,thomas,Oregon,2,2,OR,OR02,Greg Walden,Republican,https://gregwalden.com/,repgregwalden,T,61.0,M,Married,T,F,F,R+11,T,,35600.0,W
+811,thomas,South Carolina,2,2,SC,SC02,Sean Carrigan,Democratic,http://www.carriganforcongress.com/,VoteCarrigan,F,,M,Married,T,F,F,R+12,T,,42912.0,S
+812,thomas,South Carolina,2,2,SC,SC02,Sonny Narang,American,http://www.sonny4congress.com/,,F,,M,Married,F,F,F,R+12,T,,42912.0,S
+813,thomas,South Carolina,2,2,SC,SC02,Joe Wilson,Republican,http://www.joewilsonforcongress.com/,RepJoeWilson,T,71.0,M,Married,T,F,F,R+12,T,,42912.0,S
+814,thomas,Texas,11,11,TX,TX11,Mike Conaway,Republican,https://www.mikeconaway.com/,ConawayTX11,T,70.0,M,Married,T,F,F,R+32,T,71.66,50602.0,S
+815,thomas,Texas,11,11,TX,TX11,Jennie Lou Leeder,Democratic,http://jennielouleeder.com/,JennieLouLeeder,F,,F,,T,F,F,R+32,T,71.66,50602.0,S
+816,thomas,Texas,11,11,TX,TX11,Rhett Rosenquest Smith,Libertarian,,,F,,M,,T,F,F,R+32,T,71.66,50602.0,S
+817,thomas,Texas,12,12,TX,TX12,Vanessa Adia,Democratic,https://www.vanessaadia.com/,VanessaAdiaTX12,F,,F,Married,F,F,F,R+18,T,86.54,62214.0,S
+818,thomas,Texas,12,12,TX,TX12,Kay Granger,Republican,http://kaygranger.com/,RepKayGranger,T,75.0,F,,T,F,F,R+18,T,86.54,62214.0,S
+819,thomas,Texas,12,12,TX,TX12,Jacob Leddy,Libertarian,https://www.readyforleddy.com/,readyforleddy,F,,M,,T,T,T,R+18,T,86.54,62214.0,S
+820,thomas,Texas,21,21,TX,TX21,Joseph Kopser,Democratic,https://kopserforcongress.com/,JosephKopser,F,,M,Married,T,F,F,R+10,T,78.15,68987.0,S
+821,thomas,Texas,21,21,TX,TX21,Chip Roy,Republican,https://chiproy.com/levin/,chiproytx,F,,M,Married,T,F,F,R+10,T,78.15,68987.0,S
+822,thomas,Texas,21,21,TX,TX21,Lee Santos,Libertarian,https://www.hardcorelibertarian.com/,TxHopsfarmer,F,,F,,T,F,F,R+10,T,78.15,68987.0,S
+823,thomas,Texas,26,26,TX,TX26,Mark Boler,Libertarian,https://www.markboler4congress.org/,markboler,F,,M,Married,T,F,F,R+18,T,93.4,87272.0,S
+824,thomas,Texas,26,26,TX,TX26,Michael Burgess,Republican,http://burgessforcongress.org/,michaelcburgess,T,67.0,M,Married,T,F,F,R+18,T,93.4,87272.0,S
+825,thomas,Texas,26,26,TX,TX26,Linsey Fagan,Democratic,https://www.linseyfagan.com/,LinseyFaganTX,F,,F,,T,F,F,R+18,T,93.4,87272.0,S
+826,thomas,Utah,1,1,UT,UT01,Rob Bishop,Republican,https://votebishop.com/,RepRobBishop,T,67.0,M,Married,T,F,F,R+26,T,,56973.0,W
+827,thomas,Utah,1,1,UT,UT01,Lee Castillo,Democratic,https://utahisforeverybody.com/,Lee4USCongress,F,,M,,F,F,F,R+26,T,,56973.0,W
+828,thomas,Utah,1,1,UT,UT01,Adam Davis,Green,https://www.davisforutah.com/,davisforutah,F,,M,,T,F,F,R+26,T,,56973.0,W
+829,thomas,Utah,1,1,UT,UT01,Eric Eliason,United Utah,https://eliasonforcongress.com/,EliasonCongress,F,46.0,M,Married,T,F,F,R+26,T,,56973.0,W
+830,thomas,Virginia,1,1,VA,VA01,Vangie Williams,Democratic,https://vangieforcongress.com/,Vangie4Congress,F,,F,Married,F,F,T,R+8,T,69.54,81338.0,S
+831,thomas,Virginia,1,1,VA,VA01,Rob Wittman,Republican,https://robwittman.com/,RobWittman,T,59.0,M,Married,T,F,F,R+8,T,69.54,81338.0,S
+832,thomas,Virginia,2,2,VA,VA02,Elaine Luria,Democratic,https://elaineforcongress.com/,ElaineLuriaVA,F,,F,Married,T,F,F,R+2,T,92.57,66953.0,S
+833,thomas,Virginia,2,2,VA,VA02,Scott Taylor,Republican,https://scotttaylor.us/,RepScottTaylor,T,39.0,M,,T,F,F,R+2,T,92.57,66953.0,S
+834,thomas,Virginia,8,8,VA,VA08,Don Beyer,Democratic,http://friendsofdonbeyer.com/,RepDonBeyer,T,68.0,M,Married,T,F,F,D+21,T,99.71,100719.0,S
+835,thomas,Virginia,8,8,VA,VA08,Thomas Oh,Republican,https://www.letuschangecongress.org/,OhForCongress,F,,M,,F,F,F,D+21,T,99.71,100719.0,S
+836,thomas,Virginia,11,11,VA,VA11,Gerry Connolly,Democratic,https://gerryconnolly.com/,GerryConnolly,T,68.0,M,Married,T,F,F,D+15,T,99.97,106554.0,S
+837,thomas,Virginia,11,11,VA,VA11,Jeff Dove,Republican,http://www.doveforcongress.com/,JefferyADoveJr,F,37.0,M,Married,F,F,T,D+15,T,99.97,106554.0,S
+838,thomas,Virginia,11,11,VA,VA11,Stevan Porter,Libertarian,http://www.porter4us.com/,Porter4Us,F,49.0,M,Married,T,F,F,D+15,T,99.97,106554.0,S
+839,thomas,Washington,3,3,WA,WA03,Jaime Herrera Beutler,Republican,https://www.votejaime.com/,HerreraBeutler,T,39.0,F,Married,T,F,F,R+4,T,,44426.0,W
+840,thomas,Washington,3,3,WA,WA03,Carolyn Long,Democratic,https://www.electlong.com/,ElectLong,F,,F,Married,T,F,F,R+4,T,,44426.0,W
+841,thomas,Washington,7,7,WA,WA07,Pramila Jayapal,Democratic,https://www.pramilaforcongress.com/,RepJayapal,T,53.0,F,Married,F,F,F,D+33,T,,61747.0,W
+842,thomas,Washington,7,7,WA,WA07,Craig Keller,Republican,http://www.keller4america.us/,,F,,M,Married,T,F,F,D+33,T,,61747.0,W
+843,thomas,Wisconsin,8,8,WI,WI08,Mike Gallagher,Republican,http://www.mikeforwisconsin.com/,RepGallagher,T,34.0,M,,T,F,F,R+7,T,56.04,43274.0,MW
+844,thomas,Wisconsin,8,8,WI,WI08,Beau Liegeois,Democratic,https://beauforcongress.com/,beauforcongress,F,,M,Married,T,F,F,R+7,T,56.04,43274.0,MW
+845,tony,Arkansas,1,1,AR,AR01,Rick Crawford,Republican,https://www.meetrickcrawford.com/,RepRickCrawford,T,52.0,M,Married,T,F,F,R+17,T,44.5,28940.0,S
+846,tony,Arkansas,1,1,AR,AR01,Chintan Desai,Democratic,https://www.desaiforcongress.com/,DecideonDesai,F,,M,,F,F,F,R+17,T,44.5,28940.0,S
+847,tony,Arkansas,1,1,AR,AR01,Elvis Presley,Libertarian,,ElvisDPresley,F,,M,,T,F,F,R+17,T,44.5,28940.0,S
+848,tony,California,28,28,CA,CA28,Johnny Nalbandian,Republican,http://votejohnny.us/,Johnny_Congress,F,,M,,F,F,F,D+23,T,99.86,65849.0,W
+849,tony,California,28,28,CA,CA28,Adam Schiff,Democratic,http://adamschiff.com/,RepAdamSchiff,T,58.0,M,Married,T,F,F,D+23,T,99.86,65849.0,W
+850,tony,California,40,40,CA,CA40,Rodolfo Barragan,Green,https://www.rodolfoforcongress.com/,RodolfoCongress,F,30.0,M,,F,T,F,D+33,T,100,47190.0,W
+851,tony,California,40,40,CA,CA40,Lucille Roybal-Allard,Democratic,http://www.lucilleforcongress.com/,RepRoybalAllard,T,77.0,F,Married,T,F,F,D+33,T,100,47190.0,W
+852,tony,California,45,45,CA,CA45,Katie Porter,Democratic,https://katieporter.com/,katieporteroc,F,,F,,T,F,F,R+3,T,99.55,102040.0,W
+853,tony,California,45,45,CA,CA45,Mimi Walters,Republican,https://www.mimiwalters.com/,MimiWaltersCA,T,56.0,F,Married,T,F,F,R+3,T,99.55,102040.0,W
+854,tony,California,46,46,CA,CA46,Lou Correa,Democratic,http://www.loucorrea.com/,voteloucorrea,T,60.0,M,Married,F,T,F,D+15,T,100,65334.0,W
+855,tony,California,46,46,CA,CA46,Russell Lambert,Republican,https://russlambertforcongress.com/,,F,,M,,T,F,F,D+15,T,100,65334.0,W
+856,tony,California,50,50,CA,CA50,Ammar Campa-Najjar,Democratic,www.campacampaign.com,acampanajjar,F,,M,,F,F,F,R+11,T,89.36,77155.0,W
+857,tony,California,50,50,CA,CA50,Duncan Hunter,Republican,https://hunterforcongress.com/,,T,41.0,M,Married,T,F,F,R+11,T,89.36,77155.0,W
+858,tony,Florida,1,1,FL,FL01,Matt Gaetz,Republican,https://mattgaetz.com/,mattgaetz,T,36.0,M,,T,F,F,R+22,T,82.11,36738.0,S
+859,tony,Florida,1,1,FL,FL01,Jennifer Zimmerman,Democratic,https://www.jenniferzimmermanmd.com/,DrZ4Congress,F,,F,Married,F,T,F,R+22,T,82.11,36738.0,S
+860,tony,Florida,8,8,FL,FL08,Sanjay Patel,Democratic,https://www.votesanjaypatel.com/,votesanjaypatel,F,,M,,T,F,F,R+11,T,94.11,52180.0,S
+861,tony,Florida,8,8,FL,FL08,Bill Posey,Republican,http://billposey.com/,congbillposey,T,70.0,M,Married,T,F,F,R+11,T,94.11,52180.0,S
+862,tony,Florida,10,10,FL,FL10,Val Demings,Democratic,http://www.valdemings.com/,val_demings,T,61.0,F,Married,F,F,T,D+11,F,98.67,50963.0,S
+863,tony,Florida,17,17,FL,FL17,April Freeman,Democratic,http://www.aprilfreeman.com/,April4Congress,F,,F,,T,F,F,R+13,T,82.08,49449.0,S
+864,tony,Florida,17,17,FL,FL17,Greg Steube,Republican,http://www.tomrooney.com/,TomRooney,T,47.9,M,Married,T,F,F,R+13,T,82.08,49449.0,S
+865,tony,Florida,18,18,FL,FL18,Lauren Baer,Democratic,https://laurenbaerforcongress.com/,laurenbaer,F,,F,Married,T,F,F,R+5,T,96.37,58754.0,S
+866,tony,Florida,18,18,FL,FL18,Brian Mast,Republican,https://www.mastforcongress.com/,BrianMastFL,T,38.0,M,Married,T,F,F,R+5,T,96.37,58754.0,S
+867,tony,Illinois,1,1,IL,IL01,Bobby Rush,Democratic,,repbobbyrush,T,71.0,M,Married,F,F,T,D+27,T,99,46458.0,MW
+868,tony,Illinois,1,1,IL,IL01,Jimmy Tillman,Republican,https://www.jimmylee2dc.com/,Tillman2014,F,50.0,M,Divorced,F,F,T,D+27,T,99,46458.0,MW
+869,tony,Kansas,3,3,KS,KS03,Chris Clemmons,Libertarian,http://www.clemmonsforkansas.com/,chris_clemmons,F,30.0,M,Married,T,F,F,R+4,T,94.65,51118.0,MW
+870,tony,Kansas,3,3,KS,KS03,Sharice Davids,Democratic,https://www.shariceforcongress.com/,sharicedavids,F,,F,,F,F,F,R+4,T,94.65,51118.0,MW
+871,tony,Kansas,3,3,KS,KS03,Kevin Yoder,Republican,http://www.yoderforcongress.com/,KevinYoder,T,42.0,M,Married,T,F,F,R+4,T,94.65,51118.0,MW
+872,tony,Louisiana,4,4,LA,LA04,Mark David Halverson,Libertarian,http://mark4congress.com/,,F,,M,,T,F,F,R+13,T,58.65,39748.0,S
+873,tony,Louisiana,4,4,LA,LA04,Mike Johnson,Republican,https://www.mikejohnsonforlouisiana.com/,MikeJohnson,T,46.0,M,Married,T,F,F,R+13,T,58.65,39748.0,S
+874,tony,Louisiana,4,4,LA,LA04,Ryan Trundle,Democratic,https://www.ryantrundle.com/,ryantrundleCD4,F,,M,,T,F,F,R+13,T,58.65,39748.0,S
+875,tony,Maryland,5,5,MD,MD05,William Devine III,Republican,,studlydevine,F,,M,,T,F,F,D+16,T,75.19,62661.0,S
+876,tony,Maryland,5,5,MD,MD05,Steny Hoyer,Democratic,http://www.hoyerforcongress.com/,StenyHoyer,T,79.0,M,Widowed,T,F,F,D+16,T,75.19,62661.0,S
+877,tony,Maryland,5,5,MD,MD05,Jacob Pulcher,Libertarian,,PULCHER_Dist5md,F,,M,,T,F,F,D+16,T,75.19,62661.0,S
+878,tony,Maryland,5,5,MD,MD05,Pat Elder,Green,https://www.elderforcongress.org/,eldercongress,F,,M,Married,T,F,F,D+16,T,75.19,62661.0,S
+879,tony,Massachusetts,2,2,MA,MA02,Paul Grady,Independent,,,F,,M,,T,F,F,D+9,T,81.28,67531.0,NE
+880,tony,Massachusetts,2,2,MA,MA02,Tracy Lovvorn,Republican,https://tracyforcongress.com/,Tracy4Congress,F,,F,Married,T,F,F,D+9,T,81.28,67531.0,NE
+881,tony,Massachusetts,2,2,MA,MA02,Jim McGovern,Democratic,https://www.jimmcgovern.com/,McGovernMA,T,58.0,M,Married,T,F,F,D+9,T,81.28,67531.0,NE
+882,tony,Michigan,3,3,MI,MI03,Cathy Albro,Democratic,https://cathyalbroforcongress.com/,,F,,F,Married,T,F,F,R+6,T,68.54,57926.0,MW
+883,tony,Michigan,3,3,MI,MI03,Justin Amash,Republican,https://www.justinamash.com/,justinamash,T,38.0,M,Married,T,F,F,R+6,T,68.54,57926.0,MW
+884,tony,Michigan,3,3,MI,MI03,Douglas Smith,Independent,,Doug_4Congress,F,,M,,T,F,F,R+6,T,68.54,57926.0,MW
+885,tony,Michigan,9,9,MI,MI09,Andy Levin,Democratic,https://www.andylevinforcongress.com/,Andy_Levin,F,,M,Married,T,F,F,D+4,T,100,58742.0,MW
+886,tony,Michigan,9,9,MI,MI09,John McDermott,Green,https://www.electjohnvmcdermott.com/,,F,,M,,T,F,F,D+4,T,100,58742.0,MW
+887,tony,Michigan,9,9,MI,MI09,Candius Stearns,Republican,https://www.candiusforcongress.com/,CandiusStearns,F,46.0,F,Married,T,F,F,D+4,T,100,58742.0,MW
+888,tony,Minnesota,3,3,MN,MN03,Erik Paulsen,Republican,http://paulsenforcongress.com/,Erik_Paulsen,T,53.0,M,Married,T,F,F,D+1,T,95.57,84689.0,MW
+889,tony,Minnesota,3,3,MN,MN03,Dean Phillips,Democratic,https://www.phillipsforcongress.org/,deanbphillipS,F,,M,Divorced,T,F,F,D+1,T,95.57,84689.0,MW
+890,tony,Mississippi,4,4,MS,MS04,Jeramey Anderson,Democratic,https://www.jerameyanderson.com/,jerameyanderson,F,26.0,M,,F,F,T,R+21,T,53.72,33023.0,S
+891,tony,Mississippi,4,4,MS,MS04,Steven Palazzo,Republican,https://palazzoforcongress.com,StevenPalazzo,T,48.0,M,Married,T,F,F,R+21,T,53.72,33023.0,S
+892,tony,Nebraska,1,1,NE,NE01,Jeff Fortenberry,Republican,http://supportfort.com/,jefffortenberry,T,57.0,M,Married,T,F,F,R+11,T,65.21,40021.0,MW
+893,tony,Nebraska,1,1,NE,NE01,Jessica McClure,Democratic,http://www.jessicamcclureforcongress.com/,clure4congress,F,,F,Married,T,F,F,R+11,T,65.21,40021.0,MW
+894,tony,New Jersey,1,1,NJ,NJ01,Paul Dilks,Republican,,PaulDilks,F,,M,Married,T,F,F,D+13,T,98.2,92284.0,NE
+895,tony,New Jersey,1,1,NJ,NJ01,Donald Norcross,Democratic,https://www.donaldnorcrossforcongress.com/,DonNorcross4NJ,T,59.0,M,Married,T,F,F,D+13,T,98.2,92284.0,NE
+896,tony,New York,14,14,NY,NY14,James Dillon,Reform,,,F,69.0,M,,,,,D+29,T,99.99,58331.0,NE
+897,tony,New York,14,14,NY,NY14,Alexandria Ocasio-Cortez,Democratic,https://www.ocasio2018.com/,Ocasio2018,F,28.0,F,Single,F,T,F,D+29,T,99.99,58331.0,NE
+898,tony,New York,14,14,NY,NY14,Anthony Pappas,Republican,https://www.anthonypappasforcongress.com/,,F,,F,,T,F,F,D+29,T,99.99,58331.0,NE
+899,tony,New York,14,14,NY,NY14,Elizabeth Perri,Conservative,,,F,,F,,T,F,F,D+29,T,99.99,58331.0,NE
+900,tony,New York,14,14,NY,NY14,Joe Crowley,Working Families,http://crowleyforcongress.com/,joecrowleyny,T,56.0,M,Married,T,F,F,D+29,T,99.99,58331.0,NE
+901,tony,New York,20,20,NY,NY20,Paul Tonko,Democratic,http://paultonko.com/,paultonko,T,69.0,M,,T,F,F,D+7,T,88.69,66532.0,NE
+902,tony,New York,20,20,NY,NY20,Francis Vitollo,Republican,https://www.joevitollo4congress.com/,joevitollo,F,62.0,M,Married,T,F,F,D+7,T,88.69,66532.0,NE
+903,tony,New York,22,22,NY,NY22,Anthony Brindisi,Democratic,https://brindisiforcongress.com/,abrindisiny,F,39.0,M,Married,T,F,F,R+6,T,57.49,52212.0,NE
+904,tony,New York,22,22,NY,NY22,Claudia Tenney,Republican,https://claudiaforcongress.com/,claudiatenney,T,57.0,F,,T,F,F,R+6,T,57.49,52212.0,NE
+905,tony,New York,27,27,NY,NY27,David Bellavia,Republican,,,F,,M,,,,,R+11,T,58.04,64032.0,NE
+906,tony,New York,27,27,NY,NY27,Chris Collins,Republican,https://collinsforcongress.com/,collinsny27,T,68.4,M,Married,T,F,F,R+11,T,58.04,64032.0,NE
+907,tony,New York,27,27,NY,NY27,Nate McMurray,Democratic,https://www.votemcmurray.com/,nate_mcmurray,F,,M,Married,T,F,F,R+11,T,58.04,64032.0,NE
+908,tony,New York,27,27,NY,NY27,Stefan Mychajliw,Republican,,StefanMychajliw,F,,M,Married,T,F,F,R+11,T,58.04,64032.0,NE
+909,tony,New York,27,27,NY,NY27,Carl Paladino,Republican,https://www.carlpaladino.com/,CarlPaladino,F,,M,,T,F,F,R+11,T,58.04,64032.0,NE
+910,tony,New York,27,27,NY,NY27,Larry Piegza,Reform,https://fixitlarry.org/,,F,,M,Married,T,F,F,R+11,T,58.04,64032.0,NE
+911,tony,New York,27,27,NY,NY27,Michael Zak,Green,,,F,,M,,T,F,F,R+11,T,58.04,64032.0,NE
+912,tony,North Carolina,2,2,NC,NC02,Linda Coleman,Democratic,https://lindacolemanforcongress.com/,LindaForNC,F,,F,,F,F,T,R+7,T,65.32,69552.0,S
+913,tony,North Carolina,2,2,NC,NC02,George Holding,Republican,https://georgeholdingforcongress.com/,GeorgeHolding,T,50.0,M,Married,T,F,F,R+7,T,65.32,69552.0,S
+914,tony,North Carolina,2,2,NC,NC02,Jeff Matemu,Libertarian,https://jeffmatemu.com/,JeffNc2,F,,M,Married,F,F,T,R+7,T,65.32,69552.0,S
+915,tony,North Carolina,10,10,NC,NC10,David Brown,Democratic,https://dwb4congress.com/,DWB4Congress,F,44.0,M,Married,T,F,F,R+12,T,63.9,47064.0,S
+916,tony,North Carolina,10,10,NC,NC10,Patrick McHenry,Republican,https://mchenryforcongress.com/,McHenryCampaign,T,43.0,M,Married,T,F,F,R+12,T,63.9,47064.0,S
+917,tony,North Carolina,11,11,NC,NC11,Clifton Ingram,Libertarian,,,F,,M,,T,F,F,R+14,T,44.47,46337.0,S
+918,tony,North Carolina,11,11,NC,NC11,Mark Meadows,Republican,https://meadowsforcongress.com/,votemeadows,F,59.0,M,Married,T,F,F,R+14,T,44.47,46337.0,S
+919,tony,North Carolina,11,11,NC,NC11,Phillip Price,Democratic,https://price4wnc.org/,Price4WNC,F,,M,Married,T,F,F,R+14,T,44.47,46337.0,S
+920,tony,North Carolina,13,13,NC,NC13,Tom Bailey,Libertarian,,,F,68.0,M,Married,T,F,F,R+6,T,68.88,50803.0,S
+921,tony,North Carolina,13,13,NC,NC13,Ted Budd,Republican,http://tedbudd.com/,buddforcongress,T,47.0,M,Married,T,F,F,R+6,T,68.88,50803.0,S
+922,tony,North Carolina,13,13,NC,NC13,Kathy Manning,Democratic,https://kathymanning2018.com/,KathyManningNC,F,,F,Married,T,F,F,R+6,T,68.88,50803.0,S
+923,tony,Ohio,3,3,OH,OH03,Joyce Beatty,Democratic,https://beattyforcongress.com/,JoyceBeatty,T,68.0,F,Married,F,F,T,D+19,T,99.82,47123.0,MW
+924,tony,Ohio,3,3,OH,OH03,James Burgess,Republican,http://burgessforohio.com/,,F,,M,Married,T,F,F,D+19,T,99.82,47123.0,MW
+925,tony,Pennsylvania,4,4,PA,PA04,Dan David,Republican,http://dandavidforcongress.com/,DanDavidPA,F,,M,Married,T,F,F,D+7,T,76.43,63733.0,NE
+926,tony,Pennsylvania,4,4,PA,PA04,Madeleine Dean,Democratic,https://www.mad4pa.com/,mad4pa,F,,F,Married,T,F,F,D+7,T,76.43,63733.0,NE
+927,tony,Pennsylvania,5,5,PA,PA05,Pearl Kim,Republican,https://www.pearlkimforcongress.com/,pearlkimpa,F,,F,Single,F,F,F,D+13,T,50.74,50232.0,NE
+928,tony,Pennsylvania,5,5,PA,PA05,Mary Gay Scanlon,Democratic,https://www.scanlonforcongress.com/,marygayscanlon,F,,F,Married,T,F,F,D+13,T,50.74,50232.0,NE
+929,tony,Pennsylvania,14,14,PA,PA14,Bibiana Boerio,Democratic,https://boerioforcongress.com/,Boerio4Congress,F,,F,,T,F,F,R+14,T,99.85,45970.0,NE
+930,tony,Pennsylvania,14,14,PA,PA14,Guy Reschenthaler,Republican,https://www.guyforpa.com/,reschenthaler,F,,M,,T,F,F,R+14,T,99.85,45970.0,NE
+931,tony,Tennessee,6,6,TN,TN06,Dawn Barlow,Democratic,https://www.dawnbarlowforcongress.com/,Barlow4Congress,F,,F,Married,T,F,F,R+24,T,48.23,53708.0,S
+932,tony,Tennessee,6,6,TN,TN06,Lloyd Dunn,Independent,https://votedunn.weebly.com/,DUNN4TN,F,37.0,M,Married,T,F,F,R+24,T,48.23,53708.0,S
+933,tony,Tennessee,6,6,TN,TN06,John Rose,Republican,https://johnrose.com/,JohnRoseforTN,F,,M,Married,T,F,F,R+24,T,48.23,53708.0,S
+934,tony,Tennessee,6,6,TN,TN06,David Ross,Independent,https://www.davidvsdc.com/,,F,59.0,M,Married,T,F,F,R+24,T,48.23,53708.0,S
+935,tony,Tennessee,9,9,TN,TN09,Leo AwGoWhat,Independent,,awgowhat,F,,M,,T,F,F,D+28,T,98.54,40491.0,S
+936,tony,Tennessee,9,9,TN,TN09,Charlotte Bergmann,Republican,http://charlottebergmann.com/,electbergmann,F,,F,Single,F,T,F,D+28,T,98.54,40491.0,S
+937,tony,Tennessee,9,9,TN,TN09,Steve Cohen,Democratic,http://cohenforcongress.com/,reelectcohen,T,69.0,M,,F,F,F,D+28,T,98.54,40491.0,S
+938,tony,Texas,1,1,TX,TX01,Jeff Callaway,Libertarian,,,F,42.0,M,,T,F,F,R+25,T,56.8,49086.0,S
+939,tony,Texas,1,1,TX,TX01,Louie Gohmert,Republican,https://gohmert.com/,LouieGohmertTX1,T,65.0,M,Married,T,F,F,R+25,T,56.8,49086.0,S
+940,tony,Texas,1,1,TX,TX01,Shirley McKellar,Democratic,https://www.votemckellar.com/,Vote4McKellar,F,,F,Married,F,F,T,R+25,T,56.8,49086.0,S
+941,tony,Texas,3,3,TX,TX03,Lorie Burch,Democratic,https://lorieburchforcongress.com/,LorieB4Congress,F,,F,Married,T,F,F,R+13,T,96.88,95235.0,S
+942,tony,Texas,3,3,TX,TX03,Christopher Claytor,Libertarian,,,F,49.0,M,Married,T,F,F,R+13,T,96.88,95235.0,S
+943,tony,Texas,3,3,TX,TX03,Van Taylor,Republican,https://www.vantaylor.com/,VanTaylorTX,F,46.0,M,Married,T,F,F,R+13,T,96.88,95235.0,S
+944,tony,Texas,35,35,TX,TX35,Lloyd Doggett,Democratic,https://www.votedoggett.com/,lloyddoggetttx,T,72.0,M,Married,T,F,F,D+15,T,95.99,48284.0,S
+945,tony,Texas,35,35,TX,TX35,David Smalling,Republican,https://www.davidsmallingforcongress.com,SmallingforCD35,F,,M,Married,T,F,F,D+15,T,95.99,48284.0,S
+946,tony,Texas,35,35,TX,TX35,Clark Patterson,Libertarian,http://www.clarkpforcongress.com/,ClarkPatterson,F,59.0,M,Married,T,F,F,D+15,T,95.99,48284.0,S
+947,will,Alabama,3,3,AL,AL03,Mallory Hagan,Democratic,https://www.haganforhouse.com/,ItsMalloryHagan,F,29.0,F,Single,T,F,F,R + 16,T,50.24,46544.0,S
+948,will,Alabama,3,3,AL,AL03,Mike Rogers,Republican,http://www.mikerogersforcongress.com/,MikeRogersCamp,T,60.0,M,Married,T,F,F,R + 16,T,50.24,46544.0,S
+949,will,Arizona,4,4,AZ,AZ04,David Brill,Democratic,http://www.brillforcongress.com/,Brill4Congress,F,65.0,M,Married,T,F,F,R + 21,T,74.12,30624.0,W
+950,will,Arizona,4,4,AZ,AZ04,Paul Gosar,Republican,http://drpaulgosar.com/,RepGosar,T,59.0,M,Married,T,F,F,R + 21,T,74.12,30624.0,W
+951,will,Arizona,4,4,AZ,AZ04,Haryaksha Gregor Knauer,Green,http://www.newmenu.org/HGK,None,F,58.0,M,SIngle,T,F,F,R + 21,T,74.12,30624.0,W
+952,will,California,1,1,CA,CA01,Audrey Denney,Democratic,https://www.audreyforcongress.com/,audrey4congress,F,34.0,F,Single,T,F,F,R +11,T,62.63,41709.0,W
+953,will,California,1,1,CA,CA01,Doug LaMalfa,Republican,http://www.douglamalfa.com/,DougLaMalfa,T,58.0,M,Married,T,F,F,R +11,T,62.63,41709.0,W
+954,will,California,34,34,CA,CA34,Jimmy Gomez,Democratic,http://www.jimmygomezforcongress.com/,jimmygomezca,T,43.0,M,Married,F,T,F,D+35,T,100,32667.0,W
+955,will,California,34,34,CA,CA34,Kenneth Mejia,Green,http://kennethmejiaforcongress.nationbuilder.com/,25forcongress,F,27.0,M,Single,F,T,F,D+35,T,100,32667.0,W
+956,will,California,43,43,CA,CA43,Omar Navarro,Republican,http://www.omarnavarro.com/,RealOmarNavarro,F,29.0,M,Married,F,T,F,D+29,T,100,44230.0,W
+957,will,California,43,43,CA,CA43,Maxine Waters,Democratic,https://maxinewatersforcongress.com/,MaxineWaters,T,80.0,F,Married,F,F,T,D+29,T,100,44230.0,W
+958,will,Connecticut,5,5,CT,CT05,Jahana Hayes,Democratic,https://www.jahanahayes.com/,JahanaHayesCT,F,45.0,F,Married,F,F,T,D+2,T,85.79,63275.0,NE
+959,will,Connecticut,5,5,CT,CT05,Manny Santos,Republican,https://www.santosforcongress.com/,Santos4Congress,F,63.0,M,Married,F,T,F,D+2,T,85.79,63275.0,NE
+960,will,Florida,3,3,FL,FL03,Yvonne Hayes Hinson,Democratic,https://www.yvonneforcongress.com/,YvonneHinsonFL,F,70.0,F,Single,F,F,T,R+9,T,56.39,42966.0,S
+961,will,Florida,3,3,FL,FL03,Ted Yoho,Republican,http://www.tedyoho.com/,TedYoho,T,63.0,M,Married,T,F,F,R+9,T,56.39,42966.0,S
+962,will,Florida,13,13,FL,FL13,George Buck,Republican,https://www.georgebuckjr.com/,gbuck_jr,F,63.0,M,Single,T,F,F,D+2,T,99.95,42827.0,S
+963,will,Florida,13,13,FL,FL13,Charlie Crist,Democratic,https://twitter.com/charliecristfl,CharlieCrist,T,62.0,M,Married,T,F,F,D+2,T,99.95,42827.0,S
+964,will,Florida,26,26,FL,FL26,Carlos Curbelo,Republican,http://www.carloscurbelo.com/,carloslcurbelo,T,38.0,M,Married,T,F,F,D+6,T,97.71,48899.0,S
+965,will,Florida,26,26,FL,FL26,Debbie Mucarsel-Powell,Democratic,http://debbiemucarselpowell.com/,DebbieforFL,F,47.0,F,Married,T,F,F,D+6,T,97.71,48899.0,S
+966,will,Illinois,2,2,IL,IL02,Robin Kelly,Democratic,http://robinkellyforcongress.org/,RobinLynneKelly,T,62.0,F,Married,F,F,T,D+29,T,94.72,45572.0,MW
+967,will,Illinois,2,2,IL,IL02,David Merkle,Republican,https://www.facebook.com/DavidMerkleMindset/,,F,65.0,M,Single,T,F,F,D+29,T,94.72,45572.0,MW
+968,will,Illinois,11,11,IL,IL11,Bill Foster,Democratic,http://www.billfoster.com/,Foster4Congress,T,63.0,M,Married,T,F,F,D+9,T,99.74,65938.0,MW
+969,will,Illinois,11,11,IL,IL11,Nick Stella,Republican,http://stellaforcongress.com/,NickStellaMD,F,49.0,M,Married,T,F,F,D+9,T,99.74,65938.0,MW
+970,will,Louisiana,2,2,LA,LA02,Cedric Richmond,Democratic,http://www.cedricrichmond.com/,CedricRichmond,T,45.0,M,Married,F,F,T,D+25,F,94.58,34603.0,S
+971,will,Maryland,1,1,MD,MD01,Jesse Colvin,Democratic,http://jessecolvin.com/,Colvin4Congress,F,34.0,M,Married,T,F,F,R+14,T,59.41,64151.0,S
+972,will,Maryland,1,1,MD,MD01,Andy Harris,Republican,http://www.andyharris.com/,Harris4Congress,T,61.0,M,Married,T,F,F,R+14,T,59.41,64151.0,S
+973,will,Maryland,1,1,MD,MD01,Jenica Martin,Libertarian,http://www.martin4congress.us/,martin4maryland,F,39.0,F,Single,F,F,T,R+14,T,59.41,64151.0,S
+974,will,Maryland,4,4,MD,MD04,David Bishop,Libertarian,http://www.bishop4congress.com/,Bishop4House,F,50.0,M,Married,T,F,F,D+28,T,98.57,71135.0,S
+975,will,Maryland,4,4,MD,MD04,Anthony Brown,Democratic,http://www.anthonybrown.com/,AnthonyBrownMD4,T,56.0,M,Married,F,F,T,D+28,T,98.57,71135.0,S
+976,will,Maryland,4,4,MD,MD04,George McDermott,Republican,http://georgemcdermott.com/,GeorgeMcDermot3,F,73.0,M,Married,T,F,F,D+28,T,98.57,71135.0,S
+977,will,Massachusetts,1,1,MA,MA01,Richard Neal,Democratic,http://www.nealforcongress.com/,RepRichardNeal,T,69.0,M,Married,T,F,F,D+12,F,80.8,49270.0,NE
+978,will,Minnesota,1,1,MN,MN01,Dan Feehan,Democratic,https://danfeehan.com/,danielfeehan,F,40.0,M,Married,T,F,F,R+5,T,62.53,52335.0,MW
+979,will,Minnesota,1,1,MN,MN01,Jim Hagedorn,Republican,http://www.jimhagedorn.org/,JimHagedornMN,F,56.0,M,Single,T,F,F,R+5,T,62.53,52335.0,MW
+980,will,Missouri,6,6,MO,MO06,Sam Graves,Republican,http://www.gravesforcongress.com/,RepSamGraves,T,54.0,M,Married,T,F,F,R+12,T,61.39,49367.0,MW
+981,will,Missouri,6,6,MO,MO06,Dan Hogan,Libertarian,http://hogan4congress2016.my-free.website/,Hogan4Congress,F,36.0,M,Married,T,F,F,R+12,T,61.39,49367.0,MW
+982,will,Missouri,6,6,MO,MO06,Henry Martin,Democratic,http://www.henrymartinforcongress.com/,hmforcongress,F,48.0,M,Married,F,F,T,R+12,T,61.39,49367.0,MW
+983,will,New Jersey,6,6,NJ,NJ06,Frank Pallone,Democratic,http://www.pallonefornewjersey.com/,pallonefornj,F,66.0,M,Married,T,F,F,R+2,T,100,70878.0,NE
+984,will,New Jersey,6,6,NJ,NJ06,Rich Pezzullo,Republican,http://www.pezzullo.com/,RichPezzulloNJ,T,59.0,M,Married,T,F,F,R+2,T,100,70878.0,NE
+985,will,New Mexico,1,1,NM,NM01,Janice Arnold-Jones,Republican,https://www.janiceforcongress2018.com/,LadySunshineNM,F,66.0,M,Married,T,F,F,D+7,T,92.21,43618.0,W
+986,will,New Mexico,1,1,NM,NM01,Debra Haaland,Democratic,http://debforcongress.com/,Deb4CongressNM,T,58.0,F,Single,T,F,F,D+7,T,92.21,43618.0,W
+987,will,New Mexico,1,1,NM,NM01,Lloyd Princeton,Libertarian,https://lloydprinceton.com/,LloydPrinceton,F,49.0,M,Single,T,F,F,D+7,T,92.21,43618.0,W
+988,will,New York,3,3,NY,NY03,Dan DeBono,Republican,http://www.debonoforcongress.com/,DanDeBono,F,49.0,M,Married,T,F,F,D+1,T,99.44,95699.0,NE
+989,will,New York,3,3,NY,NY03,Tom Suozzi,Democratic,https://suozziforcongress.com/,Tom_Suozzi,T,56.0,M,Married,T,F,F,D+1,T,99.44,95699.0,NE
+990,will,New York,25,25,NY,NY25,Jim Maxwell,Republican,https://drjimmaxwell.com/,drjimmaxwell,F,69.0,M,Single,T,F,F,D+8,T,95.52,49343.0,NE
+991,will,New York,25,25,NY,NY25,Joe Morelle,Democratic,https://www.votemorelle.com/,votemorelle,F,60.0,M,Married,T,F,F,D+8,T,95.52,49343.0,NE
+992,will,North Carolina,9,9,NC,NC09,Mark Harris,Republican,https://www.markharrisforcongress.com/,MarkHarrisNC9,T,52.0,M,Married,T,F,F,R+8,T,90.96,65681.0,S
+993,will,North Carolina,9,9,NC,NC09,Dan McCready,Democratic,http://www.danmccready.com/,McCreadyForNC,F,35.0,M,Married,T,F,F,R+8,T,90.96,65681.0,S
+994,will,North Carolina,9,9,NC,NC09,Jeff Scott,Libertarian,http://lpmeck.org/jeff-scott/,Kleptosclerosis,F,61.0,M,Single,T,F,F,R+8,T,90.96,65681.0,S
+995,will,Ohio,4,4,OH,OH04,Janet Garrett,Democratic,http://www.janetgarrett.com/,Janet4OH,F,65.0,F,Married,T,F,F,R+14,T,63.02,45326.0,MW
+996,will,Ohio,4,4,OH,OH04,Jim Jordan,Republican,http://jimjordanforcongress.com/,Votejimjordan,T,54.0,M,Married,T,F,F,R+14,T,63.02,45326.0,MW
+997,will,Ohio,8,8,OH,OH08,Warren Davidson,Republican,http://www.davidsonforcongress.com/,Vote_Davidson,T,48.0,M,Married,T,F,F,R+17,T,75.68,48452.0,MW
+998,will,Ohio,8,8,OH,OH08,Vanessa Enoch,Democratic,https://enochforcongress.com/,DrVEnoch,F,48.0,F,Single,F,F,T,R+17,T,75.68,48452.0,MW
+999,will,Oregon,5,5,OR,OR05,Mark Callahan,Republican,http://callahanfororegon.com/,Callahan4Oregon,F,41.0,M,Single,T,F,F,EVEN,T,84.26,49677.0,W
+1000,will,Oregon,5,5,OR,OR05,Kurt Schrader,Democratic,http://www.kurtschrader.com/,VoteSchrader,T,66.0,M,Single,T,F,F,EVEN,T,84.26,49677.0,W
+1001,will,Pennsylvania,6,6,PA,PA06,Chrissy Houlahan,Democratic,http://www.chrissyhoulahanforcongress.com/,HoulahanForPa,F,51.0,F,Married,T,F,F,D+2,T,89.07,69570.0,NE
+1002,will,Pennsylvania,6,6,PA,PA06,Greg McCauley,Republican,https://mccauleyforcongress.com/,McCauley4PA,F,62.0,M,Married,T,F,F,D+2,T,89.07,69570.0,NE
+1003,will,Pennsylvania,12,12,PA,PA12,Marc Friedenberg,Democratic,http://www.marcforpa.com/,MarcForPA,F,34.0,M,Married,F,T,F,R+17,T,74.68,53080.0,NE
+1004,will,Pennsylvania,12,12,PA,PA12,Jerry Kairnes,Independent,http://www.jerrykairnesforcongress.com/,gogojerrygo,F,48.0,M,Single,T,F,F,R+17,T,74.68,53080.0,NE
+1005,will,Pennsylvania,12,12,PA,PA12,Tom Marino,Republican,http://www.tommarinoforcongress.com/,MarinoPA10,T,66.0,M,Married,T,F,F,R+17,T,74.68,53080.0,NE
+1006,will,Pennsylvania,15,15,PA,PA15,Susan Boser,Democratic,https://www.susanboserforcongress.com/,BoserforPA,F,61.0,F,Unknown,T,F,F,R+20,T,82.89,54470.0,NE
+1007,will,Pennsylvania,15,15,PA,PA15,Glenn Thompson,Republican,http://www.friendsofglennthompson.com/,GT_TeamGT,T,59.0,M,Married,T,F,F,R+20,T,82.89,54470.0,NE
+1008,will,Tennessee,1,1,TN,TN01,Marty Olsen,Democratic,http://olsenforcongress.com/,martyo4congress,F,58.0,M,Married,T,F,F,R+28,T,57.46,37197.0,S
+1009,will,Tennessee,1,1,TN,TN01,Phil Roe,Republican,http://www.roe4congress.com/,DrPhilRoe,T,72.0,M,Married,T,F,F,R+28,T,57.46,37197.0,S
+1010,will,Tennessee,1,1,TN,TN01,Michael Salyer,Independent,https://www.facebook.com/SalyerForUSCongress,Salyer2012,F,51.0,M,Single,T,F,F,R+28,T,57.46,37197.0,S
+1011,will,Tennessee,2,2,TN,TN02,Tim Burchett,Republican,https://www.burchettforcongress.com/,timburchett,F,52.0,M,Married,T,F,F,R+20,T,74.15,43576.0,S
+1012,will,Tennessee,2,2,TN,TN02,Jeffrey Grunau,Independent,http://reasonanddecency.com/,,F,56.0,M,Unknown,T,F,F,R+20,T,74.15,43576.0,S
+1013,will,Tennessee,2,2,TN,TN02,Renee Hoyos,Democratic,http://hoyosforcongress.com/,Hoyos4Congress,F,52.0,F,Single,T,F,F,R+20,T,74.15,43576.0,S
+1014,will,Tennessee,2,2,TN,TN02,Greg Samples,Independent,http://gregsamples4congress.com/,gregsamples,F,67.0,M,Married,T,F,F,R+20,T,74.15,43576.0,S
+1015,will,Tennessee,2,2,TN,TN02,Marc Whitmire,Independent,https://whitmire2018.com/,whitmire2018,F,35.0,M,Married,T,F,F,R+20,T,74.15,43576.0,S
+1016,will,Tennessee,3,3,TN,TN03,Chuck Fleischmann,Republican,https://www.chuckforcongress.com/,chuck4congress,T,55.0,M,Married,T,F,F,R+18,T,62.76,38020.0,S
+1017,will,Tennessee,3,3,TN,TN03,Danielle Mitchell,Democratic,https://www.mitchell4congress.com/,DMMD4TNCongress,F,41.0,F,Unknown,T,F,F,R+18,T,62.76,38020.0,S
+1018,will,Tennessee,3,3,TN,TN03,Rick Tyler,Independent,http://ricktylerforcongress.com/,USAWhiteAgain,F,61.0,M,Unknown,T,F,F,R+18,T,62.76,38020.0,S
+1019,will,Tennessee,4,4,TN,TN04,Scott DesJarlais,Republican,http://www.scottdesjarlais.com/,tndesjarlais,T,54.0,M,Married,T,F,F,R+20,T,56.16,42506.0,S
+1020,will,Tennessee,4,4,TN,TN04,Mariah Phillips,Democratic,https://www.mariah4congress.com/,Mariah4Congress,F,42.0,F,Married,T,F,F,R+20,T,56.16,42506.0,S
+1021,will,Tennessee,4,4,TN,TN04,Michael Shupe,Independent,https://www.facebook.com/Mike-for-Congress-1893543124307166/,mike4congresstn,F,58.0,M,Unknown,T,F,F,R+20,T,56.16,42506.0,S
+1022,will,Texas,4,4,TX,TX04,Ken Ashby,Libertarian,,,F,60.0,M,Married,T,F,F,R+28,T,48.85,46846.0,S
+1023,will,Texas,4,4,TX,TX04,Catherine Krantz,Democratic,http://catherinekrantzforcongress.com/,Krantz4Congress,F,47.0,F,Single,T,F,F,R+28,T,48.85,46846.0,S
+1024,will,Texas,4,4,TX,TX04,John Ratcliffe,Republican,http://ratcliffeforcongress.com/,RatcliffeTX4,T,52.0,M,Married,T,F,F,R+28,T,48.85,46846.0,S
+1025,will,Texas,6,6,TX,TX06,Jason Allen Harber,Libertarian,,,F,39.0,M,Unknown,T,F,F,R+9,T,88.69,55788.0,S
+1026,will,Texas,6,6,TX,TX06,Jana Lynne Sanchez,Democratic,https://sanchez4texas.com/,janasanchez,F,54.0,F,Unknown,F,T,F,R+9,T,88.69,55788.0,S
+1027,will,Texas,6,6,TX,TX06,Ron Wright,Republican,https://www.wright4congress.com/,ron4congress,T,51.0,M,Married,T,F,F,R+9,T,88.69,55788.0,S
+1028,will,Texas,16,16,TX,TX16,Veronica Escobar,Democratic,http://www.veronicaescobar.com/,vgescobar,T,49.0,F,Married,F,T,F,D+17,T,98.36,41434.0,S
+1029,will,Texas,16,16,TX,TX16,Ben Mendoza,Independent,https://benmenus2018.com/,bentex2055,F,52.0,M,Unknown,F,T,F,D+17,T,98.36,41434.0,S
+1030,will,Texas,16,16,TX,TX16,Rick Seeberger,Republican,https://www.seebergerforcongress.com/,RickSeeberger,F,64.0,M,Unknown,T,f,F,D+17,T,98.36,41434.0,S
+1031,will,Texas,20,20,TX,TX20,Jeffrey Blunt,Libertarian,,,F,55.0,M,Unknown,T,F,F,D+10,T,99.62,42934.0,S
+1032,will,Texas,20,20,TX,TX20,Joaquín Castro,Democratic,http://www.castroforcongress.com/,Castro4Congress,T,44.0,M,Married,F,T,F,D+10,T,99.62,42934.0,S
+1033,will,Utah,2,2,UT,UT02,Jan Garbett,United Utah,https://www.jangarbettforcongress.com/,VoteJanGarbett,F,62.0,F,Married,T,F,F,R+16,T,87.04,49178.0,W
+1034,will,Utah,2,2,UT,UT02,Shireen Ghorbani,Democratic,http://shireenforcongress.com/,ShireenGhorbani,F,37.0,F,Married,T,F,F,R+16,T,87.04,49178.0,W
+1035,will,Utah,2,2,UT,UT02,Chris Stewart,Republican,http://www.stewartforutah.com/,StewartforUtah,T,58.0,M,Married,T,F,F,R+16,T,87.04,49178.0,W
+1036,will,Utah,2,2,UT,UT02,Jeffrey Whipple,Libertarian,https://www.whippleforcongress.org/,jeffreywhipple,F,32.0,M,Married,T,F,F,R+16,T,87.04,49178.0,W
+1037,will,Virginia,10,10,VA,VA10,Barbara Comstock,Republican,http://www.barbaracomstockforcongress.com/,BarbaraComstock,T,59.0,F,Married,T,F,F,D+1,T,85.53,109505.0,S
+1038,will,Virginia,10,10,VA,VA10,Jennifer Wexton,Democratic,http://jenniferwexton.com/,JenniferWexton,F,50.0,F,Married,T,F,F,D+1,T,85.53,109505.0,S
+1039,will,West Virginia,1,1,WV,WV01,Kendra Fershee,Democratic,http://www.teamkendrawv.com/,teamkendrawv,F,45.0,F,Married,T,F,F,R+19,T,54.79,39170.0,S
+1040,will,West Virginia,1,1,WV,WV01,David McKinley,Republican,http://www.mckinley2016.com/,McKinleyforWV,T,71.0,M,Married,T,F,F,R+19,T,54.79,39170.0,S
+1041,will,Oregon,5,5,OR,OR05,Marvin Sandnes,Green,https://marvinsandnes.org/,MarvinSandnes,F,62.0,M,Married,T,F,F,EVEN,T,84.26,49677.0,W
